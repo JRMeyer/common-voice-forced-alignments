@@ -1,0 +1,100 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 3.84
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "words"
+		xmin = 0.0
+		xmax = 3.84
+		intervals: size = 7
+			intervals [1]:
+				xmin = 0.0
+				xmax = 0.640
+				text = ""
+			intervals [2]:
+				xmin = 0.640
+				xmax = 1.230
+				text = "<unk>"
+			intervals [3]:
+				xmin = 1.230
+				xmax = 1.830
+				text = "<unk>"
+			intervals [4]:
+				xmin = 1.830
+				xmax = 1.890
+				text = ""
+			intervals [5]:
+				xmin = 1.890
+				xmax = 2.480
+				text = "அசைத்த"
+			intervals [6]:
+				xmin = 2.480
+				xmax = 2.880
+				text = "<unk>"
+			intervals [7]:
+				xmin = 2.880
+				xmax = 3.84
+				text = ""
+	item [2]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 3.84
+		intervals: size = 13
+			intervals [1]:
+				xmin = 0.000
+				xmax = 0.640
+				text = "sil"
+			intervals [2]:
+				xmin = 0.640
+				xmax = 1.230
+				text = "spn"
+			intervals [3]:
+				xmin = 1.230
+				xmax = 1.830
+				text = "spn"
+			intervals [4]:
+				xmin = 1.830
+				xmax = 1.890
+				text = "sp"
+			intervals [5]:
+				xmin = 1.890
+				xmax = 1.960
+				text = "அ"
+			intervals [6]:
+				xmin = 1.960
+				xmax = 2.090
+				text = "ச"
+			intervals [7]:
+				xmin = 2.090
+				xmax = 2.170
+				text = "ை"
+			intervals [8]:
+				xmin = 2.170
+				xmax = 2.210
+				text = "த"
+			intervals [9]:
+				xmin = 2.210
+				xmax = 2.310
+				text = "்"
+			intervals [10]:
+				xmin = 2.310
+				xmax = 2.480
+				text = "த"
+			intervals [11]:
+				xmin = 2.480
+				xmax = 2.880
+				text = "spn"
+			intervals [12]:
+				xmin = 2.880
+				xmax = 3.820
+				text = "sp"
+			intervals [13]:
+				xmin = 3.820
+				xmax = 3.84
+				text = ""

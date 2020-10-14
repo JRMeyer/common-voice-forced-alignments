@@ -1,0 +1,108 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 3.0
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "words"
+		xmin = 0.0
+		xmax = 3.0
+		intervals: size = 6
+			intervals [1]:
+				xmin = 0.0
+				xmax = 0.490
+				text = ""
+			intervals [2]:
+				xmin = 0.490
+				xmax = 0.950
+				text = "każę"
+			intervals [3]:
+				xmin = 0.950
+				xmax = 1.150
+				text = "ci"
+			intervals [4]:
+				xmin = 1.150
+				xmax = 1.730
+				text = "jeść"
+			intervals [5]:
+				xmin = 1.730
+				xmax = 2.360
+				text = "dać"
+			intervals [6]:
+				xmin = 2.360
+				xmax = 3.0
+				text = ""
+	item [2]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 3.0
+		intervals: size = 16
+			intervals [1]:
+				xmin = 0.000
+				xmax = 0.490
+				text = "sil"
+			intervals [2]:
+				xmin = 0.490
+				xmax = 0.570
+				text = "k"
+			intervals [3]:
+				xmin = 0.570
+				xmax = 0.670
+				text = "a"
+			intervals [4]:
+				xmin = 0.670
+				xmax = 0.790
+				text = "ż"
+			intervals [5]:
+				xmin = 0.790
+				xmax = 0.950
+				text = "ę"
+			intervals [6]:
+				xmin = 0.950
+				xmax = 1.090
+				text = "c"
+			intervals [7]:
+				xmin = 1.090
+				xmax = 1.150
+				text = "i"
+			intervals [8]:
+				xmin = 1.150
+				xmax = 1.380
+				text = "j"
+			intervals [9]:
+				xmin = 1.380
+				xmax = 1.420
+				text = "e"
+			intervals [10]:
+				xmin = 1.420
+				xmax = 1.560
+				text = "ś"
+			intervals [11]:
+				xmin = 1.560
+				xmax = 1.730
+				text = "ć"
+			intervals [12]:
+				xmin = 1.730
+				xmax = 1.790
+				text = "d"
+			intervals [13]:
+				xmin = 1.790
+				xmax = 1.920
+				text = "a"
+			intervals [14]:
+				xmin = 1.920
+				xmax = 2.360
+				text = "ć"
+			intervals [15]:
+				xmin = 2.360
+				xmax = 2.980
+				text = "sp"
+			intervals [16]:
+				xmin = 2.980
+				xmax = 3.0
+				text = ""

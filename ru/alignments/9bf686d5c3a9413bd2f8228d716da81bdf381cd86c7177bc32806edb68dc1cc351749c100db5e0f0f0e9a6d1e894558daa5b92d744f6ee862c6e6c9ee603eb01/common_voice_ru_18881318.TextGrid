@@ -1,0 +1,128 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 3.0
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "words"
+		xmin = 0.0
+		xmax = 3.0
+		intervals: size = 6
+			intervals [1]:
+				xmin = 0.0
+				xmax = 0.450
+				text = ""
+			intervals [2]:
+				xmin = 0.450
+				xmax = 0.790
+				text = "бить"
+			intervals [3]:
+				xmin = 0.790
+				xmax = 1.030
+				text = "буду"
+			intervals [4]:
+				xmin = 1.030
+				xmax = 1.350
+				text = "тебя"
+			intervals [5]:
+				xmin = 1.350
+				xmax = 1.830
+				text = "одного"
+			intervals [6]:
+				xmin = 1.830
+				xmax = 3.0
+				text = ""
+	item [2]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 3.0
+		intervals: size = 21
+			intervals [1]:
+				xmin = 0.000
+				xmax = 0.450
+				text = "sil"
+			intervals [2]:
+				xmin = 0.450
+				xmax = 0.590
+				text = "б"
+			intervals [3]:
+				xmin = 0.590
+				xmax = 0.690
+				text = "и"
+			intervals [4]:
+				xmin = 0.690
+				xmax = 0.740
+				text = "т"
+			intervals [5]:
+				xmin = 0.740
+				xmax = 0.790
+				text = "ь"
+			intervals [6]:
+				xmin = 0.790
+				xmax = 0.860
+				text = "б"
+			intervals [7]:
+				xmin = 0.860
+				xmax = 0.910
+				text = "у"
+			intervals [8]:
+				xmin = 0.910
+				xmax = 0.970
+				text = "д"
+			intervals [9]:
+				xmin = 0.970
+				xmax = 1.030
+				text = "у"
+			intervals [10]:
+				xmin = 1.030
+				xmax = 1.140
+				text = "т"
+			intervals [11]:
+				xmin = 1.140
+				xmax = 1.180
+				text = "е"
+			intervals [12]:
+				xmin = 1.180
+				xmax = 1.230
+				text = "б"
+			intervals [13]:
+				xmin = 1.230
+				xmax = 1.350
+				text = "я"
+			intervals [14]:
+				xmin = 1.350
+				xmax = 1.390
+				text = "о"
+			intervals [15]:
+				xmin = 1.390
+				xmax = 1.420
+				text = "д"
+			intervals [16]:
+				xmin = 1.420
+				xmax = 1.490
+				text = "н"
+			intervals [17]:
+				xmin = 1.490
+				xmax = 1.550
+				text = "о"
+			intervals [18]:
+				xmin = 1.550
+				xmax = 1.650
+				text = "г"
+			intervals [19]:
+				xmin = 1.650
+				xmax = 1.830
+				text = "о"
+			intervals [20]:
+				xmin = 1.830
+				xmax = 2.980
+				text = "sp"
+			intervals [21]:
+				xmin = 2.980
+				xmax = 3.0
+				text = ""

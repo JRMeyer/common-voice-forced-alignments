@@ -1,0 +1,116 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 2.52
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "words"
+		xmin = 0.0
+		xmax = 2.52
+		intervals: size = 6
+			intervals [1]:
+				xmin = 0.0
+				xmax = 0.510
+				text = ""
+			intervals [2]:
+				xmin = 0.510
+				xmax = 0.750
+				text = "она"
+			intervals [3]:
+				xmin = 0.750
+				xmax = 0.970
+				text = "была"
+			intervals [4]:
+				xmin = 0.970
+				xmax = 1.080
+				text = "не"
+			intervals [5]:
+				xmin = 1.080
+				xmax = 1.640
+				text = "вправе"
+			intervals [6]:
+				xmin = 1.640
+				xmax = 2.52
+				text = ""
+	item [2]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 2.52
+		intervals: size = 18
+			intervals [1]:
+				xmin = 0.000
+				xmax = 0.510
+				text = "sil"
+			intervals [2]:
+				xmin = 0.510
+				xmax = 0.600
+				text = "о"
+			intervals [3]:
+				xmin = 0.600
+				xmax = 0.670
+				text = "н"
+			intervals [4]:
+				xmin = 0.670
+				xmax = 0.750
+				text = "а"
+			intervals [5]:
+				xmin = 0.750
+				xmax = 0.820
+				text = "б"
+			intervals [6]:
+				xmin = 0.820
+				xmax = 0.850
+				text = "ы"
+			intervals [7]:
+				xmin = 0.850
+				xmax = 0.930
+				text = "л"
+			intervals [8]:
+				xmin = 0.930
+				xmax = 0.970
+				text = "а"
+			intervals [9]:
+				xmin = 0.970
+				xmax = 1.040
+				text = "н"
+			intervals [10]:
+				xmin = 1.040
+				xmax = 1.080
+				text = "е"
+			intervals [11]:
+				xmin = 1.080
+				xmax = 1.210
+				text = "в"
+			intervals [12]:
+				xmin = 1.210
+				xmax = 1.260
+				text = "п"
+			intervals [13]:
+				xmin = 1.260
+				xmax = 1.340
+				text = "р"
+			intervals [14]:
+				xmin = 1.340
+				xmax = 1.470
+				text = "а"
+			intervals [15]:
+				xmin = 1.470
+				xmax = 1.520
+				text = "в"
+			intervals [16]:
+				xmin = 1.520
+				xmax = 1.640
+				text = "е"
+			intervals [17]:
+				xmin = 1.640
+				xmax = 2.500
+				text = "sp"
+			intervals [18]:
+				xmin = 2.500
+				xmax = 2.52
+				text = ""

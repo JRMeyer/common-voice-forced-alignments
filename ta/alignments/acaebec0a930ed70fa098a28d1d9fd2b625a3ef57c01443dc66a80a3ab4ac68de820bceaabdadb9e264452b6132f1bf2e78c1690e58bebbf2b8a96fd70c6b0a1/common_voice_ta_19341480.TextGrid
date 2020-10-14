@@ -1,0 +1,124 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 4.8
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "words"
+		xmin = 0.0
+		xmax = 4.8
+		intervals: size = 7
+			intervals [1]:
+				xmin = 0.0
+				xmax = 0.890
+				text = ""
+			intervals [2]:
+				xmin = 0.890
+				xmax = 1.600
+				text = "பூவோட"
+			intervals [3]:
+				xmin = 1.600
+				xmax = 2.290
+				text = "பேசாத"
+			intervals [4]:
+				xmin = 2.290
+				xmax = 2.430
+				text = ""
+			intervals [5]:
+				xmin = 2.430
+				xmax = 2.980
+				text = "<unk>"
+			intervals [6]:
+				xmin = 2.980
+				xmax = 3.230
+				text = "இல்ல"
+			intervals [7]:
+				xmin = 3.230
+				xmax = 4.8
+				text = ""
+	item [2]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 4.8
+		intervals: size = 19
+			intervals [1]:
+				xmin = 0.000
+				xmax = 0.890
+				text = "sil"
+			intervals [2]:
+				xmin = 0.890
+				xmax = 0.990
+				text = "ப"
+			intervals [3]:
+				xmin = 0.990
+				xmax = 1.020
+				text = "ூ"
+			intervals [4]:
+				xmin = 1.020
+				xmax = 1.050
+				text = "வ"
+			intervals [5]:
+				xmin = 1.050
+				xmax = 1.570
+				text = "ோ"
+			intervals [6]:
+				xmin = 1.570
+				xmax = 1.600
+				text = "ட"
+			intervals [7]:
+				xmin = 1.600
+				xmax = 1.660
+				text = "ப"
+			intervals [8]:
+				xmin = 1.660
+				xmax = 1.790
+				text = "ே"
+			intervals [9]:
+				xmin = 1.790
+				xmax = 1.980
+				text = "ச"
+			intervals [10]:
+				xmin = 1.980
+				xmax = 2.100
+				text = "ா"
+			intervals [11]:
+				xmin = 2.100
+				xmax = 2.290
+				text = "த"
+			intervals [12]:
+				xmin = 2.290
+				xmax = 2.430
+				text = "sp"
+			intervals [13]:
+				xmin = 2.430
+				xmax = 2.980
+				text = "spn"
+			intervals [14]:
+				xmin = 2.980
+				xmax = 3.090
+				text = "இ"
+			intervals [15]:
+				xmin = 3.090
+				xmax = 3.130
+				text = "ல"
+			intervals [16]:
+				xmin = 3.130
+				xmax = 3.200
+				text = "்"
+			intervals [17]:
+				xmin = 3.200
+				xmax = 3.230
+				text = "ல"
+			intervals [18]:
+				xmin = 3.230
+				xmax = 4.780
+				text = "sp"
+			intervals [19]:
+				xmin = 4.780
+				xmax = 4.8
+				text = ""

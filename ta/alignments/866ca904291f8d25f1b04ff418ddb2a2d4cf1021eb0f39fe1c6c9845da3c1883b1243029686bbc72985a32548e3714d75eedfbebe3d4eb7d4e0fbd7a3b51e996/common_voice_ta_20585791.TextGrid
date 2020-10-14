@@ -1,0 +1,84 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 4.32
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "words"
+		xmin = 0.0
+		xmax = 4.32
+		intervals: size = 6
+			intervals [1]:
+				xmin = 0.000
+				xmax = 0.860
+				text = "<unk>"
+			intervals [2]:
+				xmin = 0.860
+				xmax = 1.660
+				text = "லேஇள"
+			intervals [3]:
+				xmin = 1.660
+				xmax = 2.410
+				text = "<unk>"
+			intervals [4]:
+				xmin = 2.410
+				xmax = 2.930
+				text = ""
+			intervals [5]:
+				xmin = 2.930
+				xmax = 3.240
+				text = "<unk>"
+			intervals [6]:
+				xmin = 3.240
+				xmax = 4.32
+				text = ""
+	item [2]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 4.32
+		intervals: size = 10
+			intervals [1]:
+				xmin = 0.000
+				xmax = 0.860
+				text = "spn"
+			intervals [2]:
+				xmin = 0.860
+				xmax = 1.190
+				text = "ல"
+			intervals [3]:
+				xmin = 1.190
+				xmax = 1.490
+				text = "ே"
+			intervals [4]:
+				xmin = 1.490
+				xmax = 1.520
+				text = "இ"
+			intervals [5]:
+				xmin = 1.520
+				xmax = 1.660
+				text = "ள"
+			intervals [6]:
+				xmin = 1.660
+				xmax = 2.410
+				text = "spn"
+			intervals [7]:
+				xmin = 2.410
+				xmax = 2.930
+				text = "sp"
+			intervals [8]:
+				xmin = 2.930
+				xmax = 3.240
+				text = "spn"
+			intervals [9]:
+				xmin = 3.240
+				xmax = 4.300
+				text = "sp"
+			intervals [10]:
+				xmin = 4.300
+				xmax = 4.32
+				text = ""

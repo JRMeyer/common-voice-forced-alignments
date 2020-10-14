@@ -1,0 +1,88 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 4.32
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "words"
+		xmin = 0.0
+		xmax = 4.32
+		intervals: size = 8
+			intervals [1]:
+				xmin = 0.0
+				xmax = 1.110
+				text = ""
+			intervals [2]:
+				xmin = 1.110
+				xmax = 1.440
+				text = "<unk>"
+			intervals [3]:
+				xmin = 1.440
+				xmax = 1.610
+				text = "<unk>"
+			intervals [4]:
+				xmin = 1.610
+				xmax = 2.180
+				text = ""
+			intervals [5]:
+				xmin = 2.180
+				xmax = 2.430
+				text = "<unk>"
+			intervals [6]:
+				xmin = 2.430
+				xmax = 2.860
+				text = ""
+			intervals [7]:
+				xmin = 2.860
+				xmax = 3.280
+				text = "<unk>"
+			intervals [8]:
+				xmin = 3.280
+				xmax = 4.32
+				text = ""
+	item [2]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 4.32
+		intervals: size = 9
+			intervals [1]:
+				xmin = 0.000
+				xmax = 1.110
+				text = "sil"
+			intervals [2]:
+				xmin = 1.110
+				xmax = 1.440
+				text = "spn"
+			intervals [3]:
+				xmin = 1.440
+				xmax = 1.610
+				text = "spn"
+			intervals [4]:
+				xmin = 1.610
+				xmax = 2.180
+				text = "sp"
+			intervals [5]:
+				xmin = 2.180
+				xmax = 2.430
+				text = "spn"
+			intervals [6]:
+				xmin = 2.430
+				xmax = 2.860
+				text = "sp"
+			intervals [7]:
+				xmin = 2.860
+				xmax = 3.280
+				text = "spn"
+			intervals [8]:
+				xmin = 3.280
+				xmax = 4.300
+				text = "sp"
+			intervals [9]:
+				xmin = 4.300
+				xmax = 4.32
+				text = ""

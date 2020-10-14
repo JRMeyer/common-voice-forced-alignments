@@ -1,0 +1,128 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 4.32
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "words"
+		xmin = 0.0
+		xmax = 4.32
+		intervals: size = 7
+			intervals [1]:
+				xmin = 0.0
+				xmax = 0.480
+				text = ""
+			intervals [2]:
+				xmin = 0.480
+				xmax = 0.720
+				text = "<unk>"
+			intervals [3]:
+				xmin = 0.720
+				xmax = 0.860
+				text = ""
+			intervals [4]:
+				xmin = 0.860
+				xmax = 2.250
+				text = "<unk>"
+			intervals [5]:
+				xmin = 2.250
+				xmax = 2.720
+				text = "வாழ்த்த"
+			intervals [6]:
+				xmin = 2.720
+				xmax = 3.340
+				text = "வேண்டும"
+			intervals [7]:
+				xmin = 3.340
+				xmax = 4.32
+				text = ""
+	item [2]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 4.32
+		intervals: size = 20
+			intervals [1]:
+				xmin = 0.000
+				xmax = 0.480
+				text = "sil"
+			intervals [2]:
+				xmin = 0.480
+				xmax = 0.720
+				text = "spn"
+			intervals [3]:
+				xmin = 0.720
+				xmax = 0.860
+				text = "sp"
+			intervals [4]:
+				xmin = 0.860
+				xmax = 2.250
+				text = "spn"
+			intervals [5]:
+				xmin = 2.250
+				xmax = 2.360
+				text = "வ"
+			intervals [6]:
+				xmin = 2.360
+				xmax = 2.440
+				text = "ா"
+			intervals [7]:
+				xmin = 2.440
+				xmax = 2.480
+				text = "ழ"
+			intervals [8]:
+				xmin = 2.480
+				xmax = 2.510
+				text = "்"
+			intervals [9]:
+				xmin = 2.510
+				xmax = 2.570
+				text = "த"
+			intervals [10]:
+				xmin = 2.570
+				xmax = 2.650
+				text = "்"
+			intervals [11]:
+				xmin = 2.650
+				xmax = 2.720
+				text = "த"
+			intervals [12]:
+				xmin = 2.720
+				xmax = 2.830
+				text = "வ"
+			intervals [13]:
+				xmin = 2.830
+				xmax = 2.950
+				text = "ே"
+			intervals [14]:
+				xmin = 2.950
+				xmax = 3.030
+				text = "ண"
+			intervals [15]:
+				xmin = 3.030
+				xmax = 3.080
+				text = "்"
+			intervals [16]:
+				xmin = 3.080
+				xmax = 3.120
+				text = "ட"
+			intervals [17]:
+				xmin = 3.120
+				xmax = 3.180
+				text = "ு"
+			intervals [18]:
+				xmin = 3.180
+				xmax = 3.340
+				text = "ம"
+			intervals [19]:
+				xmin = 3.340
+				xmax = 4.300
+				text = "sp"
+			intervals [20]:
+				xmin = 4.300
+				xmax = 4.32
+				text = ""

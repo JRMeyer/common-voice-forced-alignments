@@ -1,0 +1,100 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 3.432
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "words"
+		xmin = 0.0
+		xmax = 3.432
+		intervals: size = 6
+			intervals [1]:
+				xmin = 0.0
+				xmax = 0.580
+				text = ""
+			intervals [2]:
+				xmin = 0.580
+				xmax = 0.710
+				text = "<unk>"
+			intervals [3]:
+				xmin = 0.710
+				xmax = 0.740
+				text = "<unk>"
+			intervals [4]:
+				xmin = 0.740
+				xmax = 0.820
+				text = "<unk>"
+			intervals [5]:
+				xmin = 0.820
+				xmax = 1.150
+				text = "ஒடுங்கிட"
+			intervals [6]:
+				xmin = 1.150
+				xmax = 3.432
+				text = ""
+	item [2]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 3.432
+		intervals: size = 14
+			intervals [1]:
+				xmin = 0.000
+				xmax = 0.580
+				text = "sil"
+			intervals [2]:
+				xmin = 0.580
+				xmax = 0.710
+				text = "spn"
+			intervals [3]:
+				xmin = 0.710
+				xmax = 0.740
+				text = "spn"
+			intervals [4]:
+				xmin = 0.740
+				xmax = 0.820
+				text = "spn"
+			intervals [5]:
+				xmin = 0.820
+				xmax = 0.860
+				text = "ஒ"
+			intervals [6]:
+				xmin = 0.860
+				xmax = 0.890
+				text = "ட"
+			intervals [7]:
+				xmin = 0.890
+				xmax = 0.920
+				text = "ு"
+			intervals [8]:
+				xmin = 0.920
+				xmax = 0.950
+				text = "ங"
+			intervals [9]:
+				xmin = 0.950
+				xmax = 0.990
+				text = "்"
+			intervals [10]:
+				xmin = 0.990
+				xmax = 1.020
+				text = "க"
+			intervals [11]:
+				xmin = 1.020
+				xmax = 1.090
+				text = "ி"
+			intervals [12]:
+				xmin = 1.090
+				xmax = 1.150
+				text = "ட"
+			intervals [13]:
+				xmin = 1.150
+				xmax = 3.410
+				text = "sp"
+			intervals [14]:
+				xmin = 3.410
+				xmax = 3.432
+				text = ""

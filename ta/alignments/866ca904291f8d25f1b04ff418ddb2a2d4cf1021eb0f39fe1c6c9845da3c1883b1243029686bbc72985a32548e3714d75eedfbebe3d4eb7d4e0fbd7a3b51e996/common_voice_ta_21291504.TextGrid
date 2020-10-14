@@ -1,0 +1,136 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 4.2
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "words"
+		xmin = 0.0
+		xmax = 4.2
+		intervals: size = 8
+			intervals [1]:
+				xmin = 0.0
+				xmax = 0.490
+				text = ""
+			intervals [2]:
+				xmin = 0.490
+				xmax = 0.770
+				text = "<unk>"
+			intervals [3]:
+				xmin = 0.770
+				xmax = 1.310
+				text = "நல்ல"
+			intervals [4]:
+				xmin = 1.310
+				xmax = 2.170
+				text = "புகழ்மிக்க"
+			intervals [5]:
+				xmin = 2.170
+				xmax = 2.330
+				text = ""
+			intervals [6]:
+				xmin = 2.330
+				xmax = 2.850
+				text = "<unk>"
+			intervals [7]:
+				xmin = 2.850
+				xmax = 3.320
+				text = "<unk>"
+			intervals [8]:
+				xmin = 3.320
+				xmax = 4.2
+				text = ""
+	item [2]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 4.2
+		intervals: size = 21
+			intervals [1]:
+				xmin = 0.000
+				xmax = 0.490
+				text = "sil"
+			intervals [2]:
+				xmin = 0.490
+				xmax = 0.770
+				text = "spn"
+			intervals [3]:
+				xmin = 0.770
+				xmax = 1.030
+				text = "ந"
+			intervals [4]:
+				xmin = 1.030
+				xmax = 1.090
+				text = "ல"
+			intervals [5]:
+				xmin = 1.090
+				xmax = 1.160
+				text = "்"
+			intervals [6]:
+				xmin = 1.160
+				xmax = 1.310
+				text = "ல"
+			intervals [7]:
+				xmin = 1.310
+				xmax = 1.520
+				text = "ப"
+			intervals [8]:
+				xmin = 1.520
+				xmax = 1.640
+				text = "ு"
+			intervals [9]:
+				xmin = 1.640
+				xmax = 1.670
+				text = "க"
+			intervals [10]:
+				xmin = 1.670
+				xmax = 1.730
+				text = "ழ"
+			intervals [11]:
+				xmin = 1.730
+				xmax = 1.780
+				text = "்"
+			intervals [12]:
+				xmin = 1.780
+				xmax = 1.830
+				text = "ம"
+			intervals [13]:
+				xmin = 1.830
+				xmax = 1.940
+				text = "ி"
+			intervals [14]:
+				xmin = 1.940
+				xmax = 1.980
+				text = "க"
+			intervals [15]:
+				xmin = 1.980
+				xmax = 2.050
+				text = "்"
+			intervals [16]:
+				xmin = 2.050
+				xmax = 2.170
+				text = "க"
+			intervals [17]:
+				xmin = 2.170
+				xmax = 2.330
+				text = "sp"
+			intervals [18]:
+				xmin = 2.330
+				xmax = 2.850
+				text = "spn"
+			intervals [19]:
+				xmin = 2.850
+				xmax = 3.320
+				text = "spn"
+			intervals [20]:
+				xmin = 3.320
+				xmax = 4.180
+				text = "sp"
+			intervals [21]:
+				xmin = 4.180
+				xmax = 4.2
+				text = ""

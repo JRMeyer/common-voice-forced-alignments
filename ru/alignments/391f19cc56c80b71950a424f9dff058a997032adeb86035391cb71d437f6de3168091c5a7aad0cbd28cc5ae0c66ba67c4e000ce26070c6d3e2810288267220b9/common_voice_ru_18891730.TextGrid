@@ -1,0 +1,124 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 2.4
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "words"
+		xmin = 0.0
+		xmax = 2.4
+		intervals: size = 5
+			intervals [1]:
+				xmin = 0.0
+				xmax = 0.390
+				text = ""
+			intervals [2]:
+				xmin = 0.390
+				xmax = 0.490
+				text = "вы"
+			intervals [3]:
+				xmin = 0.490
+				xmax = 0.800
+				text = "можете"
+			intervals [4]:
+				xmin = 0.800
+				xmax = 1.480
+				text = "разъяснить"
+			intervals [5]:
+				xmin = 1.480
+				xmax = 2.4
+				text = ""
+	item [2]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 2.4
+		intervals: size = 21
+			intervals [1]:
+				xmin = 0.000
+				xmax = 0.390
+				text = "sil"
+			intervals [2]:
+				xmin = 0.390
+				xmax = 0.460
+				text = "в"
+			intervals [3]:
+				xmin = 0.460
+				xmax = 0.490
+				text = "ы"
+			intervals [4]:
+				xmin = 0.490
+				xmax = 0.560
+				text = "м"
+			intervals [5]:
+				xmin = 0.560
+				xmax = 0.620
+				text = "о"
+			intervals [6]:
+				xmin = 0.620
+				xmax = 0.660
+				text = "ж"
+			intervals [7]:
+				xmin = 0.660
+				xmax = 0.690
+				text = "е"
+			intervals [8]:
+				xmin = 0.690
+				xmax = 0.750
+				text = "т"
+			intervals [9]:
+				xmin = 0.750
+				xmax = 0.800
+				text = "е"
+			intervals [10]:
+				xmin = 0.800
+				xmax = 0.850
+				text = "р"
+			intervals [11]:
+				xmin = 0.850
+				xmax = 0.890
+				text = "а"
+			intervals [12]:
+				xmin = 0.890
+				xmax = 0.980
+				text = "з"
+			intervals [13]:
+				xmin = 0.980
+				xmax = 1.010
+				text = "ъ"
+			intervals [14]:
+				xmin = 1.010
+				xmax = 1.070
+				text = "я"
+			intervals [15]:
+				xmin = 1.070
+				xmax = 1.170
+				text = "с"
+			intervals [16]:
+				xmin = 1.170
+				xmax = 1.250
+				text = "н"
+			intervals [17]:
+				xmin = 1.250
+				xmax = 1.320
+				text = "и"
+			intervals [18]:
+				xmin = 1.320
+				xmax = 1.380
+				text = "т"
+			intervals [19]:
+				xmin = 1.380
+				xmax = 1.480
+				text = "ь"
+			intervals [20]:
+				xmin = 1.480
+				xmax = 2.380
+				text = "sp"
+			intervals [21]:
+				xmin = 2.380
+				xmax = 2.4
+				text = ""

@@ -1,0 +1,116 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 1.8
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "words"
+		xmin = 0.0
+		xmax = 1.8
+		intervals: size = 6
+			intervals [1]:
+				xmin = 0.0
+				xmax = 0.170
+				text = ""
+			intervals [2]:
+				xmin = 0.170
+				xmax = 0.400
+				text = "c’est"
+			intervals [3]:
+				xmin = 0.400
+				xmax = 0.600
+				text = "bon"
+			intervals [4]:
+				xmin = 0.600
+				xmax = 0.820
+				text = "comme"
+			intervals [5]:
+				xmin = 0.820
+				xmax = 1.090
+				text = "ça"
+			intervals [6]:
+				xmin = 1.090
+				xmax = 1.8
+				text = ""
+	item [2]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 1.8
+		intervals: size = 18
+			intervals [1]:
+				xmin = 0.000
+				xmax = 0.170
+				text = "sil"
+			intervals [2]:
+				xmin = 0.170
+				xmax = 0.270
+				text = "c"
+			intervals [3]:
+				xmin = 0.270
+				xmax = 0.310
+				text = "’"
+			intervals [4]:
+				xmin = 0.310
+				xmax = 0.340
+				text = "e"
+			intervals [5]:
+				xmin = 0.340
+				xmax = 0.370
+				text = "s"
+			intervals [6]:
+				xmin = 0.370
+				xmax = 0.400
+				text = "t"
+			intervals [7]:
+				xmin = 0.400
+				xmax = 0.440
+				text = "b"
+			intervals [8]:
+				xmin = 0.440
+				xmax = 0.490
+				text = "o"
+			intervals [9]:
+				xmin = 0.490
+				xmax = 0.600
+				text = "n"
+			intervals [10]:
+				xmin = 0.600
+				xmax = 0.650
+				text = "c"
+			intervals [11]:
+				xmin = 0.650
+				xmax = 0.690
+				text = "o"
+			intervals [12]:
+				xmin = 0.690
+				xmax = 0.750
+				text = "m"
+			intervals [13]:
+				xmin = 0.750
+				xmax = 0.780
+				text = "m"
+			intervals [14]:
+				xmin = 0.780
+				xmax = 0.820
+				text = "e"
+			intervals [15]:
+				xmin = 0.820
+				xmax = 0.900
+				text = "ç"
+			intervals [16]:
+				xmin = 0.900
+				xmax = 1.090
+				text = "a"
+			intervals [17]:
+				xmin = 1.090
+				xmax = 1.780
+				text = "sp"
+			intervals [18]:
+				xmin = 1.780
+				xmax = 1.8
+				text = ""

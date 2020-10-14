@@ -1,0 +1,136 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 3.552
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "words"
+		xmin = 0.0
+		xmax = 3.552
+		intervals: size = 6
+			intervals [1]:
+				xmin = 0.0
+				xmax = 0.290
+				text = ""
+			intervals [2]:
+				xmin = 0.290
+				xmax = 0.660
+				text = "врач"
+			intervals [3]:
+				xmin = 0.660
+				xmax = 1.140
+				text = "поставил"
+			intervals [4]:
+				xmin = 1.140
+				xmax = 1.660
+				text = "диагноз"
+			intervals [5]:
+				xmin = 1.660
+				xmax = 2.280
+				text = "<unk>"
+			intervals [6]:
+				xmin = 2.280
+				xmax = 3.552
+				text = ""
+	item [2]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 3.552
+		intervals: size = 23
+			intervals [1]:
+				xmin = 0.000
+				xmax = 0.290
+				text = "sil"
+			intervals [2]:
+				xmin = 0.290
+				xmax = 0.400
+				text = "в"
+			intervals [3]:
+				xmin = 0.400
+				xmax = 0.480
+				text = "р"
+			intervals [4]:
+				xmin = 0.480
+				xmax = 0.560
+				text = "а"
+			intervals [5]:
+				xmin = 0.560
+				xmax = 0.660
+				text = "ч"
+			intervals [6]:
+				xmin = 0.660
+				xmax = 0.730
+				text = "п"
+			intervals [7]:
+				xmin = 0.730
+				xmax = 0.790
+				text = "о"
+			intervals [8]:
+				xmin = 0.790
+				xmax = 0.860
+				text = "с"
+			intervals [9]:
+				xmin = 0.860
+				xmax = 0.930
+				text = "т"
+			intervals [10]:
+				xmin = 0.930
+				xmax = 0.960
+				text = "а"
+			intervals [11]:
+				xmin = 0.960
+				xmax = 1.000
+				text = "в"
+			intervals [12]:
+				xmin = 1.000
+				xmax = 1.030
+				text = "и"
+			intervals [13]:
+				xmin = 1.030
+				xmax = 1.140
+				text = "л"
+			intervals [14]:
+				xmin = 1.140
+				xmax = 1.210
+				text = "д"
+			intervals [15]:
+				xmin = 1.210
+				xmax = 1.290
+				text = "и"
+			intervals [16]:
+				xmin = 1.290
+				xmax = 1.380
+				text = "а"
+			intervals [17]:
+				xmin = 1.380
+				xmax = 1.430
+				text = "г"
+			intervals [18]:
+				xmin = 1.430
+				xmax = 1.490
+				text = "н"
+			intervals [19]:
+				xmin = 1.490
+				xmax = 1.520
+				text = "о"
+			intervals [20]:
+				xmin = 1.520
+				xmax = 1.660
+				text = "з"
+			intervals [21]:
+				xmin = 1.660
+				xmax = 2.280
+				text = "spn"
+			intervals [22]:
+				xmin = 2.280
+				xmax = 3.530
+				text = "sp"
+			intervals [23]:
+				xmin = 3.530
+				xmax = 3.552
+				text = ""

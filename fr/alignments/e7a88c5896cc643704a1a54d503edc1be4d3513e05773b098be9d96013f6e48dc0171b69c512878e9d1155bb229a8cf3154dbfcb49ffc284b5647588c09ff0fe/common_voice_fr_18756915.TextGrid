@@ -1,0 +1,116 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 3.6
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "words"
+		xmin = 0.0
+		xmax = 3.6
+		intervals: size = 5
+			intervals [1]:
+				xmin = 0.0
+				xmax = 0.440
+				text = ""
+			intervals [2]:
+				xmin = 0.440
+				xmax = 0.770
+				text = "vingt"
+			intervals [3]:
+				xmin = 0.770
+				xmax = 0.920
+				text = "deux"
+			intervals [4]:
+				xmin = 0.920
+				xmax = 1.430
+				text = "octobre"
+			intervals [5]:
+				xmin = 1.430
+				xmax = 3.6
+				text = ""
+	item [2]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 3.6
+		intervals: size = 19
+			intervals [1]:
+				xmin = 0.000
+				xmax = 0.440
+				text = "sil"
+			intervals [2]:
+				xmin = 0.440
+				xmax = 0.550
+				text = "v"
+			intervals [3]:
+				xmin = 0.550
+				xmax = 0.610
+				text = "i"
+			intervals [4]:
+				xmin = 0.610
+				xmax = 0.710
+				text = "n"
+			intervals [5]:
+				xmin = 0.710
+				xmax = 0.740
+				text = "g"
+			intervals [6]:
+				xmin = 0.740
+				xmax = 0.770
+				text = "t"
+			intervals [7]:
+				xmin = 0.770
+				xmax = 0.810
+				text = "d"
+			intervals [8]:
+				xmin = 0.810
+				xmax = 0.860
+				text = "e"
+			intervals [9]:
+				xmin = 0.860
+				xmax = 0.890
+				text = "u"
+			intervals [10]:
+				xmin = 0.890
+				xmax = 0.920
+				text = "x"
+			intervals [11]:
+				xmin = 0.920
+				xmax = 0.980
+				text = "o"
+			intervals [12]:
+				xmin = 0.980
+				xmax = 1.090
+				text = "c"
+			intervals [13]:
+				xmin = 1.090
+				xmax = 1.130
+				text = "t"
+			intervals [14]:
+				xmin = 1.130
+				xmax = 1.220
+				text = "o"
+			intervals [15]:
+				xmin = 1.220
+				xmax = 1.270
+				text = "b"
+			intervals [16]:
+				xmin = 1.270
+				xmax = 1.350
+				text = "r"
+			intervals [17]:
+				xmin = 1.350
+				xmax = 1.430
+				text = "e"
+			intervals [18]:
+				xmin = 1.430
+				xmax = 3.580
+				text = "sp"
+			intervals [19]:
+				xmin = 3.580
+				xmax = 3.6
+				text = ""

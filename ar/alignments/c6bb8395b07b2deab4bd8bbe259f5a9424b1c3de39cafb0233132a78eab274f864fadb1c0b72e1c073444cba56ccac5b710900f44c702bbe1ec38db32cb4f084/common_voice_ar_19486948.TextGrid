@@ -1,0 +1,116 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 3.0
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "words"
+		xmin = 0.0
+		xmax = 3.0
+		intervals: size = 6
+			intervals [1]:
+				xmin = 0.0
+				xmax = 0.680
+				text = ""
+			intervals [2]:
+				xmin = 0.680
+				xmax = 1.000
+				text = "حلمي"
+			intervals [3]:
+				xmin = 1.000
+				xmax = 1.100
+				text = "أن"
+			intervals [4]:
+				xmin = 1.100
+				xmax = 1.440
+				text = "أكون"
+			intervals [5]:
+				xmin = 1.440
+				xmax = 1.970
+				text = "طبيبا"
+			intervals [6]:
+				xmin = 1.970
+				xmax = 3.0
+				text = ""
+	item [2]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 3.0
+		intervals: size = 18
+			intervals [1]:
+				xmin = 0.000
+				xmax = 0.680
+				text = "sil"
+			intervals [2]:
+				xmin = 0.680
+				xmax = 0.730
+				text = "ح"
+			intervals [3]:
+				xmin = 0.730
+				xmax = 0.790
+				text = "ل"
+			intervals [4]:
+				xmin = 0.790
+				xmax = 0.960
+				text = "م"
+			intervals [5]:
+				xmin = 0.960
+				xmax = 1.000
+				text = "ي"
+			intervals [6]:
+				xmin = 1.000
+				xmax = 1.030
+				text = "أ"
+			intervals [7]:
+				xmin = 1.030
+				xmax = 1.100
+				text = "ن"
+			intervals [8]:
+				xmin = 1.100
+				xmax = 1.140
+				text = "أ"
+			intervals [9]:
+				xmin = 1.140
+				xmax = 1.290
+				text = "ك"
+			intervals [10]:
+				xmin = 1.290
+				xmax = 1.360
+				text = "و"
+			intervals [11]:
+				xmin = 1.360
+				xmax = 1.440
+				text = "ن"
+			intervals [12]:
+				xmin = 1.440
+				xmax = 1.560
+				text = "ط"
+			intervals [13]:
+				xmin = 1.560
+				xmax = 1.730
+				text = "ب"
+			intervals [14]:
+				xmin = 1.730
+				xmax = 1.810
+				text = "ي"
+			intervals [15]:
+				xmin = 1.810
+				xmax = 1.910
+				text = "ب"
+			intervals [16]:
+				xmin = 1.910
+				xmax = 1.970
+				text = "ا"
+			intervals [17]:
+				xmin = 1.970
+				xmax = 2.980
+				text = "sp"
+			intervals [18]:
+				xmin = 2.980
+				xmax = 3.0
+				text = ""
