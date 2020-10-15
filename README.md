@@ -6,3 +6,4 @@ The alignments are not guaranteed to be perfect, and there will likely be a corr
 
 The TextGrids are readable by Praat.
 
+To download the corresponding audio, go to the [[Common Voice download page]](https://commonvoice.mozilla.org/en/datasets).
