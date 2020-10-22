@@ -1,0 +1,116 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 2.4
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "words"
+		xmin = 0.0
+		xmax = 2.4
+		intervals: size = 6
+			intervals [1]:
+				xmin = 0.0
+				xmax = 0.520
+				text = ""
+			intervals [2]:
+				xmin = 0.520
+				xmax = 0.700
+				text = "pull"
+			intervals [3]:
+				xmin = 0.700
+				xmax = 0.810
+				text = "the"
+			intervals [4]:
+				xmin = 0.810
+				xmax = 1.040
+				text = "other"
+			intervals [5]:
+				xmin = 1.040
+				xmax = 1.400
+				text = "one"
+			intervals [6]:
+				xmin = 1.400
+				xmax = 2.4
+				text = ""
+	item [2]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 2.4
+		intervals: size = 18
+			intervals [1]:
+				xmin = 0.000
+				xmax = 0.520
+				text = "sil"
+			intervals [2]:
+				xmin = 0.520
+				xmax = 0.580
+				text = "p"
+			intervals [3]:
+				xmin = 0.580
+				xmax = 0.610
+				text = "u"
+			intervals [4]:
+				xmin = 0.610
+				xmax = 0.650
+				text = "l"
+			intervals [5]:
+				xmin = 0.650
+				xmax = 0.700
+				text = "l"
+			intervals [6]:
+				xmin = 0.700
+				xmax = 0.750
+				text = "t"
+			intervals [7]:
+				xmin = 0.750
+				xmax = 0.780
+				text = "h"
+			intervals [8]:
+				xmin = 0.780
+				xmax = 0.810
+				text = "e"
+			intervals [9]:
+				xmin = 0.810
+				xmax = 0.900
+				text = "o"
+			intervals [10]:
+				xmin = 0.900
+				xmax = 0.950
+				text = "t"
+			intervals [11]:
+				xmin = 0.950
+				xmax = 0.980
+				text = "h"
+			intervals [12]:
+				xmin = 0.980
+				xmax = 1.010
+				text = "e"
+			intervals [13]:
+				xmin = 1.010
+				xmax = 1.040
+				text = "r"
+			intervals [14]:
+				xmin = 1.040
+				xmax = 1.190
+				text = "o"
+			intervals [15]:
+				xmin = 1.190
+				xmax = 1.270
+				text = "n"
+			intervals [16]:
+				xmin = 1.270
+				xmax = 1.400
+				text = "e"
+			intervals [17]:
+				xmin = 1.400
+				xmax = 2.380
+				text = "sp"
+			intervals [18]:
+				xmin = 2.380
+				xmax = 2.4
+				text = ""

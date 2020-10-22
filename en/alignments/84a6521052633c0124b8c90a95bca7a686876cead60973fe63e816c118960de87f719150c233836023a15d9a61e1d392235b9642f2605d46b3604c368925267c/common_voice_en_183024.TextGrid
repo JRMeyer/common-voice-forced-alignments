@@ -1,0 +1,104 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 1.08
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "words"
+		xmin = 0.0
+		xmax = 1.08
+		intervals: size = 6
+			intervals [1]:
+				xmin = 0.0
+				xmax = 0.190
+				text = ""
+			intervals [2]:
+				xmin = 0.190
+				xmax = 0.310
+				text = "was"
+			intervals [3]:
+				xmin = 0.310
+				xmax = 0.450
+				text = "it"
+			intervals [4]:
+				xmin = 0.450
+				xmax = 0.580
+				text = "my"
+			intervals [5]:
+				xmin = 0.580
+				xmax = 0.970
+				text = "fault"
+			intervals [6]:
+				xmin = 0.970
+				xmax = 1.08
+				text = ""
+	item [2]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 1.08
+		intervals: size = 15
+			intervals [1]:
+				xmin = 0.000
+				xmax = 0.190
+				text = "sil"
+			intervals [2]:
+				xmin = 0.190
+				xmax = 0.240
+				text = "w"
+			intervals [3]:
+				xmin = 0.240
+				xmax = 0.270
+				text = "a"
+			intervals [4]:
+				xmin = 0.270
+				xmax = 0.310
+				text = "s"
+			intervals [5]:
+				xmin = 0.310
+				xmax = 0.370
+				text = "i"
+			intervals [6]:
+				xmin = 0.370
+				xmax = 0.450
+				text = "t"
+			intervals [7]:
+				xmin = 0.450
+				xmax = 0.500
+				text = "m"
+			intervals [8]:
+				xmin = 0.500
+				xmax = 0.580
+				text = "y"
+			intervals [9]:
+				xmin = 0.580
+				xmax = 0.700
+				text = "f"
+			intervals [10]:
+				xmin = 0.700
+				xmax = 0.740
+				text = "a"
+			intervals [11]:
+				xmin = 0.740
+				xmax = 0.770
+				text = "u"
+			intervals [12]:
+				xmin = 0.770
+				xmax = 0.880
+				text = "l"
+			intervals [13]:
+				xmin = 0.880
+				xmax = 0.970
+				text = "t"
+			intervals [14]:
+				xmin = 0.970
+				xmax = 1.060
+				text = "sp"
+			intervals [15]:
+				xmin = 1.060
+				xmax = 1.08
+				text = ""
