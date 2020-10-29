@@ -1,0 +1,104 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 1.68
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "words"
+		xmin = 0.0
+		xmax = 1.68
+		intervals: size = 6
+			intervals [1]:
+				xmin = 0.0
+				xmax = 0.340
+				text = ""
+			intervals [2]:
+				xmin = 0.340
+				xmax = 0.500
+				text = "vad"
+			intervals [3]:
+				xmin = 0.500
+				xmax = 0.580
+				text = "då"
+			intervals [4]:
+				xmin = 0.580
+				xmax = 0.690
+				text = "för"
+			intervals [5]:
+				xmin = 0.690
+				xmax = 0.970
+				text = "gäng"
+			intervals [6]:
+				xmin = 0.970
+				xmax = 1.68
+				text = ""
+	item [2]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 1.68
+		intervals: size = 15
+			intervals [1]:
+				xmin = 0.000
+				xmax = 0.340
+				text = "sil"
+			intervals [2]:
+				xmin = 0.340
+				xmax = 0.420
+				text = "v"
+			intervals [3]:
+				xmin = 0.420
+				xmax = 0.460
+				text = "a"
+			intervals [4]:
+				xmin = 0.460
+				xmax = 0.500
+				text = "d"
+			intervals [5]:
+				xmin = 0.500
+				xmax = 0.530
+				text = "d"
+			intervals [6]:
+				xmin = 0.530
+				xmax = 0.580
+				text = "å"
+			intervals [7]:
+				xmin = 0.580
+				xmax = 0.630
+				text = "f"
+			intervals [8]:
+				xmin = 0.630
+				xmax = 0.660
+				text = "ö"
+			intervals [9]:
+				xmin = 0.660
+				xmax = 0.690
+				text = "r"
+			intervals [10]:
+				xmin = 0.690
+				xmax = 0.720
+				text = "g"
+			intervals [11]:
+				xmin = 0.720
+				xmax = 0.840
+				text = "ä"
+			intervals [12]:
+				xmin = 0.840
+				xmax = 0.890
+				text = "n"
+			intervals [13]:
+				xmin = 0.890
+				xmax = 0.970
+				text = "g"
+			intervals [14]:
+				xmin = 0.970
+				xmax = 1.660
+				text = "sp"
+			intervals [15]:
+				xmin = 1.660
+				xmax = 1.68
+				text = ""

@@ -1,0 +1,116 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 2.4
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "words"
+		xmin = 0.0
+		xmax = 2.4
+		intervals: size = 7
+			intervals [1]:
+				xmin = 0.0
+				xmax = 0.500
+				text = ""
+			intervals [2]:
+				xmin = 0.500
+				xmax = 0.760
+				text = "så"
+			intervals [3]:
+				xmin = 0.760
+				xmax = 1.000
+				text = "var"
+			intervals [4]:
+				xmin = 1.000
+				xmax = 1.130
+				text = "de"
+			intervals [5]:
+				xmin = 1.130
+				xmax = 1.340
+				text = "bara"
+			intervals [6]:
+				xmin = 1.340
+				xmax = 1.730
+				text = "två"
+			intervals [7]:
+				xmin = 1.730
+				xmax = 2.4
+				text = ""
+	item [2]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 2.4
+		intervals: size = 17
+			intervals [1]:
+				xmin = 0.000
+				xmax = 0.500
+				text = "sil"
+			intervals [2]:
+				xmin = 0.500
+				xmax = 0.720
+				text = "s"
+			intervals [3]:
+				xmin = 0.720
+				xmax = 0.760
+				text = "å"
+			intervals [4]:
+				xmin = 0.760
+				xmax = 0.860
+				text = "v"
+			intervals [5]:
+				xmin = 0.860
+				xmax = 0.950
+				text = "a"
+			intervals [6]:
+				xmin = 0.950
+				xmax = 1.000
+				text = "r"
+			intervals [7]:
+				xmin = 1.000
+				xmax = 1.030
+				text = "d"
+			intervals [8]:
+				xmin = 1.030
+				xmax = 1.130
+				text = "e"
+			intervals [9]:
+				xmin = 1.130
+				xmax = 1.170
+				text = "b"
+			intervals [10]:
+				xmin = 1.170
+				xmax = 1.210
+				text = "a"
+			intervals [11]:
+				xmin = 1.210
+				xmax = 1.280
+				text = "r"
+			intervals [12]:
+				xmin = 1.280
+				xmax = 1.340
+				text = "a"
+			intervals [13]:
+				xmin = 1.340
+				xmax = 1.470
+				text = "t"
+			intervals [14]:
+				xmin = 1.470
+				xmax = 1.530
+				text = "v"
+			intervals [15]:
+				xmin = 1.530
+				xmax = 1.730
+				text = "å"
+			intervals [16]:
+				xmin = 1.730
+				xmax = 2.380
+				text = "sp"
+			intervals [17]:
+				xmin = 2.380
+				xmax = 2.4
+				text = ""
