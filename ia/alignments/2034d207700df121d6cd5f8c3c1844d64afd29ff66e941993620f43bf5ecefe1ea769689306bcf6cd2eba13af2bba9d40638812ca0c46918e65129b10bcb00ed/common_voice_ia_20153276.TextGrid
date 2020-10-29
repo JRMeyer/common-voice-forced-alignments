@@ -1,0 +1,68 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 1.872
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "words"
+		xmin = 0.0
+		xmax = 1.872
+		intervals: size = 3
+			intervals [1]:
+				xmin = 0.0
+				xmax = 0.190
+				text = ""
+			intervals [2]:
+				xmin = 0.190
+				xmax = 1.280
+				text = "adjuta"
+			intervals [3]:
+				xmin = 1.280
+				xmax = 1.872
+				text = ""
+	item [2]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 1.872
+		intervals: size = 9
+			intervals [1]:
+				xmin = 0.000
+				xmax = 0.190
+				text = "sil"
+			intervals [2]:
+				xmin = 0.190
+				xmax = 0.340
+				text = "a"
+			intervals [3]:
+				xmin = 0.340
+				xmax = 0.440
+				text = "d"
+			intervals [4]:
+				xmin = 0.440
+				xmax = 0.570
+				text = "j"
+			intervals [5]:
+				xmin = 0.570
+				xmax = 0.720
+				text = "u"
+			intervals [6]:
+				xmin = 0.720
+				xmax = 0.900
+				text = "t"
+			intervals [7]:
+				xmin = 0.900
+				xmax = 1.280
+				text = "a"
+			intervals [8]:
+				xmin = 1.280
+				xmax = 1.850
+				text = "sp"
+			intervals [9]:
+				xmin = 1.850
+				xmax = 1.872
+				text = ""
