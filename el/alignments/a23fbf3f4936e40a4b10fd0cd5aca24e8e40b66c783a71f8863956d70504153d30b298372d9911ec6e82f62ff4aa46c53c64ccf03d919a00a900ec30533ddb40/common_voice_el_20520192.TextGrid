@@ -1,0 +1,108 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 3.0
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "words"
+		xmin = 0.0
+		xmax = 3.0
+		intervals: size = 5
+			intervals [1]:
+				xmin = 0.0
+				xmax = 0.810
+				text = ""
+			intervals [2]:
+				xmin = 0.810
+				xmax = 1.520
+				text = "πλάκωσε"
+			intervals [3]:
+				xmin = 1.520
+				xmax = 1.710
+				text = "η"
+			intervals [4]:
+				xmin = 1.710
+				xmax = 2.330
+				text = "αντάρα"
+			intervals [5]:
+				xmin = 2.330
+				xmax = 3.0
+				text = ""
+	item [2]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 3.0
+		intervals: size = 17
+			intervals [1]:
+				xmin = 0.000
+				xmax = 0.810
+				text = "sil"
+			intervals [2]:
+				xmin = 0.810
+				xmax = 0.860
+				text = "π"
+			intervals [3]:
+				xmin = 0.860
+				xmax = 0.950
+				text = "λ"
+			intervals [4]:
+				xmin = 0.950
+				xmax = 1.060
+				text = "ά"
+			intervals [5]:
+				xmin = 1.060
+				xmax = 1.130
+				text = "κ"
+			intervals [6]:
+				xmin = 1.130
+				xmax = 1.180
+				text = "ω"
+			intervals [7]:
+				xmin = 1.180
+				xmax = 1.300
+				text = "σ"
+			intervals [8]:
+				xmin = 1.300
+				xmax = 1.520
+				text = "ε"
+			intervals [9]:
+				xmin = 1.520
+				xmax = 1.710
+				text = "η"
+			intervals [10]:
+				xmin = 1.710
+				xmax = 1.780
+				text = "α"
+			intervals [11]:
+				xmin = 1.780
+				xmax = 1.910
+				text = "ν"
+			intervals [12]:
+				xmin = 1.910
+				xmax = 1.970
+				text = "τ"
+			intervals [13]:
+				xmin = 1.970
+				xmax = 2.110
+				text = "ά"
+			intervals [14]:
+				xmin = 2.110
+				xmax = 2.170
+				text = "ρ"
+			intervals [15]:
+				xmin = 2.170
+				xmax = 2.330
+				text = "α"
+			intervals [16]:
+				xmin = 2.330
+				xmax = 2.980
+				text = "sp"
+			intervals [17]:
+				xmin = 2.980
+				xmax = 3.0
+				text = ""

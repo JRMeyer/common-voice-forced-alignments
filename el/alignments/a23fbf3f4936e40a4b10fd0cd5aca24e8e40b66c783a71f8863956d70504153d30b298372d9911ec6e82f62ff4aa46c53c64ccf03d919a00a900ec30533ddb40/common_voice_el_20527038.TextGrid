@@ -1,0 +1,132 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 3.12
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "words"
+		xmin = 0.0
+		xmax = 3.12
+		intervals: size = 6
+			intervals [1]:
+				xmin = 0.0
+				xmax = 1.010
+				text = ""
+			intervals [2]:
+				xmin = 1.010
+				xmax = 1.160
+				text = "πού"
+			intervals [3]:
+				xmin = 1.160
+				xmax = 1.280
+				text = "να"
+			intervals [4]:
+				xmin = 1.280
+				xmax = 1.480
+				text = "μας"
+			intervals [5]:
+				xmin = 1.480
+				xmax = 2.390
+				text = "ακολουθήσει"
+			intervals [6]:
+				xmin = 2.390
+				xmax = 3.12
+				text = ""
+	item [2]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 3.12
+		intervals: size = 22
+			intervals [1]:
+				xmin = 0.000
+				xmax = 1.010
+				text = "sil"
+			intervals [2]:
+				xmin = 1.010
+				xmax = 1.070
+				text = "π"
+			intervals [3]:
+				xmin = 1.070
+				xmax = 1.110
+				text = "ο"
+			intervals [4]:
+				xmin = 1.110
+				xmax = 1.160
+				text = "ύ"
+			intervals [5]:
+				xmin = 1.160
+				xmax = 1.210
+				text = "ν"
+			intervals [6]:
+				xmin = 1.210
+				xmax = 1.280
+				text = "α"
+			intervals [7]:
+				xmin = 1.280
+				xmax = 1.340
+				text = "μ"
+			intervals [8]:
+				xmin = 1.340
+				xmax = 1.380
+				text = "α"
+			intervals [9]:
+				xmin = 1.380
+				xmax = 1.480
+				text = "ς"
+			intervals [10]:
+				xmin = 1.480
+				xmax = 1.560
+				text = "α"
+			intervals [11]:
+				xmin = 1.560
+				xmax = 1.620
+				text = "κ"
+			intervals [12]:
+				xmin = 1.620
+				xmax = 1.680
+				text = "ο"
+			intervals [13]:
+				xmin = 1.680
+				xmax = 1.790
+				text = "λ"
+			intervals [14]:
+				xmin = 1.790
+				xmax = 1.820
+				text = "ο"
+			intervals [15]:
+				xmin = 1.820
+				xmax = 1.850
+				text = "υ"
+			intervals [16]:
+				xmin = 1.850
+				xmax = 1.930
+				text = "θ"
+			intervals [17]:
+				xmin = 1.930
+				xmax = 2.030
+				text = "ή"
+			intervals [18]:
+				xmin = 2.030
+				xmax = 2.140
+				text = "σ"
+			intervals [19]:
+				xmin = 2.140
+				xmax = 2.190
+				text = "ε"
+			intervals [20]:
+				xmin = 2.190
+				xmax = 2.390
+				text = "ι"
+			intervals [21]:
+				xmin = 2.390
+				xmax = 3.100
+				text = "sp"
+			intervals [22]:
+				xmin = 3.100
+				xmax = 3.12
+				text = ""
