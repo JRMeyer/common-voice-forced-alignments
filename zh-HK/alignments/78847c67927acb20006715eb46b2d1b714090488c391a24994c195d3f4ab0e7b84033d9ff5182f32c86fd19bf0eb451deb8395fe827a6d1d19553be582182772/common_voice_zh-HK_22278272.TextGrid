@@ -1,0 +1,88 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 5.184
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "words"
+		xmin = 0.0
+		xmax = 5.184
+		intervals: size = 3
+			intervals [1]:
+				xmin = 0.0
+				xmax = 1.230
+				text = ""
+			intervals [2]:
+				xmin = 1.230
+				xmax = 4.140
+				text = "黑椒煙肉法蘭克福腸意粉"
+			intervals [3]:
+				xmin = 4.140
+				xmax = 5.184
+				text = ""
+	item [2]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 5.184
+		intervals: size = 14
+			intervals [1]:
+				xmin = 0.000
+				xmax = 1.230
+				text = "sil"
+			intervals [2]:
+				xmin = 1.230
+				xmax = 1.460
+				text = "黑"
+			intervals [3]:
+				xmin = 1.460
+				xmax = 1.760
+				text = "椒"
+			intervals [4]:
+				xmin = 1.760
+				xmax = 2.020
+				text = "煙"
+			intervals [5]:
+				xmin = 2.020
+				xmax = 2.230
+				text = "肉"
+			intervals [6]:
+				xmin = 2.230
+				xmax = 2.360
+				text = "法"
+			intervals [7]:
+				xmin = 2.360
+				xmax = 2.720
+				text = "蘭"
+			intervals [8]:
+				xmin = 2.720
+				xmax = 2.990
+				text = "克"
+			intervals [9]:
+				xmin = 2.990
+				xmax = 3.310
+				text = "福"
+			intervals [10]:
+				xmin = 3.310
+				xmax = 3.650
+				text = "腸"
+			intervals [11]:
+				xmin = 3.650
+				xmax = 3.910
+				text = "意"
+			intervals [12]:
+				xmin = 3.910
+				xmax = 4.140
+				text = "粉"
+			intervals [13]:
+				xmin = 4.140
+				xmax = 5.160
+				text = "sp"
+			intervals [14]:
+				xmin = 5.160
+				xmax = 5.184
+				text = ""

@@ -1,0 +1,88 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 5.28
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "words"
+		xmin = 0.0
+		xmax = 5.28
+		intervals: size = 3
+			intervals [1]:
+				xmin = 0.0
+				xmax = 1.090
+				text = ""
+			intervals [2]:
+				xmin = 1.090
+				xmax = 5.260
+				text = "魚蛋唔滑嚡到死啲麵又唔腍"
+			intervals [3]:
+				xmin = 5.260
+				xmax = 5.28
+				text = ""
+	item [2]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 5.28
+		intervals: size = 14
+			intervals [1]:
+				xmin = 0.000
+				xmax = 1.090
+				text = "sil"
+			intervals [2]:
+				xmin = 1.090
+				xmax = 1.400
+				text = "魚"
+			intervals [3]:
+				xmin = 1.400
+				xmax = 1.690
+				text = "蛋"
+			intervals [4]:
+				xmin = 1.690
+				xmax = 1.960
+				text = "唔"
+			intervals [5]:
+				xmin = 1.960
+				xmax = 2.340
+				text = "滑"
+			intervals [6]:
+				xmin = 2.340
+				xmax = 2.640
+				text = "嚡"
+			intervals [7]:
+				xmin = 2.640
+				xmax = 2.820
+				text = "到"
+			intervals [8]:
+				xmin = 2.820
+				xmax = 3.260
+				text = "死"
+			intervals [9]:
+				xmin = 3.260
+				xmax = 3.460
+				text = "啲"
+			intervals [10]:
+				xmin = 3.460
+				xmax = 3.730
+				text = "麵"
+			intervals [11]:
+				xmin = 3.730
+				xmax = 3.970
+				text = "又"
+			intervals [12]:
+				xmin = 3.970
+				xmax = 4.460
+				text = "唔"
+			intervals [13]:
+				xmin = 4.460
+				xmax = 5.260
+				text = "腍"
+			intervals [14]:
+				xmin = 5.260
+				xmax = 5.28
+				text = ""

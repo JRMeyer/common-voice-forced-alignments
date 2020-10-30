@@ -1,0 +1,80 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 3.456
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "words"
+		xmin = 0.0
+		xmax = 3.456
+		intervals: size = 3
+			intervals [1]:
+				xmin = 0.0
+				xmax = 0.600
+				text = ""
+			intervals [2]:
+				xmin = 0.600
+				xmax = 2.940
+				text = "湖北省地区生产总值"
+			intervals [3]:
+				xmin = 2.940
+				xmax = 3.456
+				text = ""
+	item [2]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 3.456
+		intervals: size = 12
+			intervals [1]:
+				xmin = 0.000
+				xmax = 0.600
+				text = "sil"
+			intervals [2]:
+				xmin = 0.600
+				xmax = 0.630
+				text = "湖"
+			intervals [3]:
+				xmin = 0.630
+				xmax = 0.690
+				text = "北"
+			intervals [4]:
+				xmin = 0.690
+				xmax = 0.870
+				text = "省"
+			intervals [5]:
+				xmin = 0.870
+				xmax = 1.170
+				text = "地"
+			intervals [6]:
+				xmin = 1.170
+				xmax = 2.010
+				text = "区"
+			intervals [7]:
+				xmin = 2.010
+				xmax = 2.250
+				text = "生"
+			intervals [8]:
+				xmin = 2.250
+				xmax = 2.670
+				text = "产"
+			intervals [9]:
+				xmin = 2.670
+				xmax = 2.800
+				text = "总"
+			intervals [10]:
+				xmin = 2.800
+				xmax = 2.940
+				text = "值"
+			intervals [11]:
+				xmin = 2.940
+				xmax = 3.440
+				text = "sp"
+			intervals [12]:
+				xmin = 3.440
+				xmax = 3.456
+				text = ""

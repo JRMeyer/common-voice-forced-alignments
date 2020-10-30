@@ -1,0 +1,92 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 4.2
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "words"
+		xmin = 0.0
+		xmax = 4.2
+		intervals: size = 3
+			intervals [1]:
+				xmin = 0.0
+				xmax = 0.400
+				text = ""
+			intervals [2]:
+				xmin = 0.400
+				xmax = 3.100
+				text = "豉油雞中翼配吞拿魚三文治"
+			intervals [3]:
+				xmin = 3.100
+				xmax = 4.2
+				text = ""
+	item [2]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 4.2
+		intervals: size = 15
+			intervals [1]:
+				xmin = 0.000
+				xmax = 0.400
+				text = "sil"
+			intervals [2]:
+				xmin = 0.400
+				xmax = 0.730
+				text = "豉"
+			intervals [3]:
+				xmin = 0.730
+				xmax = 0.980
+				text = "油"
+			intervals [4]:
+				xmin = 0.980
+				xmax = 1.210
+				text = "雞"
+			intervals [5]:
+				xmin = 1.210
+				xmax = 1.420
+				text = "中"
+			intervals [6]:
+				xmin = 1.420
+				xmax = 1.590
+				text = "翼"
+			intervals [7]:
+				xmin = 1.590
+				xmax = 1.860
+				text = "配"
+			intervals [8]:
+				xmin = 1.860
+				xmax = 2.130
+				text = "吞"
+			intervals [9]:
+				xmin = 2.130
+				xmax = 2.300
+				text = "拿"
+			intervals [10]:
+				xmin = 2.300
+				xmax = 2.430
+				text = "魚"
+			intervals [11]:
+				xmin = 2.430
+				xmax = 2.620
+				text = "三"
+			intervals [12]:
+				xmin = 2.620
+				xmax = 2.800
+				text = "文"
+			intervals [13]:
+				xmin = 2.800
+				xmax = 3.100
+				text = "治"
+			intervals [14]:
+				xmin = 3.100
+				xmax = 4.180
+				text = "sp"
+			intervals [15]:
+				xmin = 4.180
+				xmax = 4.2
+				text = ""

@@ -1,0 +1,92 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 5.184
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "words"
+		xmin = 0.0
+		xmax = 5.184
+		intervals: size = 3
+			intervals [1]:
+				xmin = 0.0
+				xmax = 1.020
+				text = ""
+			intervals [2]:
+				xmin = 1.020
+				xmax = 4.040
+				text = "好話唔好聽你唔做大把人做"
+			intervals [3]:
+				xmin = 4.040
+				xmax = 5.184
+				text = ""
+	item [2]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 5.184
+		intervals: size = 15
+			intervals [1]:
+				xmin = 0.000
+				xmax = 1.020
+				text = "sil"
+			intervals [2]:
+				xmin = 1.020
+				xmax = 1.360
+				text = "好"
+			intervals [3]:
+				xmin = 1.360
+				xmax = 1.550
+				text = "話"
+			intervals [4]:
+				xmin = 1.550
+				xmax = 1.670
+				text = "唔"
+			intervals [5]:
+				xmin = 1.670
+				xmax = 1.830
+				text = "好"
+			intervals [6]:
+				xmin = 1.830
+				xmax = 2.250
+				text = "聽"
+			intervals [7]:
+				xmin = 2.250
+				xmax = 2.470
+				text = "你"
+			intervals [8]:
+				xmin = 2.470
+				xmax = 2.710
+				text = "唔"
+			intervals [9]:
+				xmin = 2.710
+				xmax = 3.000
+				text = "做"
+			intervals [10]:
+				xmin = 3.000
+				xmax = 3.600
+				text = "大"
+			intervals [11]:
+				xmin = 3.600
+				xmax = 3.630
+				text = "把"
+			intervals [12]:
+				xmin = 3.630
+				xmax = 3.710
+				text = "人"
+			intervals [13]:
+				xmin = 3.710
+				xmax = 4.040
+				text = "做"
+			intervals [14]:
+				xmin = 4.040
+				xmax = 5.160
+				text = "sp"
+			intervals [15]:
+				xmin = 5.160
+				xmax = 5.184
+				text = ""

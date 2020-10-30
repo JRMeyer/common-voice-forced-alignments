@@ -1,0 +1,104 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 6.0
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "words"
+		xmin = 0.0
+		xmax = 6.0
+		intervals: size = 3
+			intervals [1]:
+				xmin = 0.0
+				xmax = 0.850
+				text = ""
+			intervals [2]:
+				xmin = 0.850
+				xmax = 5.230
+				text = "有個老婆婆喺東涌翔東路等緊小巴"
+			intervals [3]:
+				xmin = 5.230
+				xmax = 6.0
+				text = ""
+	item [2]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 6.0
+		intervals: size = 18
+			intervals [1]:
+				xmin = 0.000
+				xmax = 0.850
+				text = "sil"
+			intervals [2]:
+				xmin = 0.850
+				xmax = 1.030
+				text = "有"
+			intervals [3]:
+				xmin = 1.030
+				xmax = 1.180
+				text = "個"
+			intervals [4]:
+				xmin = 1.180
+				xmax = 1.370
+				text = "老"
+			intervals [5]:
+				xmin = 1.370
+				xmax = 1.400
+				text = "婆"
+			intervals [6]:
+				xmin = 1.400
+				xmax = 1.930
+				text = "婆"
+			intervals [7]:
+				xmin = 1.930
+				xmax = 2.590
+				text = "喺"
+			intervals [8]:
+				xmin = 2.590
+				xmax = 2.890
+				text = "東"
+			intervals [9]:
+				xmin = 2.890
+				xmax = 3.360
+				text = "涌"
+			intervals [10]:
+				xmin = 3.360
+				xmax = 3.590
+				text = "翔"
+			intervals [11]:
+				xmin = 3.590
+				xmax = 3.890
+				text = "東"
+			intervals [12]:
+				xmin = 3.890
+				xmax = 4.080
+				text = "路"
+			intervals [13]:
+				xmin = 4.080
+				xmax = 4.190
+				text = "等"
+			intervals [14]:
+				xmin = 4.190
+				xmax = 4.470
+				text = "緊"
+			intervals [15]:
+				xmin = 4.470
+				xmax = 4.800
+				text = "小"
+			intervals [16]:
+				xmin = 4.800
+				xmax = 5.230
+				text = "巴"
+			intervals [17]:
+				xmin = 5.230
+				xmax = 5.980
+				text = "sp"
+			intervals [18]:
+				xmin = 5.980
+				xmax = 6.0
+				text = ""

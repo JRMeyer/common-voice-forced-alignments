@@ -1,0 +1,88 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 3.84
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "words"
+		xmin = 0.0
+		xmax = 3.84
+		intervals: size = 3
+			intervals [1]:
+				xmin = 0.0
+				xmax = 0.810
+				text = ""
+			intervals [2]:
+				xmin = 0.810
+				xmax = 3.220
+				text = "洗手洗腳然後刷牙換睡衣"
+			intervals [3]:
+				xmin = 3.220
+				xmax = 3.84
+				text = ""
+	item [2]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 3.84
+		intervals: size = 14
+			intervals [1]:
+				xmin = 0.000
+				xmax = 0.810
+				text = "sil"
+			intervals [2]:
+				xmin = 0.810
+				xmax = 0.870
+				text = "洗"
+			intervals [3]:
+				xmin = 0.870
+				xmax = 0.900
+				text = "手"
+			intervals [4]:
+				xmin = 0.900
+				xmax = 1.360
+				text = "洗"
+			intervals [5]:
+				xmin = 1.360
+				xmax = 1.640
+				text = "腳"
+			intervals [6]:
+				xmin = 1.640
+				xmax = 1.820
+				text = "然"
+			intervals [7]:
+				xmin = 1.820
+				xmax = 1.990
+				text = "後"
+			intervals [8]:
+				xmin = 1.990
+				xmax = 2.210
+				text = "刷"
+			intervals [9]:
+				xmin = 2.210
+				xmax = 2.400
+				text = "牙"
+			intervals [10]:
+				xmin = 2.400
+				xmax = 2.650
+				text = "換"
+			intervals [11]:
+				xmin = 2.650
+				xmax = 2.740
+				text = "睡"
+			intervals [12]:
+				xmin = 2.740
+				xmax = 3.220
+				text = "衣"
+			intervals [13]:
+				xmin = 3.220
+				xmax = 3.820
+				text = "sp"
+			intervals [14]:
+				xmin = 3.820
+				xmax = 3.84
+				text = ""

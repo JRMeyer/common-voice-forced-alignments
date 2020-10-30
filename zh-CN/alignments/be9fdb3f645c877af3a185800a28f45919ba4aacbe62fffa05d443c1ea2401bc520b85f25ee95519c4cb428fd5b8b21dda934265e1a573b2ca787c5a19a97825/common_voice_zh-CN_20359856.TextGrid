@@ -1,0 +1,84 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 4.8
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "words"
+		xmin = 0.0
+		xmax = 4.8
+		intervals: size = 3
+			intervals [1]:
+				xmin = 0.0
+				xmax = 1.220
+				text = ""
+			intervals [2]:
+				xmin = 1.220
+				xmax = 4.780
+				text = "带双亲前往澳门输到脱裤"
+			intervals [3]:
+				xmin = 4.780
+				xmax = 4.8
+				text = ""
+	item [2]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 4.8
+		intervals: size = 13
+			intervals [1]:
+				xmin = 0.000
+				xmax = 1.220
+				text = "sil"
+			intervals [2]:
+				xmin = 1.220
+				xmax = 1.500
+				text = "带"
+			intervals [3]:
+				xmin = 1.500
+				xmax = 1.720
+				text = "双"
+			intervals [4]:
+				xmin = 1.720
+				xmax = 2.150
+				text = "亲"
+			intervals [5]:
+				xmin = 2.150
+				xmax = 2.210
+				text = "前"
+			intervals [6]:
+				xmin = 2.210
+				xmax = 2.740
+				text = "往"
+			intervals [7]:
+				xmin = 2.740
+				xmax = 2.870
+				text = "澳"
+			intervals [8]:
+				xmin = 2.870
+				xmax = 2.900
+				text = "门"
+			intervals [9]:
+				xmin = 2.900
+				xmax = 3.180
+				text = "输"
+			intervals [10]:
+				xmin = 3.180
+				xmax = 3.340
+				text = "到"
+			intervals [11]:
+				xmin = 3.340
+				xmax = 4.030
+				text = "脱"
+			intervals [12]:
+				xmin = 4.030
+				xmax = 4.780
+				text = "裤"
+			intervals [13]:
+				xmin = 4.780
+				xmax = 4.8
+				text = ""

@@ -1,0 +1,92 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 4.44
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "words"
+		xmin = 0.0
+		xmax = 4.44
+		intervals: size = 3
+			intervals [1]:
+				xmin = 0.0
+				xmax = 0.650
+				text = ""
+			intervals [2]:
+				xmin = 0.650
+				xmax = 3.620
+				text = "有三十七個是在泛珠省區內"
+			intervals [3]:
+				xmin = 3.620
+				xmax = 4.44
+				text = ""
+	item [2]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 4.44
+		intervals: size = 15
+			intervals [1]:
+				xmin = 0.000
+				xmax = 0.650
+				text = "sil"
+			intervals [2]:
+				xmin = 0.650
+				xmax = 0.860
+				text = "有"
+			intervals [3]:
+				xmin = 0.860
+				xmax = 1.170
+				text = "三"
+			intervals [4]:
+				xmin = 1.170
+				xmax = 1.410
+				text = "十"
+			intervals [5]:
+				xmin = 1.410
+				xmax = 1.510
+				text = "七"
+			intervals [6]:
+				xmin = 1.510
+				xmax = 1.820
+				text = "個"
+			intervals [7]:
+				xmin = 1.820
+				xmax = 2.070
+				text = "是"
+			intervals [8]:
+				xmin = 2.070
+				xmax = 2.300
+				text = "在"
+			intervals [9]:
+				xmin = 2.300
+				xmax = 2.610
+				text = "泛"
+			intervals [10]:
+				xmin = 2.610
+				xmax = 2.820
+				text = "珠"
+			intervals [11]:
+				xmin = 2.820
+				xmax = 3.000
+				text = "省"
+			intervals [12]:
+				xmin = 3.000
+				xmax = 3.350
+				text = "區"
+			intervals [13]:
+				xmin = 3.350
+				xmax = 3.620
+				text = "內"
+			intervals [14]:
+				xmin = 3.620
+				xmax = 4.420
+				text = "sp"
+			intervals [15]:
+				xmin = 4.420
+				xmax = 4.44
+				text = ""

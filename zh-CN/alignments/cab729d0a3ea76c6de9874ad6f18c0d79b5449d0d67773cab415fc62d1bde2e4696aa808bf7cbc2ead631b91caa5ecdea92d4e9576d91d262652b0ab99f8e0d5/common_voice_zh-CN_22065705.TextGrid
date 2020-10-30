@@ -1,0 +1,80 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 4.728
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "words"
+		xmin = 0.0
+		xmax = 4.728
+		intervals: size = 3
+			intervals [1]:
+				xmin = 0.0
+				xmax = 0.580
+				text = ""
+			intervals [2]:
+				xmin = 0.580
+				xmax = 4.710
+				text = "请出示身份证或学生证"
+			intervals [3]:
+				xmin = 4.710
+				xmax = 4.728
+				text = ""
+	item [2]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 4.728
+		intervals: size = 12
+			intervals [1]:
+				xmin = 0.000
+				xmax = 0.580
+				text = "sil"
+			intervals [2]:
+				xmin = 0.580
+				xmax = 0.970
+				text = "请"
+			intervals [3]:
+				xmin = 0.970
+				xmax = 2.220
+				text = "出"
+			intervals [4]:
+				xmin = 2.220
+				xmax = 2.250
+				text = "示"
+			intervals [5]:
+				xmin = 2.250
+				xmax = 2.310
+				text = "身"
+			intervals [6]:
+				xmin = 2.310
+				xmax = 2.700
+				text = "份"
+			intervals [7]:
+				xmin = 2.700
+				xmax = 2.730
+				text = "证"
+			intervals [8]:
+				xmin = 2.730
+				xmax = 3.040
+				text = "或"
+			intervals [9]:
+				xmin = 3.040
+				xmax = 3.370
+				text = "学"
+			intervals [10]:
+				xmin = 3.370
+				xmax = 4.080
+				text = "生"
+			intervals [11]:
+				xmin = 4.080
+				xmax = 4.710
+				text = "证"
+			intervals [12]:
+				xmin = 4.710
+				xmax = 4.728
+				text = ""

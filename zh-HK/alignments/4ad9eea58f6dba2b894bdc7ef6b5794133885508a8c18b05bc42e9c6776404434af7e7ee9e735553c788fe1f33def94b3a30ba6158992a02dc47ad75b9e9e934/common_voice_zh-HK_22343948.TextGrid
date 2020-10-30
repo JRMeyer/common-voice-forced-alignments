@@ -1,0 +1,92 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 3.6
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "words"
+		xmin = 0.0
+		xmax = 3.6
+		intervals: size = 3
+			intervals [1]:
+				xmin = 0.0
+				xmax = 0.650
+				text = ""
+			intervals [2]:
+				xmin = 0.650
+				xmax = 3.050
+				text = "未成年唔知道過，關我乜事"
+			intervals [3]:
+				xmin = 3.050
+				xmax = 3.6
+				text = ""
+	item [2]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 3.6
+		intervals: size = 15
+			intervals [1]:
+				xmin = 0.000
+				xmax = 0.650
+				text = "sil"
+			intervals [2]:
+				xmin = 0.650
+				xmax = 0.810
+				text = "未"
+			intervals [3]:
+				xmin = 0.810
+				xmax = 1.130
+				text = "成"
+			intervals [4]:
+				xmin = 1.130
+				xmax = 1.280
+				text = "年"
+			intervals [5]:
+				xmin = 1.280
+				xmax = 1.420
+				text = "唔"
+			intervals [6]:
+				xmin = 1.420
+				xmax = 1.640
+				text = "知"
+			intervals [7]:
+				xmin = 1.640
+				xmax = 1.850
+				text = "道"
+			intervals [8]:
+				xmin = 1.850
+				xmax = 2.190
+				text = "過"
+			intervals [9]:
+				xmin = 2.190
+				xmax = 2.240
+				text = "，"
+			intervals [10]:
+				xmin = 2.240
+				xmax = 2.490
+				text = "關"
+			intervals [11]:
+				xmin = 2.490
+				xmax = 2.620
+				text = "我"
+			intervals [12]:
+				xmin = 2.620
+				xmax = 2.700
+				text = "乜"
+			intervals [13]:
+				xmin = 2.700
+				xmax = 3.050
+				text = "事"
+			intervals [14]:
+				xmin = 3.050
+				xmax = 3.580
+				text = "sp"
+			intervals [15]:
+				xmin = 3.580
+				xmax = 3.6
+				text = ""

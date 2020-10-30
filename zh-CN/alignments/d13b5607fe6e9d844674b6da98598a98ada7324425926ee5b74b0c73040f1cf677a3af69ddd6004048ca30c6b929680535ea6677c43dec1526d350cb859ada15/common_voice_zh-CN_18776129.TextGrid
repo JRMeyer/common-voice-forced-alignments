@@ -1,0 +1,88 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 3.84
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "words"
+		xmin = 0.0
+		xmax = 3.84
+		intervals: size = 3
+			intervals [1]:
+				xmin = 0.0
+				xmax = 0.850
+				text = ""
+			intervals [2]:
+				xmin = 0.850
+				xmax = 3.260
+				text = "青海高新技术产业开发区"
+			intervals [3]:
+				xmin = 3.260
+				xmax = 3.84
+				text = ""
+	item [2]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 3.84
+		intervals: size = 14
+			intervals [1]:
+				xmin = 0.000
+				xmax = 0.850
+				text = "sil"
+			intervals [2]:
+				xmin = 0.850
+				xmax = 1.010
+				text = "青"
+			intervals [3]:
+				xmin = 1.010
+				xmax = 1.260
+				text = "海"
+			intervals [4]:
+				xmin = 1.260
+				xmax = 1.550
+				text = "高"
+			intervals [5]:
+				xmin = 1.550
+				xmax = 1.860
+				text = "新"
+			intervals [6]:
+				xmin = 1.860
+				xmax = 1.900
+				text = "技"
+			intervals [7]:
+				xmin = 1.900
+				xmax = 2.000
+				text = "术"
+			intervals [8]:
+				xmin = 2.000
+				xmax = 2.390
+				text = "产"
+			intervals [9]:
+				xmin = 2.390
+				xmax = 2.610
+				text = "业"
+			intervals [10]:
+				xmin = 2.610
+				xmax = 2.810
+				text = "开"
+			intervals [11]:
+				xmin = 2.810
+				xmax = 2.970
+				text = "发"
+			intervals [12]:
+				xmin = 2.970
+				xmax = 3.260
+				text = "区"
+			intervals [13]:
+				xmin = 3.260
+				xmax = 3.820
+				text = "sp"
+			intervals [14]:
+				xmin = 3.820
+				xmax = 3.84
+				text = ""

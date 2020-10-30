@@ -1,0 +1,112 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 4.8
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "words"
+		xmin = 0.0
+		xmax = 4.8
+		intervals: size = 3
+			intervals [1]:
+				xmin = 0.0
+				xmax = 0.860
+				text = ""
+			intervals [2]:
+				xmin = 0.860
+				xmax = 4.100
+				text = "所謂雞髀打人牙骹軟你讚多佢幾句就喇"
+			intervals [3]:
+				xmin = 4.100
+				xmax = 4.8
+				text = ""
+	item [2]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 4.8
+		intervals: size = 20
+			intervals [1]:
+				xmin = 0.000
+				xmax = 0.860
+				text = "sil"
+			intervals [2]:
+				xmin = 0.860
+				xmax = 1.080
+				text = "所"
+			intervals [3]:
+				xmin = 1.080
+				xmax = 1.230
+				text = "謂"
+			intervals [4]:
+				xmin = 1.230
+				xmax = 1.680
+				text = "雞"
+			intervals [5]:
+				xmin = 1.680
+				xmax = 1.740
+				text = "髀"
+			intervals [6]:
+				xmin = 1.740
+				xmax = 1.860
+				text = "打"
+			intervals [7]:
+				xmin = 1.860
+				xmax = 1.970
+				text = "人"
+			intervals [8]:
+				xmin = 1.970
+				xmax = 2.000
+				text = "牙"
+			intervals [9]:
+				xmin = 2.000
+				xmax = 2.380
+				text = "骹"
+			intervals [10]:
+				xmin = 2.380
+				xmax = 2.600
+				text = "軟"
+			intervals [11]:
+				xmin = 2.600
+				xmax = 2.840
+				text = "你"
+			intervals [12]:
+				xmin = 2.840
+				xmax = 3.070
+				text = "讚"
+			intervals [13]:
+				xmin = 3.070
+				xmax = 3.210
+				text = "多"
+			intervals [14]:
+				xmin = 3.210
+				xmax = 3.370
+				text = "佢"
+			intervals [15]:
+				xmin = 3.370
+				xmax = 3.550
+				text = "幾"
+			intervals [16]:
+				xmin = 3.550
+				xmax = 3.670
+				text = "句"
+			intervals [17]:
+				xmin = 3.670
+				xmax = 3.700
+				text = "就"
+			intervals [18]:
+				xmin = 3.700
+				xmax = 4.100
+				text = "喇"
+			intervals [19]:
+				xmin = 4.100
+				xmax = 4.780
+				text = "sp"
+			intervals [20]:
+				xmin = 4.780
+				xmax = 4.8
+				text = ""

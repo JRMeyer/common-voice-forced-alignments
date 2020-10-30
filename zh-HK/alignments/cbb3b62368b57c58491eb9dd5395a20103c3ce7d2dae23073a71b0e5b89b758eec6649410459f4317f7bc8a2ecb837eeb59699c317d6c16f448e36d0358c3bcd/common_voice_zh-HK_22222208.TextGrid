@@ -1,0 +1,100 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 6.6
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "words"
+		xmin = 0.0
+		xmax = 6.6
+		intervals: size = 3
+			intervals [1]:
+				xmin = 0.0
+				xmax = 1.100
+				text = ""
+			intervals [2]:
+				xmin = 1.100
+				xmax = 5.080
+				text = "有個老人去左牛池灣沐翠街食齋"
+			intervals [3]:
+				xmin = 5.080
+				xmax = 6.6
+				text = ""
+	item [2]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 6.6
+		intervals: size = 17
+			intervals [1]:
+				xmin = 0.000
+				xmax = 1.100
+				text = "sil"
+			intervals [2]:
+				xmin = 1.100
+				xmax = 1.380
+				text = "有"
+			intervals [3]:
+				xmin = 1.380
+				xmax = 1.530
+				text = "個"
+			intervals [4]:
+				xmin = 1.530
+				xmax = 1.830
+				text = "老"
+			intervals [5]:
+				xmin = 1.830
+				xmax = 2.050
+				text = "人"
+			intervals [6]:
+				xmin = 2.050
+				xmax = 2.320
+				text = "去"
+			intervals [7]:
+				xmin = 2.320
+				xmax = 2.600
+				text = "左"
+			intervals [8]:
+				xmin = 2.600
+				xmax = 2.830
+				text = "牛"
+			intervals [9]:
+				xmin = 2.830
+				xmax = 3.170
+				text = "池"
+			intervals [10]:
+				xmin = 3.170
+				xmax = 3.560
+				text = "灣"
+			intervals [11]:
+				xmin = 3.560
+				xmax = 3.760
+				text = "沐"
+			intervals [12]:
+				xmin = 3.760
+				xmax = 4.150
+				text = "翠"
+			intervals [13]:
+				xmin = 4.150
+				xmax = 4.440
+				text = "街"
+			intervals [14]:
+				xmin = 4.440
+				xmax = 4.830
+				text = "食"
+			intervals [15]:
+				xmin = 4.830
+				xmax = 5.080
+				text = "齋"
+			intervals [16]:
+				xmin = 5.080
+				xmax = 6.580
+				text = "sp"
+			intervals [17]:
+				xmin = 6.580
+				xmax = 6.6
+				text = ""

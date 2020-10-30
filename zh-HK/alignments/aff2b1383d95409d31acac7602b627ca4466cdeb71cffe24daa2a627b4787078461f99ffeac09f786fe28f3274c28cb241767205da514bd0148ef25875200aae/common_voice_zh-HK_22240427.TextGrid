@@ -1,0 +1,104 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 7.032
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "words"
+		xmin = 0.0
+		xmax = 7.032
+		intervals: size = 7
+			intervals [1]:
+				xmin = 0.0
+				xmax = 0.950
+				text = ""
+			intervals [2]:
+				xmin = 0.950
+				xmax = 1.600
+				text = "<unk>"
+			intervals [3]:
+				xmin = 1.600
+				xmax = 2.000
+				text = ""
+			intervals [4]:
+				xmin = 2.000
+				xmax = 2.280
+				text = "白飯"
+			intervals [5]:
+				xmin = 2.280
+				xmax = 2.330
+				text = ""
+			intervals [6]:
+				xmin = 2.330
+				xmax = 4.160
+				text = "甜品，味噌湯"
+			intervals [7]:
+				xmin = 4.160
+				xmax = 7.032
+				text = ""
+	item [2]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 7.032
+		intervals: size = 14
+			intervals [1]:
+				xmin = 0.000
+				xmax = 0.950
+				text = "sil"
+			intervals [2]:
+				xmin = 0.950
+				xmax = 1.600
+				text = "spn"
+			intervals [3]:
+				xmin = 1.600
+				xmax = 2.000
+				text = "sp"
+			intervals [4]:
+				xmin = 2.000
+				xmax = 2.030
+				text = "白"
+			intervals [5]:
+				xmin = 2.030
+				xmax = 2.280
+				text = "飯"
+			intervals [6]:
+				xmin = 2.280
+				xmax = 2.330
+				text = "sp"
+			intervals [7]:
+				xmin = 2.330
+				xmax = 2.670
+				text = "甜"
+			intervals [8]:
+				xmin = 2.670
+				xmax = 3.190
+				text = "品"
+			intervals [9]:
+				xmin = 3.190
+				xmax = 3.510
+				text = "，"
+			intervals [10]:
+				xmin = 3.510
+				xmax = 3.540
+				text = "味"
+			intervals [11]:
+				xmin = 3.540
+				xmax = 3.610
+				text = "噌"
+			intervals [12]:
+				xmin = 3.610
+				xmax = 4.160
+				text = "湯"
+			intervals [13]:
+				xmin = 4.160
+				xmax = 7.010
+				text = "sp"
+			intervals [14]:
+				xmin = 7.010
+				xmax = 7.032
+				text = ""

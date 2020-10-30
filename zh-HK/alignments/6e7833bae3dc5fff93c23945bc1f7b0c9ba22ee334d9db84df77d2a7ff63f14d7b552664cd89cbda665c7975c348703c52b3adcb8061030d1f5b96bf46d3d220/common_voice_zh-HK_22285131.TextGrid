@@ -1,0 +1,116 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 6.24
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "words"
+		xmin = 0.0
+		xmax = 6.24
+		intervals: size = 11
+			intervals [1]:
+				xmin = 0.0
+				xmax = 0.930
+				text = ""
+			intervals [2]:
+				xmin = 0.930
+				xmax = 2.340
+				text = "<unk>"
+			intervals [3]:
+				xmin = 2.340
+				xmax = 2.490
+				text = ""
+			intervals [4]:
+				xmin = 2.490
+				xmax = 3.050
+				text = "<unk>"
+			intervals [5]:
+				xmin = 3.050
+				xmax = 3.360
+				text = ""
+			intervals [6]:
+				xmin = 3.360
+				xmax = 4.000
+				text = "<unk>"
+			intervals [7]:
+				xmin = 4.000
+				xmax = 4.180
+				text = ""
+			intervals [8]:
+				xmin = 4.180
+				xmax = 4.670
+				text = "<unk>"
+			intervals [9]:
+				xmin = 4.670
+				xmax = 4.800
+				text = ""
+			intervals [10]:
+				xmin = 4.800
+				xmax = 5.370
+				text = "紅豆"
+			intervals [11]:
+				xmin = 5.370
+				xmax = 6.24
+				text = ""
+	item [2]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 6.24
+		intervals: size = 13
+			intervals [1]:
+				xmin = 0.000
+				xmax = 0.930
+				text = "sil"
+			intervals [2]:
+				xmin = 0.930
+				xmax = 2.340
+				text = "spn"
+			intervals [3]:
+				xmin = 2.340
+				xmax = 2.490
+				text = "sp"
+			intervals [4]:
+				xmin = 2.490
+				xmax = 3.050
+				text = "spn"
+			intervals [5]:
+				xmin = 3.050
+				xmax = 3.360
+				text = "sp"
+			intervals [6]:
+				xmin = 3.360
+				xmax = 4.000
+				text = "spn"
+			intervals [7]:
+				xmin = 4.000
+				xmax = 4.180
+				text = "sp"
+			intervals [8]:
+				xmin = 4.180
+				xmax = 4.670
+				text = "spn"
+			intervals [9]:
+				xmin = 4.670
+				xmax = 4.800
+				text = "sp"
+			intervals [10]:
+				xmin = 4.800
+				xmax = 4.950
+				text = "紅"
+			intervals [11]:
+				xmin = 4.950
+				xmax = 5.370
+				text = "豆"
+			intervals [12]:
+				xmin = 5.370
+				xmax = 6.220
+				text = "sp"
+			intervals [13]:
+				xmin = 6.220
+				xmax = 6.24
+				text = ""

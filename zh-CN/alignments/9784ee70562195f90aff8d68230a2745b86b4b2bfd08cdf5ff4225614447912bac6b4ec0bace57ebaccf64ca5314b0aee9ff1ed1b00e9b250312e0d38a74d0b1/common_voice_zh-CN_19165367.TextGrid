@@ -1,0 +1,92 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 3.84
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "words"
+		xmin = 0.0
+		xmax = 3.84
+		intervals: size = 3
+			intervals [1]:
+				xmin = 0.0
+				xmax = 0.500
+				text = ""
+			intervals [2]:
+				xmin = 0.500
+				xmax = 3.120
+				text = "内蒙古自治区地区生产总值"
+			intervals [3]:
+				xmin = 3.120
+				xmax = 3.84
+				text = ""
+	item [2]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 3.84
+		intervals: size = 15
+			intervals [1]:
+				xmin = 0.000
+				xmax = 0.500
+				text = "sil"
+			intervals [2]:
+				xmin = 0.500
+				xmax = 0.570
+				text = "内"
+			intervals [3]:
+				xmin = 0.570
+				xmax = 0.730
+				text = "蒙"
+			intervals [4]:
+				xmin = 0.730
+				xmax = 1.230
+				text = "古"
+			intervals [5]:
+				xmin = 1.230
+				xmax = 1.630
+				text = "自"
+			intervals [6]:
+				xmin = 1.630
+				xmax = 1.660
+				text = "治"
+			intervals [7]:
+				xmin = 1.660
+				xmax = 1.830
+				text = "区"
+			intervals [8]:
+				xmin = 1.830
+				xmax = 1.960
+				text = "地"
+			intervals [9]:
+				xmin = 1.960
+				xmax = 2.260
+				text = "区"
+			intervals [10]:
+				xmin = 2.260
+				xmax = 2.460
+				text = "生"
+			intervals [11]:
+				xmin = 2.460
+				xmax = 2.830
+				text = "产"
+			intervals [12]:
+				xmin = 2.830
+				xmax = 2.990
+				text = "总"
+			intervals [13]:
+				xmin = 2.990
+				xmax = 3.120
+				text = "值"
+			intervals [14]:
+				xmin = 3.120
+				xmax = 3.820
+				text = "sp"
+			intervals [15]:
+				xmin = 3.820
+				xmax = 3.84
+				text = ""

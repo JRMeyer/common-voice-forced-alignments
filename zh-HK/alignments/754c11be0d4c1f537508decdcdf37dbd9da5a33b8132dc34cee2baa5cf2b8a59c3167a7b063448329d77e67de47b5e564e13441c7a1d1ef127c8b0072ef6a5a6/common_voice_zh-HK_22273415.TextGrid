@@ -1,0 +1,104 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 4.2
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "words"
+		xmin = 0.0
+		xmax = 4.2
+		intervals: size = 3
+			intervals [1]:
+				xmin = 0.0
+				xmax = 0.940
+				text = ""
+			intervals [2]:
+				xmin = 0.940
+				xmax = 3.730
+				text = "有怪莫怪，唔好怪細路哥唔識世界"
+			intervals [3]:
+				xmin = 3.730
+				xmax = 4.2
+				text = ""
+	item [2]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 4.2
+		intervals: size = 18
+			intervals [1]:
+				xmin = 0.000
+				xmax = 0.940
+				text = "sil"
+			intervals [2]:
+				xmin = 0.940
+				xmax = 1.190
+				text = "有"
+			intervals [3]:
+				xmin = 1.190
+				xmax = 1.360
+				text = "怪"
+			intervals [4]:
+				xmin = 1.360
+				xmax = 1.630
+				text = "莫"
+			intervals [5]:
+				xmin = 1.630
+				xmax = 1.830
+				text = "怪"
+			intervals [6]:
+				xmin = 1.830
+				xmax = 1.860
+				text = "，"
+			intervals [7]:
+				xmin = 1.860
+				xmax = 1.950
+				text = "唔"
+			intervals [8]:
+				xmin = 1.950
+				xmax = 2.200
+				text = "好"
+			intervals [9]:
+				xmin = 2.200
+				xmax = 2.340
+				text = "怪"
+			intervals [10]:
+				xmin = 2.340
+				xmax = 2.480
+				text = "細"
+			intervals [11]:
+				xmin = 2.480
+				xmax = 2.730
+				text = "路"
+			intervals [12]:
+				xmin = 2.730
+				xmax = 2.940
+				text = "哥"
+			intervals [13]:
+				xmin = 2.940
+				xmax = 3.070
+				text = "唔"
+			intervals [14]:
+				xmin = 3.070
+				xmax = 3.340
+				text = "識"
+			intervals [15]:
+				xmin = 3.340
+				xmax = 3.430
+				text = "世"
+			intervals [16]:
+				xmin = 3.430
+				xmax = 3.730
+				text = "界"
+			intervals [17]:
+				xmin = 3.730
+				xmax = 4.180
+				text = "sp"
+			intervals [18]:
+				xmin = 4.180
+				xmax = 4.2
+				text = ""

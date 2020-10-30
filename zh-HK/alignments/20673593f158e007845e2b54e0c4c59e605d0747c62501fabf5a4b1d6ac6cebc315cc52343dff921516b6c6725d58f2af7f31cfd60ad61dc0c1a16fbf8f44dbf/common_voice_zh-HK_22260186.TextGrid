@@ -1,0 +1,112 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 6.6
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "words"
+		xmin = 0.0
+		xmax = 6.6
+		intervals: size = 3
+			intervals [1]:
+				xmin = 0.0
+				xmax = 1.000
+				text = ""
+			intervals [2]:
+				xmin = 1.000
+				xmax = 5.320
+				text = "黃師傅去東涌迎禧路幫個後生仔睇跌打"
+			intervals [3]:
+				xmin = 5.320
+				xmax = 6.6
+				text = ""
+	item [2]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 6.6
+		intervals: size = 20
+			intervals [1]:
+				xmin = 0.000
+				xmax = 1.000
+				text = "sil"
+			intervals [2]:
+				xmin = 1.000
+				xmax = 1.300
+				text = "黃"
+			intervals [3]:
+				xmin = 1.300
+				xmax = 1.560
+				text = "師"
+			intervals [4]:
+				xmin = 1.560
+				xmax = 1.840
+				text = "傅"
+			intervals [5]:
+				xmin = 1.840
+				xmax = 2.060
+				text = "去"
+			intervals [6]:
+				xmin = 2.060
+				xmax = 2.290
+				text = "東"
+			intervals [7]:
+				xmin = 2.290
+				xmax = 2.550
+				text = "涌"
+			intervals [8]:
+				xmin = 2.550
+				xmax = 2.900
+				text = "迎"
+			intervals [9]:
+				xmin = 2.900
+				xmax = 3.130
+				text = "禧"
+			intervals [10]:
+				xmin = 3.130
+				xmax = 3.400
+				text = "路"
+			intervals [11]:
+				xmin = 3.400
+				xmax = 3.530
+				text = "幫"
+			intervals [12]:
+				xmin = 3.530
+				xmax = 3.710
+				text = "個"
+			intervals [13]:
+				xmin = 3.710
+				xmax = 4.040
+				text = "後"
+			intervals [14]:
+				xmin = 4.040
+				xmax = 4.250
+				text = "生"
+			intervals [15]:
+				xmin = 4.250
+				xmax = 4.460
+				text = "仔"
+			intervals [16]:
+				xmin = 4.460
+				xmax = 4.690
+				text = "睇"
+			intervals [17]:
+				xmin = 4.690
+				xmax = 4.960
+				text = "跌"
+			intervals [18]:
+				xmin = 4.960
+				xmax = 5.320
+				text = "打"
+			intervals [19]:
+				xmin = 5.320
+				xmax = 6.580
+				text = "sp"
+			intervals [20]:
+				xmin = 6.580
+				xmax = 6.6
+				text = ""

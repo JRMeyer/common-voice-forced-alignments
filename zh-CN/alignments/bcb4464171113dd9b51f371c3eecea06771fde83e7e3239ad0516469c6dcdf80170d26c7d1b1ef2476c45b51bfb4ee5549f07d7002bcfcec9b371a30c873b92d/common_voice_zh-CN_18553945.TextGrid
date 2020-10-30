@@ -1,0 +1,92 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 4.2
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "words"
+		xmin = 0.0
+		xmax = 4.2
+		intervals: size = 3
+			intervals [1]:
+				xmin = 0.0
+				xmax = 0.490
+				text = ""
+			intervals [2]:
+				xmin = 0.490
+				xmax = 3.290
+				text = "由春岗互通向萝岗方向排列"
+			intervals [3]:
+				xmin = 3.290
+				xmax = 4.2
+				text = ""
+	item [2]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 4.2
+		intervals: size = 15
+			intervals [1]:
+				xmin = 0.000
+				xmax = 0.490
+				text = "sil"
+			intervals [2]:
+				xmin = 0.490
+				xmax = 0.600
+				text = "由"
+			intervals [3]:
+				xmin = 0.600
+				xmax = 1.020
+				text = "春"
+			intervals [4]:
+				xmin = 1.020
+				xmax = 1.270
+				text = "岗"
+			intervals [5]:
+				xmin = 1.270
+				xmax = 1.550
+				text = "互"
+			intervals [6]:
+				xmin = 1.550
+				xmax = 1.840
+				text = "通"
+			intervals [7]:
+				xmin = 1.840
+				xmax = 2.050
+				text = "向"
+			intervals [8]:
+				xmin = 2.050
+				xmax = 2.340
+				text = "萝"
+			intervals [9]:
+				xmin = 2.340
+				xmax = 2.970
+				text = "岗"
+			intervals [10]:
+				xmin = 2.970
+				xmax = 3.000
+				text = "方"
+			intervals [11]:
+				xmin = 3.000
+				xmax = 3.130
+				text = "向"
+			intervals [12]:
+				xmin = 3.130
+				xmax = 3.260
+				text = "排"
+			intervals [13]:
+				xmin = 3.260
+				xmax = 3.290
+				text = "列"
+			intervals [14]:
+				xmin = 3.290
+				xmax = 4.180
+				text = "sp"
+			intervals [15]:
+				xmin = 4.180
+				xmax = 4.2
+				text = ""

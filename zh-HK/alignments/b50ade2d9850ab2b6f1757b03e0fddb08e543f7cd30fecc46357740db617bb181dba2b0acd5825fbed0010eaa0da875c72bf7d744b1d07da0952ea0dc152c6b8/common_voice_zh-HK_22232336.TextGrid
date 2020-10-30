@@ -1,0 +1,76 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 3.48
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "words"
+		xmin = 0.0
+		xmax = 3.48
+		intervals: size = 3
+			intervals [1]:
+				xmin = 0.0
+				xmax = 0.630
+				text = ""
+			intervals [2]:
+				xmin = 0.630
+				xmax = 2.770
+				text = "聖若瑟安老院教堂"
+			intervals [3]:
+				xmin = 2.770
+				xmax = 3.48
+				text = ""
+	item [2]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 3.48
+		intervals: size = 11
+			intervals [1]:
+				xmin = 0.000
+				xmax = 0.630
+				text = "sil"
+			intervals [2]:
+				xmin = 0.630
+				xmax = 0.920
+				text = "聖"
+			intervals [3]:
+				xmin = 0.920
+				xmax = 1.070
+				text = "若"
+			intervals [4]:
+				xmin = 1.070
+				xmax = 1.390
+				text = "瑟"
+			intervals [5]:
+				xmin = 1.390
+				xmax = 1.680
+				text = "安"
+			intervals [6]:
+				xmin = 1.680
+				xmax = 1.900
+				text = "老"
+			intervals [7]:
+				xmin = 1.900
+				xmax = 2.190
+				text = "院"
+			intervals [8]:
+				xmin = 2.190
+				xmax = 2.430
+				text = "教"
+			intervals [9]:
+				xmin = 2.430
+				xmax = 2.770
+				text = "堂"
+			intervals [10]:
+				xmin = 2.770
+				xmax = 3.460
+				text = "sp"
+			intervals [11]:
+				xmin = 3.460
+				xmax = 3.48
+				text = ""

@@ -1,0 +1,92 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 4.608
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "words"
+		xmin = 0.0
+		xmax = 4.608
+		intervals: size = 3
+			intervals [1]:
+				xmin = 0.0
+				xmax = 0.730
+				text = ""
+			intervals [2]:
+				xmin = 0.730
+				xmax = 3.770
+				text = "口腔腔大隻講你唔好亂咁講"
+			intervals [3]:
+				xmin = 3.770
+				xmax = 4.608
+				text = ""
+	item [2]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 4.608
+		intervals: size = 15
+			intervals [1]:
+				xmin = 0.000
+				xmax = 0.730
+				text = "sil"
+			intervals [2]:
+				xmin = 0.730
+				xmax = 0.960
+				text = "口"
+			intervals [3]:
+				xmin = 0.960
+				xmax = 0.990
+				text = "腔"
+			intervals [4]:
+				xmin = 0.990
+				xmax = 1.440
+				text = "腔"
+			intervals [5]:
+				xmin = 1.440
+				xmax = 1.690
+				text = "大"
+			intervals [6]:
+				xmin = 1.690
+				xmax = 1.880
+				text = "隻"
+			intervals [7]:
+				xmin = 1.880
+				xmax = 2.360
+				text = "講"
+			intervals [8]:
+				xmin = 2.360
+				xmax = 2.570
+				text = "你"
+			intervals [9]:
+				xmin = 2.570
+				xmax = 2.730
+				text = "唔"
+			intervals [10]:
+				xmin = 2.730
+				xmax = 2.960
+				text = "好"
+			intervals [11]:
+				xmin = 2.960
+				xmax = 3.180
+				text = "亂"
+			intervals [12]:
+				xmin = 3.180
+				xmax = 3.370
+				text = "咁"
+			intervals [13]:
+				xmin = 3.370
+				xmax = 3.770
+				text = "講"
+			intervals [14]:
+				xmin = 3.770
+				xmax = 4.590
+				text = "sp"
+			intervals [15]:
+				xmin = 4.590
+				xmax = 4.608
+				text = ""

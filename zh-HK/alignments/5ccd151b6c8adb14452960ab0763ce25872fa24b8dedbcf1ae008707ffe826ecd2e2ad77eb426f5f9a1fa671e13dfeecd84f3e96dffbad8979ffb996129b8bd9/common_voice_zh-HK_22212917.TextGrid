@@ -1,0 +1,112 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 4.8
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "words"
+		xmin = 0.0
+		xmax = 4.8
+		intervals: size = 3
+			intervals [1]:
+				xmin = 0.0
+				xmax = 0.610
+				text = ""
+			intervals [2]:
+				xmin = 0.610
+				xmax = 4.440
+				text = "有個亞伯喺跑馬地箕璉坊唔見左個銀包"
+			intervals [3]:
+				xmin = 4.440
+				xmax = 4.8
+				text = ""
+	item [2]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 4.8
+		intervals: size = 20
+			intervals [1]:
+				xmin = 0.000
+				xmax = 0.610
+				text = "sil"
+			intervals [2]:
+				xmin = 0.610
+				xmax = 0.800
+				text = "有"
+			intervals [3]:
+				xmin = 0.800
+				xmax = 0.980
+				text = "個"
+			intervals [4]:
+				xmin = 0.980
+				xmax = 1.310
+				text = "亞"
+			intervals [5]:
+				xmin = 1.310
+				xmax = 1.370
+				text = "伯"
+			intervals [6]:
+				xmin = 1.370
+				xmax = 1.570
+				text = "喺"
+			intervals [7]:
+				xmin = 1.570
+				xmax = 1.680
+				text = "跑"
+			intervals [8]:
+				xmin = 1.680
+				xmax = 2.060
+				text = "馬"
+			intervals [9]:
+				xmin = 2.060
+				xmax = 2.340
+				text = "地"
+			intervals [10]:
+				xmin = 2.340
+				xmax = 2.430
+				text = "箕"
+			intervals [11]:
+				xmin = 2.430
+				xmax = 2.760
+				text = "璉"
+			intervals [12]:
+				xmin = 2.760
+				xmax = 2.990
+				text = "坊"
+			intervals [13]:
+				xmin = 2.990
+				xmax = 3.110
+				text = "唔"
+			intervals [14]:
+				xmin = 3.110
+				xmax = 3.300
+				text = "見"
+			intervals [15]:
+				xmin = 3.300
+				xmax = 3.510
+				text = "左"
+			intervals [16]:
+				xmin = 3.510
+				xmax = 3.720
+				text = "個"
+			intervals [17]:
+				xmin = 3.720
+				xmax = 4.250
+				text = "銀"
+			intervals [18]:
+				xmin = 4.250
+				xmax = 4.440
+				text = "包"
+			intervals [19]:
+				xmin = 4.440
+				xmax = 4.780
+				text = "sp"
+			intervals [20]:
+				xmin = 4.780
+				xmax = 4.8
+				text = ""

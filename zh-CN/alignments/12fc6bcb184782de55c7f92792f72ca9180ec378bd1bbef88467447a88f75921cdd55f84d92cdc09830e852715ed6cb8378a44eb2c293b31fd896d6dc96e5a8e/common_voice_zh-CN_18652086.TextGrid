@@ -1,0 +1,92 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 3.6
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "words"
+		xmin = 0.0
+		xmax = 3.6
+		intervals: size = 3
+			intervals [1]:
+				xmin = 0.0
+				xmax = 0.570
+				text = ""
+			intervals [2]:
+				xmin = 0.570
+				xmax = 2.880
+				text = "北海道哈密瓜真的不怎么样"
+			intervals [3]:
+				xmin = 2.880
+				xmax = 3.6
+				text = ""
+	item [2]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 3.6
+		intervals: size = 15
+			intervals [1]:
+				xmin = 0.000
+				xmax = 0.570
+				text = "sil"
+			intervals [2]:
+				xmin = 0.570
+				xmax = 0.750
+				text = "北"
+			intervals [3]:
+				xmin = 0.750
+				xmax = 0.910
+				text = "海"
+			intervals [4]:
+				xmin = 0.910
+				xmax = 0.940
+				text = "道"
+			intervals [5]:
+				xmin = 0.940
+				xmax = 1.070
+				text = "哈"
+			intervals [6]:
+				xmin = 1.070
+				xmax = 1.790
+				text = "密"
+			intervals [7]:
+				xmin = 1.790
+				xmax = 1.850
+				text = "瓜"
+			intervals [8]:
+				xmin = 1.850
+				xmax = 1.910
+				text = "真"
+			intervals [9]:
+				xmin = 1.910
+				xmax = 2.220
+				text = "的"
+			intervals [10]:
+				xmin = 2.220
+				xmax = 2.340
+				text = "不"
+			intervals [11]:
+				xmin = 2.340
+				xmax = 2.380
+				text = "怎"
+			intervals [12]:
+				xmin = 2.380
+				xmax = 2.770
+				text = "么"
+			intervals [13]:
+				xmin = 2.770
+				xmax = 2.880
+				text = "样"
+			intervals [14]:
+				xmin = 2.880
+				xmax = 3.580
+				text = "sp"
+			intervals [15]:
+				xmin = 3.580
+				xmax = 3.6
+				text = ""

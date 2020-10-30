@@ -1,0 +1,92 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 3.6
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "words"
+		xmin = 0.0
+		xmax = 3.6
+		intervals: size = 3
+			intervals [1]:
+				xmin = 0.0
+				xmax = 0.380
+				text = ""
+			intervals [2]:
+				xmin = 0.380
+				xmax = 3.030
+				text = "堆栈与队列的顺序存储结构"
+			intervals [3]:
+				xmin = 3.030
+				xmax = 3.6
+				text = ""
+	item [2]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 3.6
+		intervals: size = 15
+			intervals [1]:
+				xmin = 0.000
+				xmax = 0.380
+				text = "sil"
+			intervals [2]:
+				xmin = 0.380
+				xmax = 0.520
+				text = "堆"
+			intervals [3]:
+				xmin = 0.520
+				xmax = 0.790
+				text = "栈"
+			intervals [4]:
+				xmin = 0.790
+				xmax = 1.080
+				text = "与"
+			intervals [5]:
+				xmin = 1.080
+				xmax = 1.160
+				text = "队"
+			intervals [6]:
+				xmin = 1.160
+				xmax = 1.350
+				text = "列"
+			intervals [7]:
+				xmin = 1.350
+				xmax = 1.560
+				text = "的"
+			intervals [8]:
+				xmin = 1.560
+				xmax = 1.590
+				text = "顺"
+			intervals [9]:
+				xmin = 1.590
+				xmax = 1.620
+				text = "序"
+			intervals [10]:
+				xmin = 1.620
+				xmax = 1.730
+				text = "存"
+			intervals [11]:
+				xmin = 1.730
+				xmax = 2.370
+				text = "储"
+			intervals [12]:
+				xmin = 2.370
+				xmax = 2.790
+				text = "结"
+			intervals [13]:
+				xmin = 2.790
+				xmax = 3.030
+				text = "构"
+			intervals [14]:
+				xmin = 3.030
+				xmax = 3.580
+				text = "sp"
+			intervals [15]:
+				xmin = 3.580
+				xmax = 3.6
+				text = ""

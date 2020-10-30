@@ -1,0 +1,84 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 3.24
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "words"
+		xmin = 0.0
+		xmax = 3.24
+		intervals: size = 3
+			intervals [1]:
+				xmin = 0.0
+				xmax = 0.790
+				text = ""
+			intervals [2]:
+				xmin = 0.790
+				xmax = 2.640
+				text = "外嫁女手指拗出唔拗入"
+			intervals [3]:
+				xmin = 2.640
+				xmax = 3.24
+				text = ""
+	item [2]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 3.24
+		intervals: size = 13
+			intervals [1]:
+				xmin = 0.000
+				xmax = 0.790
+				text = "sil"
+			intervals [2]:
+				xmin = 0.790
+				xmax = 1.010
+				text = "外"
+			intervals [3]:
+				xmin = 1.010
+				xmax = 1.190
+				text = "嫁"
+			intervals [4]:
+				xmin = 1.190
+				xmax = 1.390
+				text = "女"
+			intervals [5]:
+				xmin = 1.390
+				xmax = 1.700
+				text = "手"
+			intervals [6]:
+				xmin = 1.700
+				xmax = 1.750
+				text = "指"
+			intervals [7]:
+				xmin = 1.750
+				xmax = 1.920
+				text = "拗"
+			intervals [8]:
+				xmin = 1.920
+				xmax = 2.080
+				text = "出"
+			intervals [9]:
+				xmin = 2.080
+				xmax = 2.220
+				text = "唔"
+			intervals [10]:
+				xmin = 2.220
+				xmax = 2.540
+				text = "拗"
+			intervals [11]:
+				xmin = 2.540
+				xmax = 2.640
+				text = "入"
+			intervals [12]:
+				xmin = 2.640
+				xmax = 3.220
+				text = "sp"
+			intervals [13]:
+				xmin = 3.220
+				xmax = 3.24
+				text = ""

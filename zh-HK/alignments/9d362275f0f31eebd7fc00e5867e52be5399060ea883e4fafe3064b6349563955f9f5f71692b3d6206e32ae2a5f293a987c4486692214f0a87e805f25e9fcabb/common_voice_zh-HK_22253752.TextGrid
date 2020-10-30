@@ -1,0 +1,92 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 4.8
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "words"
+		xmin = 0.0
+		xmax = 4.8
+		intervals: size = 3
+			intervals [1]:
+				xmin = 0.0
+				xmax = 0.830
+				text = ""
+			intervals [2]:
+				xmin = 0.830
+				xmax = 3.910
+				text = "並在出汗或游泳後再次塗上"
+			intervals [3]:
+				xmin = 3.910
+				xmax = 4.8
+				text = ""
+	item [2]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 4.8
+		intervals: size = 15
+			intervals [1]:
+				xmin = 0.000
+				xmax = 0.830
+				text = "sil"
+			intervals [2]:
+				xmin = 0.830
+				xmax = 1.030
+				text = "並"
+			intervals [3]:
+				xmin = 1.030
+				xmax = 1.280
+				text = "在"
+			intervals [4]:
+				xmin = 1.280
+				xmax = 1.550
+				text = "出"
+			intervals [5]:
+				xmin = 1.550
+				xmax = 1.950
+				text = "汗"
+			intervals [6]:
+				xmin = 1.950
+				xmax = 2.050
+				text = "或"
+			intervals [7]:
+				xmin = 2.050
+				xmax = 2.330
+				text = "游"
+			intervals [8]:
+				xmin = 2.330
+				xmax = 2.600
+				text = "泳"
+			intervals [9]:
+				xmin = 2.600
+				xmax = 2.800
+				text = "後"
+			intervals [10]:
+				xmin = 2.800
+				xmax = 3.170
+				text = "再"
+			intervals [11]:
+				xmin = 3.170
+				xmax = 3.390
+				text = "次"
+			intervals [12]:
+				xmin = 3.390
+				xmax = 3.630
+				text = "塗"
+			intervals [13]:
+				xmin = 3.630
+				xmax = 3.910
+				text = "上"
+			intervals [14]:
+				xmin = 3.910
+				xmax = 4.780
+				text = "sp"
+			intervals [15]:
+				xmin = 4.780
+				xmax = 4.8
+				text = ""

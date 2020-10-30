@@ -1,0 +1,96 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 4.2
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "words"
+		xmin = 0.0
+		xmax = 4.2
+		intervals: size = 3
+			intervals [1]:
+				xmin = 0.0
+				xmax = 1.000
+				text = ""
+			intervals [2]:
+				xmin = 1.000
+				xmax = 3.630
+				text = "食完都未夠飽，仲要啜埋手指"
+			intervals [3]:
+				xmin = 3.630
+				xmax = 4.2
+				text = ""
+	item [2]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 4.2
+		intervals: size = 16
+			intervals [1]:
+				xmin = 0.000
+				xmax = 1.000
+				text = "sil"
+			intervals [2]:
+				xmin = 1.000
+				xmax = 1.130
+				text = "食"
+			intervals [3]:
+				xmin = 1.130
+				xmax = 1.440
+				text = "完"
+			intervals [4]:
+				xmin = 1.440
+				xmax = 1.520
+				text = "都"
+			intervals [5]:
+				xmin = 1.520
+				xmax = 1.720
+				text = "未"
+			intervals [6]:
+				xmin = 1.720
+				xmax = 1.940
+				text = "夠"
+			intervals [7]:
+				xmin = 1.940
+				xmax = 2.300
+				text = "飽"
+			intervals [8]:
+				xmin = 2.300
+				xmax = 2.330
+				text = "，"
+			intervals [9]:
+				xmin = 2.330
+				xmax = 2.360
+				text = "仲"
+			intervals [10]:
+				xmin = 2.360
+				xmax = 2.570
+				text = "要"
+			intervals [11]:
+				xmin = 2.570
+				xmax = 2.850
+				text = "啜"
+			intervals [12]:
+				xmin = 2.850
+				xmax = 2.990
+				text = "埋"
+			intervals [13]:
+				xmin = 2.990
+				xmax = 3.300
+				text = "手"
+			intervals [14]:
+				xmin = 3.300
+				xmax = 3.630
+				text = "指"
+			intervals [15]:
+				xmin = 3.630
+				xmax = 4.180
+				text = "sp"
+			intervals [16]:
+				xmin = 4.180
+				xmax = 4.2
+				text = ""

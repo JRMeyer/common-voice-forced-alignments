@@ -1,0 +1,100 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 3.6
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "words"
+		xmin = 0.0
+		xmax = 3.6
+		intervals: size = 3
+			intervals [1]:
+				xmin = 0.0
+				xmax = 0.490
+				text = ""
+			intervals [2]:
+				xmin = 0.490
+				xmax = 3.050
+				text = "睇你個樣咁䒐䒏畀邊個激親你呀"
+			intervals [3]:
+				xmin = 3.050
+				xmax = 3.6
+				text = ""
+	item [2]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 3.6
+		intervals: size = 17
+			intervals [1]:
+				xmin = 0.000
+				xmax = 0.490
+				text = "sil"
+			intervals [2]:
+				xmin = 0.490
+				xmax = 0.630
+				text = "睇"
+			intervals [3]:
+				xmin = 0.630
+				xmax = 0.900
+				text = "你"
+			intervals [4]:
+				xmin = 0.900
+				xmax = 0.930
+				text = "個"
+			intervals [5]:
+				xmin = 0.930
+				xmax = 1.000
+				text = "樣"
+			intervals [6]:
+				xmin = 1.000
+				xmax = 1.580
+				text = "咁"
+			intervals [7]:
+				xmin = 1.580
+				xmax = 1.620
+				text = "䒐"
+			intervals [8]:
+				xmin = 1.620
+				xmax = 1.650
+				text = "䒏"
+			intervals [9]:
+				xmin = 1.650
+				xmax = 1.710
+				text = "畀"
+			intervals [10]:
+				xmin = 1.710
+				xmax = 2.130
+				text = "邊"
+			intervals [11]:
+				xmin = 2.130
+				xmax = 2.160
+				text = "個"
+			intervals [12]:
+				xmin = 2.160
+				xmax = 2.360
+				text = "激"
+			intervals [13]:
+				xmin = 2.360
+				xmax = 2.550
+				text = "親"
+			intervals [14]:
+				xmin = 2.550
+				xmax = 2.710
+				text = "你"
+			intervals [15]:
+				xmin = 2.710
+				xmax = 3.050
+				text = "呀"
+			intervals [16]:
+				xmin = 3.050
+				xmax = 3.580
+				text = "sp"
+			intervals [17]:
+				xmin = 3.580
+				xmax = 3.6
+				text = ""

@@ -1,0 +1,96 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 4.8
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "words"
+		xmin = 0.0
+		xmax = 4.8
+		intervals: size = 3
+			intervals [1]:
+				xmin = 0.0
+				xmax = 0.630
+				text = ""
+			intervals [2]:
+				xmin = 0.630
+				xmax = 3.660
+				text = "好耐無去鴨脷洲利民道探舅父"
+			intervals [3]:
+				xmin = 3.660
+				xmax = 4.8
+				text = ""
+	item [2]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 4.8
+		intervals: size = 16
+			intervals [1]:
+				xmin = 0.000
+				xmax = 0.630
+				text = "sil"
+			intervals [2]:
+				xmin = 0.630
+				xmax = 0.780
+				text = "好"
+			intervals [3]:
+				xmin = 0.780
+				xmax = 1.010
+				text = "耐"
+			intervals [4]:
+				xmin = 1.010
+				xmax = 1.240
+				text = "無"
+			intervals [5]:
+				xmin = 1.240
+				xmax = 1.460
+				text = "去"
+			intervals [6]:
+				xmin = 1.460
+				xmax = 1.710
+				text = "鴨"
+			intervals [7]:
+				xmin = 1.710
+				xmax = 1.900
+				text = "脷"
+			intervals [8]:
+				xmin = 1.900
+				xmax = 2.230
+				text = "洲"
+			intervals [9]:
+				xmin = 2.230
+				xmax = 2.320
+				text = "利"
+			intervals [10]:
+				xmin = 2.320
+				xmax = 2.670
+				text = "民"
+			intervals [11]:
+				xmin = 2.670
+				xmax = 2.770
+				text = "道"
+			intervals [12]:
+				xmin = 2.770
+				xmax = 3.290
+				text = "探"
+			intervals [13]:
+				xmin = 3.290
+				xmax = 3.320
+				text = "舅"
+			intervals [14]:
+				xmin = 3.320
+				xmax = 3.660
+				text = "父"
+			intervals [15]:
+				xmin = 3.660
+				xmax = 4.780
+				text = "sp"
+			intervals [16]:
+				xmin = 4.780
+				xmax = 4.8
+				text = ""
