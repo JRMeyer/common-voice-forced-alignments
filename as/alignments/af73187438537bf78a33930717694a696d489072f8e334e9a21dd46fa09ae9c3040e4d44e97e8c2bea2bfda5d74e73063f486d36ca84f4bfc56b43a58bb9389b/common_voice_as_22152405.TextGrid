@@ -1,0 +1,132 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 4.8
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "words"
+		xmin = 0.0
+		xmax = 4.8
+		intervals: size = 10
+			intervals [1]:
+				xmin = 0.0
+				xmax = 1.150
+				text = ""
+			intervals [2]:
+				xmin = 1.150
+				xmax = 1.430
+				text = "<unk>"
+			intervals [3]:
+				xmin = 1.430
+				xmax = 2.160
+				text = "<unk>"
+			intervals [4]:
+				xmin = 2.160
+				xmax = 2.640
+				text = "<unk>"
+			intervals [5]:
+				xmin = 2.640
+				xmax = 3.020
+				text = "বহুত"
+			intervals [6]:
+				xmin = 3.020
+				xmax = 3.620
+				text = "বহুত"
+			intervals [7]:
+				xmin = 3.620
+				xmax = 3.810
+				text = "সময়"
+			intervals [8]:
+				xmin = 3.810
+				xmax = 3.920
+				text = "<unk>"
+			intervals [9]:
+				xmin = 3.920
+				xmax = 4.780
+				text = "<unk>"
+			intervals [10]:
+				xmin = 4.780
+				xmax = 4.8
+				text = ""
+	item [2]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 4.8
+		intervals: size = 18
+			intervals [1]:
+				xmin = 0.000
+				xmax = 1.150
+				text = "sil"
+			intervals [2]:
+				xmin = 1.150
+				xmax = 1.430
+				text = "spn"
+			intervals [3]:
+				xmin = 1.430
+				xmax = 2.160
+				text = "spn"
+			intervals [4]:
+				xmin = 2.160
+				xmax = 2.640
+				text = "spn"
+			intervals [5]:
+				xmin = 2.640
+				xmax = 2.690
+				text = "ব"
+			intervals [6]:
+				xmin = 2.690
+				xmax = 2.880
+				text = "হ"
+			intervals [7]:
+				xmin = 2.880
+				xmax = 2.980
+				text = "ু"
+			intervals [8]:
+				xmin = 2.980
+				xmax = 3.020
+				text = "ত"
+			intervals [9]:
+				xmin = 3.020
+				xmax = 3.190
+				text = "ব"
+			intervals [10]:
+				xmin = 3.190
+				xmax = 3.420
+				text = "হ"
+			intervals [11]:
+				xmin = 3.420
+				xmax = 3.510
+				text = "ু"
+			intervals [12]:
+				xmin = 3.510
+				xmax = 3.620
+				text = "ত"
+			intervals [13]:
+				xmin = 3.620
+				xmax = 3.700
+				text = "স"
+			intervals [14]:
+				xmin = 3.700
+				xmax = 3.760
+				text = "ম"
+			intervals [15]:
+				xmin = 3.760
+				xmax = 3.810
+				text = "য়"
+			intervals [16]:
+				xmin = 3.810
+				xmax = 3.920
+				text = "spn"
+			intervals [17]:
+				xmin = 3.920
+				xmax = 4.780
+				text = "spn"
+			intervals [18]:
+				xmin = 4.780
+				xmax = 4.8
+				text = ""
