@@ -1,0 +1,100 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 3.24
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "words"
+		xmin = 0.0
+		xmax = 3.24
+		intervals: size = 7
+			intervals [1]:
+				xmin = 0.0
+				xmax = 0.810
+				text = ""
+			intervals [2]:
+				xmin = 0.810
+				xmax = 0.910
+				text = "<unk>"
+			intervals [3]:
+				xmin = 0.910
+				xmax = 0.950
+				text = "<unk>"
+			intervals [4]:
+				xmin = 0.950
+				xmax = 1.430
+				text = ""
+			intervals [5]:
+				xmin = 1.430
+				xmax = 1.780
+				text = "ଆରମ୍ଭ"
+			intervals [6]:
+				xmin = 1.780
+				xmax = 1.980
+				text = "କଲ"
+			intervals [7]:
+				xmin = 1.980
+				xmax = 3.24
+				text = ""
+	item [2]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 3.24
+		intervals: size = 13
+			intervals [1]:
+				xmin = 0.000
+				xmax = 0.810
+				text = "sil"
+			intervals [2]:
+				xmin = 0.810
+				xmax = 0.910
+				text = "spn"
+			intervals [3]:
+				xmin = 0.910
+				xmax = 0.950
+				text = "spn"
+			intervals [4]:
+				xmin = 0.950
+				xmax = 1.430
+				text = "sp"
+			intervals [5]:
+				xmin = 1.430
+				xmax = 1.540
+				text = "ଆ"
+			intervals [6]:
+				xmin = 1.540
+				xmax = 1.640
+				text = "ର"
+			intervals [7]:
+				xmin = 1.640
+				xmax = 1.690
+				text = "ମ"
+			intervals [8]:
+				xmin = 1.690
+				xmax = 1.720
+				text = "୍"
+			intervals [9]:
+				xmin = 1.720
+				xmax = 1.780
+				text = "ଭ"
+			intervals [10]:
+				xmin = 1.780
+				xmax = 1.900
+				text = "କ"
+			intervals [11]:
+				xmin = 1.900
+				xmax = 1.980
+				text = "ଲ"
+			intervals [12]:
+				xmin = 1.980
+				xmax = 3.220
+				text = "sp"
+			intervals [13]:
+				xmin = 3.220
+				xmax = 3.24
+				text = ""
