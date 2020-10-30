@@ -1,0 +1,116 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 2.28
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "words"
+		xmin = 0.0
+		xmax = 2.28
+		intervals: size = 7
+			intervals [1]:
+				xmin = 0.0
+				xmax = 0.370
+				text = ""
+			intervals [2]:
+				xmin = 0.370
+				xmax = 0.610
+				text = "نیمه"
+			intervals [3]:
+				xmin = 0.610
+				xmax = 0.640
+				text = "ی"
+			intervals [4]:
+				xmin = 0.640
+				xmax = 0.970
+				text = "اول"
+			intervals [5]:
+				xmin = 0.970
+				xmax = 1.350
+				text = "تموم"
+			intervals [6]:
+				xmin = 1.350
+				xmax = 1.790
+				text = "شد"
+			intervals [7]:
+				xmin = 1.790
+				xmax = 2.28
+				text = ""
+	item [2]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 2.28
+		intervals: size = 17
+			intervals [1]:
+				xmin = 0.000
+				xmax = 0.370
+				text = "sil"
+			intervals [2]:
+				xmin = 0.370
+				xmax = 0.440
+				text = "ن"
+			intervals [3]:
+				xmin = 0.440
+				xmax = 0.490
+				text = "ی"
+			intervals [4]:
+				xmin = 0.490
+				xmax = 0.570
+				text = "م"
+			intervals [5]:
+				xmin = 0.570
+				xmax = 0.610
+				text = "ه"
+			intervals [6]:
+				xmin = 0.610
+				xmax = 0.640
+				text = "ی"
+			intervals [7]:
+				xmin = 0.640
+				xmax = 0.740
+				text = "ا"
+			intervals [8]:
+				xmin = 0.740
+				xmax = 0.920
+				text = "و"
+			intervals [9]:
+				xmin = 0.920
+				xmax = 0.970
+				text = "ل"
+			intervals [10]:
+				xmin = 0.970
+				xmax = 1.090
+				text = "ت"
+			intervals [11]:
+				xmin = 1.090
+				xmax = 1.220
+				text = "م"
+			intervals [12]:
+				xmin = 1.220
+				xmax = 1.320
+				text = "و"
+			intervals [13]:
+				xmin = 1.320
+				xmax = 1.350
+				text = "م"
+			intervals [14]:
+				xmin = 1.350
+				xmax = 1.480
+				text = "ش"
+			intervals [15]:
+				xmin = 1.480
+				xmax = 1.790
+				text = "د"
+			intervals [16]:
+				xmin = 1.790
+				xmax = 2.260
+				text = "sp"
+			intervals [17]:
+				xmin = 2.260
+				xmax = 2.28
+				text = ""

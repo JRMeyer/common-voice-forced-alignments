@@ -1,0 +1,120 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 2.04
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "words"
+		xmin = 0.0
+		xmax = 2.04
+		intervals: size = 6
+			intervals [1]:
+				xmin = 0.0
+				xmax = 0.200
+				text = ""
+			intervals [2]:
+				xmin = 0.200
+				xmax = 0.440
+				text = "از"
+			intervals [3]:
+				xmin = 0.440
+				xmax = 0.680
+				text = "همهی"
+			intervals [4]:
+				xmin = 0.680
+				xmax = 1.030
+				text = "راههای"
+			intervals [5]:
+				xmin = 1.030
+				xmax = 1.510
+				text = "دیگه"
+			intervals [6]:
+				xmin = 1.510
+				xmax = 2.04
+				text = ""
+	item [2]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 2.04
+		intervals: size = 19
+			intervals [1]:
+				xmin = 0.000
+				xmax = 0.200
+				text = "sil"
+			intervals [2]:
+				xmin = 0.200
+				xmax = 0.300
+				text = "ا"
+			intervals [3]:
+				xmin = 0.300
+				xmax = 0.440
+				text = "ز"
+			intervals [4]:
+				xmin = 0.440
+				xmax = 0.490
+				text = "ه"
+			intervals [5]:
+				xmin = 0.490
+				xmax = 0.600
+				text = "م"
+			intervals [6]:
+				xmin = 0.600
+				xmax = 0.650
+				text = "ه"
+			intervals [7]:
+				xmin = 0.650
+				xmax = 0.680
+				text = "ی"
+			intervals [8]:
+				xmin = 0.680
+				xmax = 0.720
+				text = "ر"
+			intervals [9]:
+				xmin = 0.720
+				xmax = 0.800
+				text = "ا"
+			intervals [10]:
+				xmin = 0.800
+				xmax = 0.830
+				text = "ه"
+			intervals [11]:
+				xmin = 0.830
+				xmax = 0.860
+				text = "ه"
+			intervals [12]:
+				xmin = 0.860
+				xmax = 0.940
+				text = "ا"
+			intervals [13]:
+				xmin = 0.940
+				xmax = 1.030
+				text = "ی"
+			intervals [14]:
+				xmin = 1.030
+				xmax = 1.110
+				text = "د"
+			intervals [15]:
+				xmin = 1.110
+				xmax = 1.200
+				text = "ی"
+			intervals [16]:
+				xmin = 1.200
+				xmax = 1.300
+				text = "گ"
+			intervals [17]:
+				xmin = 1.300
+				xmax = 1.510
+				text = "ه"
+			intervals [18]:
+				xmin = 1.510
+				xmax = 2.020
+				text = "sp"
+			intervals [19]:
+				xmin = 2.020
+				xmax = 2.04
+				text = ""

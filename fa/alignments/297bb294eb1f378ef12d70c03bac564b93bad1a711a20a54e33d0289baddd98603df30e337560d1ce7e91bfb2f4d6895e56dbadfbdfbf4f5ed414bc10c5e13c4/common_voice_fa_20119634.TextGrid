@@ -1,0 +1,116 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 1.92
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "words"
+		xmin = 0.0
+		xmax = 1.92
+		intervals: size = 6
+			intervals [1]:
+				xmin = 0.0
+				xmax = 0.300
+				text = ""
+			intervals [2]:
+				xmin = 0.300
+				xmax = 0.480
+				text = "آیا"
+			intervals [3]:
+				xmin = 0.480
+				xmax = 0.760
+				text = "خیلی"
+			intervals [4]:
+				xmin = 0.760
+				xmax = 1.150
+				text = "سنگین"
+			intervals [5]:
+				xmin = 1.150
+				xmax = 1.470
+				text = "است"
+			intervals [6]:
+				xmin = 1.470
+				xmax = 1.92
+				text = ""
+	item [2]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 1.92
+		intervals: size = 18
+			intervals [1]:
+				xmin = 0.000
+				xmax = 0.300
+				text = "sil"
+			intervals [2]:
+				xmin = 0.300
+				xmax = 0.380
+				text = "آ"
+			intervals [3]:
+				xmin = 0.380
+				xmax = 0.450
+				text = "ی"
+			intervals [4]:
+				xmin = 0.450
+				xmax = 0.480
+				text = "ا"
+			intervals [5]:
+				xmin = 0.480
+				xmax = 0.590
+				text = "خ"
+			intervals [6]:
+				xmin = 0.590
+				xmax = 0.660
+				text = "ی"
+			intervals [7]:
+				xmin = 0.660
+				xmax = 0.720
+				text = "ل"
+			intervals [8]:
+				xmin = 0.720
+				xmax = 0.760
+				text = "ی"
+			intervals [9]:
+				xmin = 0.760
+				xmax = 0.860
+				text = "س"
+			intervals [10]:
+				xmin = 0.860
+				xmax = 1.000
+				text = "ن"
+			intervals [11]:
+				xmin = 1.000
+				xmax = 1.040
+				text = "گ"
+			intervals [12]:
+				xmin = 1.040
+				xmax = 1.080
+				text = "ی"
+			intervals [13]:
+				xmin = 1.080
+				xmax = 1.150
+				text = "ن"
+			intervals [14]:
+				xmin = 1.150
+				xmax = 1.260
+				text = "ا"
+			intervals [15]:
+				xmin = 1.260
+				xmax = 1.390
+				text = "س"
+			intervals [16]:
+				xmin = 1.390
+				xmax = 1.470
+				text = "ت"
+			intervals [17]:
+				xmin = 1.470
+				xmax = 1.900
+				text = "sp"
+			intervals [18]:
+				xmin = 1.900
+				xmax = 1.92
+				text = ""

@@ -1,0 +1,116 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 4.8
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "words"
+		xmin = 0.0
+		xmax = 4.8
+		intervals: size = 6
+			intervals [1]:
+				xmin = 0.0
+				xmax = 1.390
+				text = ""
+			intervals [2]:
+				xmin = 1.390
+				xmax = 1.710
+				text = "اونا"
+			intervals [3]:
+				xmin = 1.710
+				xmax = 1.850
+				text = "تو"
+			intervals [4]:
+				xmin = 1.850
+				xmax = 2.350
+				text = "جدایی"
+			intervals [5]:
+				xmin = 2.350
+				xmax = 2.780
+				text = "بودن"
+			intervals [6]:
+				xmin = 2.780
+				xmax = 4.8
+				text = ""
+	item [2]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 4.8
+		intervals: size = 18
+			intervals [1]:
+				xmin = 0.000
+				xmax = 1.390
+				text = "sil"
+			intervals [2]:
+				xmin = 1.390
+				xmax = 1.450
+				text = "ا"
+			intervals [3]:
+				xmin = 1.450
+				xmax = 1.480
+				text = "و"
+			intervals [4]:
+				xmin = 1.480
+				xmax = 1.560
+				text = "ن"
+			intervals [5]:
+				xmin = 1.560
+				xmax = 1.710
+				text = "ا"
+			intervals [6]:
+				xmin = 1.710
+				xmax = 1.810
+				text = "ت"
+			intervals [7]:
+				xmin = 1.810
+				xmax = 1.850
+				text = "و"
+			intervals [8]:
+				xmin = 1.850
+				xmax = 2.020
+				text = "ج"
+			intervals [9]:
+				xmin = 2.020
+				xmax = 2.140
+				text = "د"
+			intervals [10]:
+				xmin = 2.140
+				xmax = 2.200
+				text = "ا"
+			intervals [11]:
+				xmin = 2.200
+				xmax = 2.280
+				text = "ی"
+			intervals [12]:
+				xmin = 2.280
+				xmax = 2.350
+				text = "ی"
+			intervals [13]:
+				xmin = 2.350
+				xmax = 2.410
+				text = "ب"
+			intervals [14]:
+				xmin = 2.410
+				xmax = 2.480
+				text = "و"
+			intervals [15]:
+				xmin = 2.480
+				xmax = 2.590
+				text = "د"
+			intervals [16]:
+				xmin = 2.590
+				xmax = 2.780
+				text = "ن"
+			intervals [17]:
+				xmin = 2.780
+				xmax = 4.780
+				text = "sp"
+			intervals [18]:
+				xmin = 4.780
+				xmax = 4.8
+				text = ""

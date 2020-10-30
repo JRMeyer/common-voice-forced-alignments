@@ -1,0 +1,116 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 3.0
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "words"
+		xmin = 0.0
+		xmax = 3.0
+		intervals: size = 7
+			intervals [1]:
+				xmin = 0.0
+				xmax = 0.440
+				text = ""
+			intervals [2]:
+				xmin = 0.440
+				xmax = 0.740
+				text = "من"
+			intervals [3]:
+				xmin = 0.740
+				xmax = 1.270
+				text = "رست"
+			intervals [4]:
+				xmin = 1.270
+				xmax = 1.560
+				text = "بیف"
+			intervals [5]:
+				xmin = 1.560
+				xmax = 1.710
+				text = "می"
+			intervals [6]:
+				xmin = 1.710
+				xmax = 2.200
+				text = "خورم"
+			intervals [7]:
+				xmin = 2.200
+				xmax = 3.0
+				text = ""
+	item [2]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 3.0
+		intervals: size = 17
+			intervals [1]:
+				xmin = 0.000
+				xmax = 0.440
+				text = "sil"
+			intervals [2]:
+				xmin = 0.440
+				xmax = 0.520
+				text = "م"
+			intervals [3]:
+				xmin = 0.520
+				xmax = 0.740
+				text = "ن"
+			intervals [4]:
+				xmin = 0.740
+				xmax = 1.050
+				text = "ر"
+			intervals [5]:
+				xmin = 1.050
+				xmax = 1.160
+				text = "س"
+			intervals [6]:
+				xmin = 1.160
+				xmax = 1.270
+				text = "ت"
+			intervals [7]:
+				xmin = 1.270
+				xmax = 1.320
+				text = "ب"
+			intervals [8]:
+				xmin = 1.320
+				xmax = 1.440
+				text = "ی"
+			intervals [9]:
+				xmin = 1.440
+				xmax = 1.560
+				text = "ف"
+			intervals [10]:
+				xmin = 1.560
+				xmax = 1.640
+				text = "م"
+			intervals [11]:
+				xmin = 1.640
+				xmax = 1.710
+				text = "ی"
+			intervals [12]:
+				xmin = 1.710
+				xmax = 1.800
+				text = "خ"
+			intervals [13]:
+				xmin = 1.800
+				xmax = 1.860
+				text = "و"
+			intervals [14]:
+				xmin = 1.860
+				xmax = 2.010
+				text = "ر"
+			intervals [15]:
+				xmin = 2.010
+				xmax = 2.200
+				text = "م"
+			intervals [16]:
+				xmin = 2.200
+				xmax = 2.980
+				text = "sp"
+			intervals [17]:
+				xmin = 2.980
+				xmax = 3.0
+				text = ""

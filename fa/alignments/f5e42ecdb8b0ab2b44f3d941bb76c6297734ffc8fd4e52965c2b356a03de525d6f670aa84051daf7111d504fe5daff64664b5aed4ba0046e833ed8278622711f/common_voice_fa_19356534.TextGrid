@@ -1,0 +1,108 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 2.04
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "words"
+		xmin = 0.0
+		xmax = 2.04
+		intervals: size = 6
+			intervals [1]:
+				xmin = 0.0
+				xmax = 0.230
+				text = ""
+			intervals [2]:
+				xmin = 0.230
+				xmax = 0.640
+				text = "حتما"
+			intervals [3]:
+				xmin = 0.640
+				xmax = 1.030
+				text = "شوخی"
+			intervals [4]:
+				xmin = 1.030
+				xmax = 1.170
+				text = "می"
+			intervals [5]:
+				xmin = 1.170
+				xmax = 1.530
+				text = "کنی"
+			intervals [6]:
+				xmin = 1.530
+				xmax = 2.04
+				text = ""
+	item [2]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 2.04
+		intervals: size = 16
+			intervals [1]:
+				xmin = 0.000
+				xmax = 0.230
+				text = "sil"
+			intervals [2]:
+				xmin = 0.230
+				xmax = 0.400
+				text = "ح"
+			intervals [3]:
+				xmin = 0.400
+				xmax = 0.520
+				text = "ت"
+			intervals [4]:
+				xmin = 0.520
+				xmax = 0.590
+				text = "م"
+			intervals [5]:
+				xmin = 0.590
+				xmax = 0.640
+				text = "ا"
+			intervals [6]:
+				xmin = 0.640
+				xmax = 0.800
+				text = "ش"
+			intervals [7]:
+				xmin = 0.800
+				xmax = 0.880
+				text = "و"
+			intervals [8]:
+				xmin = 0.880
+				xmax = 0.970
+				text = "خ"
+			intervals [9]:
+				xmin = 0.970
+				xmax = 1.030
+				text = "ی"
+			intervals [10]:
+				xmin = 1.030
+				xmax = 1.100
+				text = "م"
+			intervals [11]:
+				xmin = 1.100
+				xmax = 1.170
+				text = "ی"
+			intervals [12]:
+				xmin = 1.170
+				xmax = 1.290
+				text = "ک"
+			intervals [13]:
+				xmin = 1.290
+				xmax = 1.400
+				text = "ن"
+			intervals [14]:
+				xmin = 1.400
+				xmax = 1.530
+				text = "ی"
+			intervals [15]:
+				xmin = 1.530
+				xmax = 2.020
+				text = "sp"
+			intervals [16]:
+				xmin = 2.020
+				xmax = 2.04
+				text = ""

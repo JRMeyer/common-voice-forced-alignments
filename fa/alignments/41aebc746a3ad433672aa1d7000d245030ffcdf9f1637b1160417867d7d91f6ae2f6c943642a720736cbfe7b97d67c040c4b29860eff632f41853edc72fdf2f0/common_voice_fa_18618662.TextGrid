@@ -1,0 +1,132 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 3.6
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "words"
+		xmin = 0.0
+		xmax = 3.6
+		intervals: size = 8
+			intervals [1]:
+				xmin = 0.0
+				xmax = 0.470
+				text = ""
+			intervals [2]:
+				xmin = 0.470
+				xmax = 0.660
+				text = "تو"
+			intervals [3]:
+				xmin = 0.660
+				xmax = 1.020
+				text = "باید"
+			intervals [4]:
+				xmin = 1.020
+				xmax = 1.370
+				text = "وارد"
+			intervals [5]:
+				xmin = 1.370
+				xmax = 1.690
+				text = "سر"
+			intervals [6]:
+				xmin = 1.690
+				xmax = 1.940
+				text = "من"
+			intervals [7]:
+				xmin = 1.940
+				xmax = 2.380
+				text = "بشی"
+			intervals [8]:
+				xmin = 2.380
+				xmax = 3.6
+				text = ""
+	item [2]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 3.6
+		intervals: size = 20
+			intervals [1]:
+				xmin = 0.000
+				xmax = 0.470
+				text = "sil"
+			intervals [2]:
+				xmin = 0.470
+				xmax = 0.540
+				text = "ت"
+			intervals [3]:
+				xmin = 0.540
+				xmax = 0.660
+				text = "و"
+			intervals [4]:
+				xmin = 0.660
+				xmax = 0.700
+				text = "ب"
+			intervals [5]:
+				xmin = 0.700
+				xmax = 0.750
+				text = "ا"
+			intervals [6]:
+				xmin = 0.750
+				xmax = 0.950
+				text = "ی"
+			intervals [7]:
+				xmin = 0.950
+				xmax = 1.020
+				text = "د"
+			intervals [8]:
+				xmin = 1.020
+				xmax = 1.050
+				text = "و"
+			intervals [9]:
+				xmin = 1.050
+				xmax = 1.150
+				text = "ا"
+			intervals [10]:
+				xmin = 1.150
+				xmax = 1.280
+				text = "ر"
+			intervals [11]:
+				xmin = 1.280
+				xmax = 1.370
+				text = "د"
+			intervals [12]:
+				xmin = 1.370
+				xmax = 1.510
+				text = "س"
+			intervals [13]:
+				xmin = 1.510
+				xmax = 1.690
+				text = "ر"
+			intervals [14]:
+				xmin = 1.690
+				xmax = 1.770
+				text = "م"
+			intervals [15]:
+				xmin = 1.770
+				xmax = 1.940
+				text = "ن"
+			intervals [16]:
+				xmin = 1.940
+				xmax = 2.010
+				text = "ب"
+			intervals [17]:
+				xmin = 2.010
+				xmax = 2.210
+				text = "ش"
+			intervals [18]:
+				xmin = 2.210
+				xmax = 2.380
+				text = "ی"
+			intervals [19]:
+				xmin = 2.380
+				xmax = 3.580
+				text = "sp"
+			intervals [20]:
+				xmin = 3.580
+				xmax = 3.6
+				text = ""

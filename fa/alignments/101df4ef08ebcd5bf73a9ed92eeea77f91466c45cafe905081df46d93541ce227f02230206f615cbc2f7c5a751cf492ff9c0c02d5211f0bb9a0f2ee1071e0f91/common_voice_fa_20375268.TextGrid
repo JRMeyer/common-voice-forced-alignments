@@ -1,0 +1,88 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 1.56
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "words"
+		xmin = 0.0
+		xmax = 1.56
+		intervals: size = 4
+			intervals [1]:
+				xmin = 0.0
+				xmax = 0.370
+				text = ""
+			intervals [2]:
+				xmin = 0.370
+				xmax = 0.720
+				text = "اینطور"
+			intervals [3]:
+				xmin = 0.720
+				xmax = 1.140
+				text = "نیست"
+			intervals [4]:
+				xmin = 1.140
+				xmax = 1.56
+				text = ""
+	item [2]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 1.56
+		intervals: size = 13
+			intervals [1]:
+				xmin = 0.000
+				xmax = 0.370
+				text = "sil"
+			intervals [2]:
+				xmin = 0.370
+				xmax = 0.450
+				text = "ا"
+			intervals [3]:
+				xmin = 0.450
+				xmax = 0.490
+				text = "ی"
+			intervals [4]:
+				xmin = 0.490
+				xmax = 0.540
+				text = "ن"
+			intervals [5]:
+				xmin = 0.540
+				xmax = 0.590
+				text = "ط"
+			intervals [6]:
+				xmin = 0.590
+				xmax = 0.680
+				text = "و"
+			intervals [7]:
+				xmin = 0.680
+				xmax = 0.720
+				text = "ر"
+			intervals [8]:
+				xmin = 0.720
+				xmax = 0.790
+				text = "ن"
+			intervals [9]:
+				xmin = 0.790
+				xmax = 0.930
+				text = "ی"
+			intervals [10]:
+				xmin = 0.930
+				xmax = 1.110
+				text = "س"
+			intervals [11]:
+				xmin = 1.110
+				xmax = 1.140
+				text = "ت"
+			intervals [12]:
+				xmin = 1.140
+				xmax = 1.540
+				text = "sp"
+			intervals [13]:
+				xmin = 1.540
+				xmax = 1.56
+				text = ""
