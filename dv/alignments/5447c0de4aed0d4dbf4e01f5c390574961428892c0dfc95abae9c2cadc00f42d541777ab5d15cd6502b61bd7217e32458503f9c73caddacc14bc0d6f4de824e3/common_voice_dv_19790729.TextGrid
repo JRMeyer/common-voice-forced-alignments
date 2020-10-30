@@ -1,0 +1,104 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 5.4
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "words"
+		xmin = 0.0
+		xmax = 5.4
+		intervals: size = 10
+			intervals [1]:
+				xmin = 0.000
+				xmax = 0.130
+				text = "<unk>"
+			intervals [2]:
+				xmin = 0.130
+				xmax = 0.770
+				text = ""
+			intervals [3]:
+				xmin = 0.770
+				xmax = 0.910
+				text = "<unk>"
+			intervals [4]:
+				xmin = 0.910
+				xmax = 1.940
+				text = "<unk>"
+			intervals [5]:
+				xmin = 1.940
+				xmax = 2.720
+				text = "<unk>"
+			intervals [6]:
+				xmin = 2.720
+				xmax = 3.100
+				text = "<unk>"
+			intervals [7]:
+				xmin = 3.100
+				xmax = 3.550
+				text = "<unk>"
+			intervals [8]:
+				xmin = 3.550
+				xmax = 4.170
+				text = "<unk>"
+			intervals [9]:
+				xmin = 4.170
+				xmax = 4.390
+				text = "<unk>"
+			intervals [10]:
+				xmin = 4.390
+				xmax = 5.4
+				text = ""
+	item [2]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 5.4
+		intervals: size = 11
+			intervals [1]:
+				xmin = 0.000
+				xmax = 0.130
+				text = "spn"
+			intervals [2]:
+				xmin = 0.130
+				xmax = 0.770
+				text = "sp"
+			intervals [3]:
+				xmin = 0.770
+				xmax = 0.910
+				text = "spn"
+			intervals [4]:
+				xmin = 0.910
+				xmax = 1.940
+				text = "spn"
+			intervals [5]:
+				xmin = 1.940
+				xmax = 2.720
+				text = "spn"
+			intervals [6]:
+				xmin = 2.720
+				xmax = 3.100
+				text = "spn"
+			intervals [7]:
+				xmin = 3.100
+				xmax = 3.550
+				text = "spn"
+			intervals [8]:
+				xmin = 3.550
+				xmax = 4.170
+				text = "spn"
+			intervals [9]:
+				xmin = 4.170
+				xmax = 4.390
+				text = "spn"
+			intervals [10]:
+				xmin = 4.390
+				xmax = 5.380
+				text = "sp"
+			intervals [11]:
+				xmin = 5.380
+				xmax = 5.4
+				text = ""
