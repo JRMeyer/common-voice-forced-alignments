@@ -1,0 +1,84 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 3.24
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "words"
+		xmin = 0.0
+		xmax = 3.24
+		intervals: size = 3
+			intervals [1]:
+				xmin = 0.0
+				xmax = 0.520
+				text = ""
+			intervals [2]:
+				xmin = 0.520
+				xmax = 3.130
+				text = "有效降低幼少年犯罪率"
+			intervals [3]:
+				xmin = 3.130
+				xmax = 3.24
+				text = ""
+	item [2]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 3.24
+		intervals: size = 13
+			intervals [1]:
+				xmin = 0.000
+				xmax = 0.520
+				text = "sil"
+			intervals [2]:
+				xmin = 0.520
+				xmax = 0.650
+				text = "有"
+			intervals [3]:
+				xmin = 0.650
+				xmax = 0.830
+				text = "效"
+			intervals [4]:
+				xmin = 0.830
+				xmax = 1.140
+				text = "降"
+			intervals [5]:
+				xmin = 1.140
+				xmax = 1.490
+				text = "低"
+			intervals [6]:
+				xmin = 1.490
+				xmax = 1.630
+				text = "幼"
+			intervals [7]:
+				xmin = 1.630
+				xmax = 1.930
+				text = "少"
+			intervals [8]:
+				xmin = 1.930
+				xmax = 2.160
+				text = "年"
+			intervals [9]:
+				xmin = 2.160
+				xmax = 2.550
+				text = "犯"
+			intervals [10]:
+				xmin = 2.550
+				xmax = 2.680
+				text = "罪"
+			intervals [11]:
+				xmin = 2.680
+				xmax = 3.130
+				text = "率"
+			intervals [12]:
+				xmin = 3.130
+				xmax = 3.220
+				text = "sp"
+			intervals [13]:
+				xmin = 3.220
+				xmax = 3.24
+				text = ""

@@ -1,0 +1,96 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 3.96
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "words"
+		xmin = 0.0
+		xmax = 3.96
+		intervals: size = 3
+			intervals [1]:
+				xmin = 0.0
+				xmax = 0.570
+				text = ""
+			intervals [2]:
+				xmin = 0.570
+				xmax = 3.470
+				text = "臺灣農產品外銷日本的好消息"
+			intervals [3]:
+				xmin = 3.470
+				xmax = 3.96
+				text = ""
+	item [2]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 3.96
+		intervals: size = 16
+			intervals [1]:
+				xmin = 0.000
+				xmax = 0.570
+				text = "sil"
+			intervals [2]:
+				xmin = 0.570
+				xmax = 0.630
+				text = "臺"
+			intervals [3]:
+				xmin = 0.630
+				xmax = 0.840
+				text = "灣"
+			intervals [4]:
+				xmin = 0.840
+				xmax = 1.010
+				text = "農"
+			intervals [5]:
+				xmin = 1.010
+				xmax = 1.250
+				text = "產"
+			intervals [6]:
+				xmin = 1.250
+				xmax = 1.460
+				text = "品"
+			intervals [7]:
+				xmin = 1.460
+				xmax = 1.630
+				text = "外"
+			intervals [8]:
+				xmin = 1.630
+				xmax = 2.150
+				text = "銷"
+			intervals [9]:
+				xmin = 2.150
+				xmax = 2.330
+				text = "日"
+			intervals [10]:
+				xmin = 2.330
+				xmax = 2.410
+				text = "本"
+			intervals [11]:
+				xmin = 2.410
+				xmax = 2.670
+				text = "的"
+			intervals [12]:
+				xmin = 2.670
+				xmax = 2.840
+				text = "好"
+			intervals [13]:
+				xmin = 2.840
+				xmax = 3.210
+				text = "消"
+			intervals [14]:
+				xmin = 3.210
+				xmax = 3.470
+				text = "息"
+			intervals [15]:
+				xmin = 3.470
+				xmax = 3.940
+				text = "sp"
+			intervals [16]:
+				xmin = 3.940
+				xmax = 3.96
+				text = ""

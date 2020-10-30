@@ -1,0 +1,76 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 3.264
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "words"
+		xmin = 0.0
+		xmax = 3.264
+		intervals: size = 3
+			intervals [1]:
+				xmin = 0.0
+				xmax = 0.490
+				text = ""
+			intervals [2]:
+				xmin = 0.490
+				xmax = 2.410
+				text = "陳植棋出生於汐止"
+			intervals [3]:
+				xmin = 2.410
+				xmax = 3.264
+				text = ""
+	item [2]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 3.264
+		intervals: size = 11
+			intervals [1]:
+				xmin = 0.000
+				xmax = 0.490
+				text = "sil"
+			intervals [2]:
+				xmin = 0.490
+				xmax = 1.100
+				text = "陳"
+			intervals [3]:
+				xmin = 1.100
+				xmax = 1.210
+				text = "植"
+			intervals [4]:
+				xmin = 1.210
+				xmax = 1.240
+				text = "棋"
+			intervals [5]:
+				xmin = 1.240
+				xmax = 1.560
+				text = "出"
+			intervals [6]:
+				xmin = 1.560
+				xmax = 1.700
+				text = "生"
+			intervals [7]:
+				xmin = 1.700
+				xmax = 1.910
+				text = "於"
+			intervals [8]:
+				xmin = 1.910
+				xmax = 1.940
+				text = "汐"
+			intervals [9]:
+				xmin = 1.940
+				xmax = 2.410
+				text = "止"
+			intervals [10]:
+				xmin = 2.410
+				xmax = 3.240
+				text = "sp"
+			intervals [11]:
+				xmin = 3.240
+				xmax = 3.264
+				text = ""

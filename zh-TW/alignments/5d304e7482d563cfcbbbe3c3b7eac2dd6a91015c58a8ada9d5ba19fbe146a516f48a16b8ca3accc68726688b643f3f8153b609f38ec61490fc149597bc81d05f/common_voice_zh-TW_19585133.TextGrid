@@ -1,0 +1,84 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 3.0
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "words"
+		xmin = 0.0
+		xmax = 3.0
+		intervals: size = 3
+			intervals [1]:
+				xmin = 0.0
+				xmax = 0.580
+				text = ""
+			intervals [2]:
+				xmin = 0.580
+				xmax = 2.610
+				text = "討論時容易趨向兩極化"
+			intervals [3]:
+				xmin = 2.610
+				xmax = 3.0
+				text = ""
+	item [2]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 3.0
+		intervals: size = 13
+			intervals [1]:
+				xmin = 0.000
+				xmax = 0.580
+				text = "sil"
+			intervals [2]:
+				xmin = 0.580
+				xmax = 0.690
+				text = "討"
+			intervals [3]:
+				xmin = 0.690
+				xmax = 0.830
+				text = "論"
+			intervals [4]:
+				xmin = 0.830
+				xmax = 1.160
+				text = "時"
+			intervals [5]:
+				xmin = 1.160
+				xmax = 1.300
+				text = "容"
+			intervals [6]:
+				xmin = 1.300
+				xmax = 1.390
+				text = "易"
+			intervals [7]:
+				xmin = 1.390
+				xmax = 1.670
+				text = "趨"
+			intervals [8]:
+				xmin = 1.670
+				xmax = 1.700
+				text = "向"
+			intervals [9]:
+				xmin = 1.700
+				xmax = 2.030
+				text = "兩"
+			intervals [10]:
+				xmin = 2.030
+				xmax = 2.210
+				text = "極"
+			intervals [11]:
+				xmin = 2.210
+				xmax = 2.610
+				text = "化"
+			intervals [12]:
+				xmin = 2.610
+				xmax = 2.980
+				text = "sp"
+			intervals [13]:
+				xmin = 2.980
+				xmax = 3.0
+				text = ""

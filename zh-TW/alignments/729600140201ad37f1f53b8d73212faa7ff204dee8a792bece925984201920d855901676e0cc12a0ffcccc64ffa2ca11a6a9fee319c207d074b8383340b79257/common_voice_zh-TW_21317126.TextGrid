@@ -1,0 +1,88 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 3.12
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "words"
+		xmin = 0.0
+		xmax = 3.12
+		intervals: size = 3
+			intervals [1]:
+				xmin = 0.0
+				xmax = 0.330
+				text = ""
+			intervals [2]:
+				xmin = 0.330
+				xmax = 2.520
+				text = "因此當前的語音辨識技術"
+			intervals [3]:
+				xmin = 2.520
+				xmax = 3.12
+				text = ""
+	item [2]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 3.12
+		intervals: size = 14
+			intervals [1]:
+				xmin = 0.000
+				xmax = 0.330
+				text = "sil"
+			intervals [2]:
+				xmin = 0.330
+				xmax = 0.480
+				text = "因"
+			intervals [3]:
+				xmin = 0.480
+				xmax = 0.730
+				text = "此"
+			intervals [4]:
+				xmin = 0.730
+				xmax = 0.910
+				text = "當"
+			intervals [5]:
+				xmin = 0.910
+				xmax = 1.130
+				text = "前"
+			intervals [6]:
+				xmin = 1.130
+				xmax = 1.300
+				text = "的"
+			intervals [7]:
+				xmin = 1.300
+				xmax = 1.360
+				text = "語"
+			intervals [8]:
+				xmin = 1.360
+				xmax = 1.560
+				text = "音"
+			intervals [9]:
+				xmin = 1.560
+				xmax = 1.750
+				text = "辨"
+			intervals [10]:
+				xmin = 1.750
+				xmax = 1.920
+				text = "識"
+			intervals [11]:
+				xmin = 1.920
+				xmax = 2.210
+				text = "技"
+			intervals [12]:
+				xmin = 2.210
+				xmax = 2.520
+				text = "術"
+			intervals [13]:
+				xmin = 2.520
+				xmax = 3.100
+				text = "sp"
+			intervals [14]:
+				xmin = 3.100
+				xmax = 3.12
+				text = ""

@@ -1,0 +1,88 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 3.96
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "words"
+		xmin = 0.0
+		xmax = 3.96
+		intervals: size = 3
+			intervals [1]:
+				xmin = 0.0
+				xmax = 1.070
+				text = ""
+			intervals [2]:
+				xmin = 1.070
+				xmax = 3.770
+				text = "這就叫人為因素操作不當"
+			intervals [3]:
+				xmin = 3.770
+				xmax = 3.96
+				text = ""
+	item [2]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 3.96
+		intervals: size = 14
+			intervals [1]:
+				xmin = 0.000
+				xmax = 1.070
+				text = "sil"
+			intervals [2]:
+				xmin = 1.070
+				xmax = 1.550
+				text = "這"
+			intervals [3]:
+				xmin = 1.550
+				xmax = 1.780
+				text = "就"
+			intervals [4]:
+				xmin = 1.780
+				xmax = 2.150
+				text = "叫"
+			intervals [5]:
+				xmin = 2.150
+				xmax = 2.250
+				text = "人"
+			intervals [6]:
+				xmin = 2.250
+				xmax = 2.470
+				text = "為"
+			intervals [7]:
+				xmin = 2.470
+				xmax = 2.700
+				text = "因"
+			intervals [8]:
+				xmin = 2.700
+				xmax = 2.960
+				text = "素"
+			intervals [9]:
+				xmin = 2.960
+				xmax = 3.170
+				text = "操"
+			intervals [10]:
+				xmin = 3.170
+				xmax = 3.380
+				text = "作"
+			intervals [11]:
+				xmin = 3.380
+				xmax = 3.580
+				text = "不"
+			intervals [12]:
+				xmin = 3.580
+				xmax = 3.770
+				text = "當"
+			intervals [13]:
+				xmin = 3.770
+				xmax = 3.940
+				text = "sp"
+			intervals [14]:
+				xmin = 3.940
+				xmax = 3.96
+				text = ""

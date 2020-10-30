@@ -1,0 +1,88 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 4.2
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "words"
+		xmin = 0.0
+		xmax = 4.2
+		intervals: size = 3
+			intervals [1]:
+				xmin = 0.0
+				xmax = 0.610
+				text = ""
+			intervals [2]:
+				xmin = 0.610
+				xmax = 3.310
+				text = "總統該團結的是整個國家"
+			intervals [3]:
+				xmin = 3.310
+				xmax = 4.2
+				text = ""
+	item [2]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 4.2
+		intervals: size = 14
+			intervals [1]:
+				xmin = 0.000
+				xmax = 0.610
+				text = "sil"
+			intervals [2]:
+				xmin = 0.610
+				xmax = 0.830
+				text = "總"
+			intervals [3]:
+				xmin = 0.830
+				xmax = 1.070
+				text = "統"
+			intervals [4]:
+				xmin = 1.070
+				xmax = 1.330
+				text = "該"
+			intervals [5]:
+				xmin = 1.330
+				xmax = 1.520
+				text = "團"
+			intervals [6]:
+				xmin = 1.520
+				xmax = 1.690
+				text = "結"
+			intervals [7]:
+				xmin = 1.690
+				xmax = 1.760
+				text = "的"
+			intervals [8]:
+				xmin = 1.760
+				xmax = 2.050
+				text = "是"
+			intervals [9]:
+				xmin = 2.050
+				xmax = 2.320
+				text = "整"
+			intervals [10]:
+				xmin = 2.320
+				xmax = 2.520
+				text = "個"
+			intervals [11]:
+				xmin = 2.520
+				xmax = 2.760
+				text = "國"
+			intervals [12]:
+				xmin = 2.760
+				xmax = 3.310
+				text = "家"
+			intervals [13]:
+				xmin = 3.310
+				xmax = 4.180
+				text = "sp"
+			intervals [14]:
+				xmin = 4.180
+				xmax = 4.2
+				text = ""

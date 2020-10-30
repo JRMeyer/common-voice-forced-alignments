@@ -1,0 +1,88 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 5.04
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "words"
+		xmin = 0.0
+		xmax = 5.04
+		intervals: size = 3
+			intervals [1]:
+				xmin = 0.0
+				xmax = 0.550
+				text = ""
+			intervals [2]:
+				xmin = 0.550
+				xmax = 3.790
+				text = "張老先生是張家的大家長"
+			intervals [3]:
+				xmin = 3.790
+				xmax = 5.04
+				text = ""
+	item [2]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 5.04
+		intervals: size = 14
+			intervals [1]:
+				xmin = 0.000
+				xmax = 0.550
+				text = "sil"
+			intervals [2]:
+				xmin = 0.550
+				xmax = 0.660
+				text = "張"
+			intervals [3]:
+				xmin = 0.660
+				xmax = 1.180
+				text = "老"
+			intervals [4]:
+				xmin = 1.180
+				xmax = 1.400
+				text = "先"
+			intervals [5]:
+				xmin = 1.400
+				xmax = 2.150
+				text = "生"
+			intervals [6]:
+				xmin = 2.150
+				xmax = 2.200
+				text = "是"
+			intervals [7]:
+				xmin = 2.200
+				xmax = 2.450
+				text = "張"
+			intervals [8]:
+				xmin = 2.450
+				xmax = 2.890
+				text = "家"
+			intervals [9]:
+				xmin = 2.890
+				xmax = 3.100
+				text = "的"
+			intervals [10]:
+				xmin = 3.100
+				xmax = 3.340
+				text = "大"
+			intervals [11]:
+				xmin = 3.340
+				xmax = 3.760
+				text = "家"
+			intervals [12]:
+				xmin = 3.760
+				xmax = 3.790
+				text = "長"
+			intervals [13]:
+				xmin = 3.790
+				xmax = 5.020
+				text = "sp"
+			intervals [14]:
+				xmin = 5.020
+				xmax = 5.04
+				text = ""

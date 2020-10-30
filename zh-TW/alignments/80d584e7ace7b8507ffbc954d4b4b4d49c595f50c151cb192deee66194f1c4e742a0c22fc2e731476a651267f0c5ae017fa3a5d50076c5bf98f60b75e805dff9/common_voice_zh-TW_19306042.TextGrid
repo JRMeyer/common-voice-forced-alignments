@@ -1,0 +1,88 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 4.44
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "words"
+		xmin = 0.0
+		xmax = 4.44
+		intervals: size = 3
+			intervals [1]:
+				xmin = 0.0
+				xmax = 0.970
+				text = ""
+			intervals [2]:
+				xmin = 0.970
+				xmax = 3.440
+				text = "而是透過互相支援、幫助"
+			intervals [3]:
+				xmin = 3.440
+				xmax = 4.44
+				text = ""
+	item [2]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 4.44
+		intervals: size = 14
+			intervals [1]:
+				xmin = 0.000
+				xmax = 0.970
+				text = "sil"
+			intervals [2]:
+				xmin = 0.970
+				xmax = 1.120
+				text = "而"
+			intervals [3]:
+				xmin = 1.120
+				xmax = 1.400
+				text = "是"
+			intervals [4]:
+				xmin = 1.400
+				xmax = 1.600
+				text = "透"
+			intervals [5]:
+				xmin = 1.600
+				xmax = 1.730
+				text = "過"
+			intervals [6]:
+				xmin = 1.730
+				xmax = 2.020
+				text = "互"
+			intervals [7]:
+				xmin = 2.020
+				xmax = 2.370
+				text = "相"
+			intervals [8]:
+				xmin = 2.370
+				xmax = 2.450
+				text = "支"
+			intervals [9]:
+				xmin = 2.450
+				xmax = 2.660
+				text = "援"
+			intervals [10]:
+				xmin = 2.660
+				xmax = 2.960
+				text = "、"
+			intervals [11]:
+				xmin = 2.960
+				xmax = 3.140
+				text = "幫"
+			intervals [12]:
+				xmin = 3.140
+				xmax = 3.440
+				text = "助"
+			intervals [13]:
+				xmin = 3.440
+				xmax = 4.420
+				text = "sp"
+			intervals [14]:
+				xmin = 4.420
+				xmax = 4.44
+				text = ""

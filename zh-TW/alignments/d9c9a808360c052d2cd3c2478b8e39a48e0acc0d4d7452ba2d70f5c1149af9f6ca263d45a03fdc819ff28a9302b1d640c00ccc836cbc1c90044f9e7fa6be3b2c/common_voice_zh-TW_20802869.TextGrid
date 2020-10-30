@@ -1,0 +1,96 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 3.432
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "words"
+		xmin = 0.0
+		xmax = 3.432
+		intervals: size = 3
+			intervals [1]:
+				xmin = 0.0
+				xmax = 0.360
+				text = ""
+			intervals [2]:
+				xmin = 0.360
+				xmax = 2.620
+				text = "上面兩句也可以列入資料庫中"
+			intervals [3]:
+				xmin = 2.620
+				xmax = 3.432
+				text = ""
+	item [2]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 3.432
+		intervals: size = 16
+			intervals [1]:
+				xmin = 0.000
+				xmax = 0.360
+				text = "sil"
+			intervals [2]:
+				xmin = 0.360
+				xmax = 0.530
+				text = "上"
+			intervals [3]:
+				xmin = 0.530
+				xmax = 0.850
+				text = "面"
+			intervals [4]:
+				xmin = 0.850
+				xmax = 0.890
+				text = "兩"
+			intervals [5]:
+				xmin = 0.890
+				xmax = 1.040
+				text = "句"
+			intervals [6]:
+				xmin = 1.040
+				xmax = 1.240
+				text = "也"
+			intervals [7]:
+				xmin = 1.240
+				xmax = 1.380
+				text = "可"
+			intervals [8]:
+				xmin = 1.380
+				xmax = 1.410
+				text = "以"
+			intervals [9]:
+				xmin = 1.410
+				xmax = 1.810
+				text = "列"
+			intervals [10]:
+				xmin = 1.810
+				xmax = 1.960
+				text = "入"
+			intervals [11]:
+				xmin = 1.960
+				xmax = 2.150
+				text = "資"
+			intervals [12]:
+				xmin = 2.150
+				xmax = 2.270
+				text = "料"
+			intervals [13]:
+				xmin = 2.270
+				xmax = 2.490
+				text = "庫"
+			intervals [14]:
+				xmin = 2.490
+				xmax = 2.620
+				text = "中"
+			intervals [15]:
+				xmin = 2.620
+				xmax = 3.410
+				text = "sp"
+			intervals [16]:
+				xmin = 3.410
+				xmax = 3.432
+				text = ""

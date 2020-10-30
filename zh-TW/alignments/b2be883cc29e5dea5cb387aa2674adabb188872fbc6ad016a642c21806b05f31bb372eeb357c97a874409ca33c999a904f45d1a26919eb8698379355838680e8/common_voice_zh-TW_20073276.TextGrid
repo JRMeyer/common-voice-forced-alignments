@@ -1,0 +1,84 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 3.48
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "words"
+		xmin = 0.0
+		xmax = 3.48
+		intervals: size = 3
+			intervals [1]:
+				xmin = 0.0
+				xmax = 0.500
+				text = ""
+			intervals [2]:
+				xmin = 0.500
+				xmax = 2.550
+				text = "紅茶拿鐵跟奶茶的差別"
+			intervals [3]:
+				xmin = 2.550
+				xmax = 3.48
+				text = ""
+	item [2]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 3.48
+		intervals: size = 13
+			intervals [1]:
+				xmin = 0.000
+				xmax = 0.500
+				text = "sil"
+			intervals [2]:
+				xmin = 0.500
+				xmax = 0.780
+				text = "紅"
+			intervals [3]:
+				xmin = 0.780
+				xmax = 0.810
+				text = "茶"
+			intervals [4]:
+				xmin = 0.810
+				xmax = 1.240
+				text = "拿"
+			intervals [5]:
+				xmin = 1.240
+				xmax = 1.400
+				text = "鐵"
+			intervals [6]:
+				xmin = 1.400
+				xmax = 1.540
+				text = "跟"
+			intervals [7]:
+				xmin = 1.540
+				xmax = 1.740
+				text = "奶"
+			intervals [8]:
+				xmin = 1.740
+				xmax = 2.010
+				text = "茶"
+			intervals [9]:
+				xmin = 2.010
+				xmax = 2.170
+				text = "的"
+			intervals [10]:
+				xmin = 2.170
+				xmax = 2.470
+				text = "差"
+			intervals [11]:
+				xmin = 2.470
+				xmax = 2.550
+				text = "別"
+			intervals [12]:
+				xmin = 2.550
+				xmax = 3.460
+				text = "sp"
+			intervals [13]:
+				xmin = 3.460
+				xmax = 3.48
+				text = ""

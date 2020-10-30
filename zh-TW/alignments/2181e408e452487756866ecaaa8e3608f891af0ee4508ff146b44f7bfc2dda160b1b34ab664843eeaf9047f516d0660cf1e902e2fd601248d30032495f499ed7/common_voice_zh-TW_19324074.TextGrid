@@ -1,0 +1,88 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 5.4
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "words"
+		xmin = 0.0
+		xmax = 5.4
+		intervals: size = 3
+			intervals [1]:
+				xmin = 0.0
+				xmax = 1.200
+				text = ""
+			intervals [2]:
+				xmin = 1.200
+				xmax = 2.810
+				text = "烏龍茶加奶就來得有尾韻"
+			intervals [3]:
+				xmin = 2.810
+				xmax = 5.4
+				text = ""
+	item [2]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 5.4
+		intervals: size = 14
+			intervals [1]:
+				xmin = 0.000
+				xmax = 1.200
+				text = "sil"
+			intervals [2]:
+				xmin = 1.200
+				xmax = 1.280
+				text = "烏"
+			intervals [3]:
+				xmin = 1.280
+				xmax = 1.630
+				text = "龍"
+			intervals [4]:
+				xmin = 1.630
+				xmax = 2.120
+				text = "茶"
+			intervals [5]:
+				xmin = 2.120
+				xmax = 2.390
+				text = "加"
+			intervals [6]:
+				xmin = 2.390
+				xmax = 2.420
+				text = "奶"
+			intervals [7]:
+				xmin = 2.420
+				xmax = 2.450
+				text = "就"
+			intervals [8]:
+				xmin = 2.450
+				xmax = 2.630
+				text = "來"
+			intervals [9]:
+				xmin = 2.630
+				xmax = 2.660
+				text = "得"
+			intervals [10]:
+				xmin = 2.660
+				xmax = 2.690
+				text = "有"
+			intervals [11]:
+				xmin = 2.690
+				xmax = 2.780
+				text = "尾"
+			intervals [12]:
+				xmin = 2.780
+				xmax = 2.810
+				text = "韻"
+			intervals [13]:
+				xmin = 2.810
+				xmax = 5.380
+				text = "sp"
+			intervals [14]:
+				xmin = 5.380
+				xmax = 5.4
+				text = ""

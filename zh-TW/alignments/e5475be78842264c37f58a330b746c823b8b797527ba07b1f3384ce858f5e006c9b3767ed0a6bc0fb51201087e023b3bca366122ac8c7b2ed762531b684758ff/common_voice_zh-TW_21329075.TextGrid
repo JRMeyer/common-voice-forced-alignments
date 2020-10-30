@@ -1,0 +1,92 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 4.08
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "words"
+		xmin = 0.0
+		xmax = 4.08
+		intervals: size = 3
+			intervals [1]:
+				xmin = 0.0
+				xmax = 0.800
+				text = ""
+			intervals [2]:
+				xmin = 0.800
+				xmax = 3.230
+				text = "從小到大的認知是有問題的"
+			intervals [3]:
+				xmin = 3.230
+				xmax = 4.08
+				text = ""
+	item [2]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 4.08
+		intervals: size = 15
+			intervals [1]:
+				xmin = 0.000
+				xmax = 0.800
+				text = "sil"
+			intervals [2]:
+				xmin = 0.800
+				xmax = 0.960
+				text = "從"
+			intervals [3]:
+				xmin = 0.960
+				xmax = 1.110
+				text = "小"
+			intervals [4]:
+				xmin = 1.110
+				xmax = 1.610
+				text = "到"
+			intervals [5]:
+				xmin = 1.610
+				xmax = 1.650
+				text = "大"
+			intervals [6]:
+				xmin = 1.650
+				xmax = 1.710
+				text = "的"
+			intervals [7]:
+				xmin = 1.710
+				xmax = 2.010
+				text = "認"
+			intervals [8]:
+				xmin = 2.010
+				xmax = 2.180
+				text = "知"
+			intervals [9]:
+				xmin = 2.180
+				xmax = 2.370
+				text = "是"
+			intervals [10]:
+				xmin = 2.370
+				xmax = 2.480
+				text = "有"
+			intervals [11]:
+				xmin = 2.480
+				xmax = 2.770
+				text = "問"
+			intervals [12]:
+				xmin = 2.770
+				xmax = 2.970
+				text = "題"
+			intervals [13]:
+				xmin = 2.970
+				xmax = 3.230
+				text = "的"
+			intervals [14]:
+				xmin = 3.230
+				xmax = 4.060
+				text = "sp"
+			intervals [15]:
+				xmin = 4.060
+				xmax = 4.08
+				text = ""

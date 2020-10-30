@@ -1,0 +1,108 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 5.4
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "words"
+		xmin = 0.0
+		xmax = 5.4
+		intervals: size = 3
+			intervals [1]:
+				xmin = 0.0
+				xmax = 0.570
+				text = ""
+			intervals [2]:
+				xmin = 0.570
+				xmax = 4.520
+				text = "無分男女、宗教、種族、階級、黨派"
+			intervals [3]:
+				xmin = 4.520
+				xmax = 5.4
+				text = ""
+	item [2]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 5.4
+		intervals: size = 19
+			intervals [1]:
+				xmin = 0.000
+				xmax = 0.570
+				text = "sil"
+			intervals [2]:
+				xmin = 0.570
+				xmax = 0.780
+				text = "無"
+			intervals [3]:
+				xmin = 0.780
+				xmax = 1.010
+				text = "分"
+			intervals [4]:
+				xmin = 1.010
+				xmax = 1.220
+				text = "男"
+			intervals [5]:
+				xmin = 1.220
+				xmax = 1.460
+				text = "女"
+			intervals [6]:
+				xmin = 1.460
+				xmax = 1.740
+				text = "、"
+			intervals [7]:
+				xmin = 1.740
+				xmax = 1.910
+				text = "宗"
+			intervals [8]:
+				xmin = 1.910
+				xmax = 2.200
+				text = "教"
+			intervals [9]:
+				xmin = 2.200
+				xmax = 2.430
+				text = "、"
+			intervals [10]:
+				xmin = 2.430
+				xmax = 2.680
+				text = "種"
+			intervals [11]:
+				xmin = 2.680
+				xmax = 2.970
+				text = "族"
+			intervals [12]:
+				xmin = 2.970
+				xmax = 3.320
+				text = "、"
+			intervals [13]:
+				xmin = 3.320
+				xmax = 3.540
+				text = "階"
+			intervals [14]:
+				xmin = 3.540
+				xmax = 3.840
+				text = "級"
+			intervals [15]:
+				xmin = 3.840
+				xmax = 4.050
+				text = "、"
+			intervals [16]:
+				xmin = 4.050
+				xmax = 4.270
+				text = "黨"
+			intervals [17]:
+				xmin = 4.270
+				xmax = 4.520
+				text = "派"
+			intervals [18]:
+				xmin = 4.520
+				xmax = 5.380
+				text = "sp"
+			intervals [19]:
+				xmin = 5.380
+				xmax = 5.4
+				text = ""

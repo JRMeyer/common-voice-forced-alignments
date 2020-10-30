@@ -1,0 +1,88 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 4.8
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "words"
+		xmin = 0.0
+		xmax = 4.8
+		intervals: size = 3
+			intervals [1]:
+				xmin = 0.0
+				xmax = 0.560
+				text = ""
+			intervals [2]:
+				xmin = 0.560
+				xmax = 3.050
+				text = "十年前跟一起睡過校門口"
+			intervals [3]:
+				xmin = 3.050
+				xmax = 4.8
+				text = ""
+	item [2]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 4.8
+		intervals: size = 14
+			intervals [1]:
+				xmin = 0.000
+				xmax = 0.560
+				text = "sil"
+			intervals [2]:
+				xmin = 0.560
+				xmax = 0.800
+				text = "十"
+			intervals [3]:
+				xmin = 0.800
+				xmax = 0.970
+				text = "年"
+			intervals [4]:
+				xmin = 0.970
+				xmax = 1.280
+				text = "前"
+			intervals [5]:
+				xmin = 1.280
+				xmax = 1.810
+				text = "跟"
+			intervals [6]:
+				xmin = 1.810
+				xmax = 1.910
+				text = "一"
+			intervals [7]:
+				xmin = 1.910
+				xmax = 2.220
+				text = "起"
+			intervals [8]:
+				xmin = 2.220
+				xmax = 2.540
+				text = "睡"
+			intervals [9]:
+				xmin = 2.540
+				xmax = 2.960
+				text = "過"
+			intervals [10]:
+				xmin = 2.960
+				xmax = 2.990
+				text = "校"
+			intervals [11]:
+				xmin = 2.990
+				xmax = 3.020
+				text = "門"
+			intervals [12]:
+				xmin = 3.020
+				xmax = 3.050
+				text = "口"
+			intervals [13]:
+				xmin = 3.050
+				xmax = 4.780
+				text = "sp"
+			intervals [14]:
+				xmin = 4.780
+				xmax = 4.8
+				text = ""

@@ -1,0 +1,112 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 6.6
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "words"
+		xmin = 0.0
+		xmax = 6.6
+		intervals: size = 3
+			intervals [1]:
+				xmin = 0.0
+				xmax = 0.970
+				text = ""
+			intervals [2]:
+				xmin = 0.970
+				xmax = 5.610
+				text = "發現他們採用了「監督式學習」的技術"
+			intervals [3]:
+				xmin = 5.610
+				xmax = 6.6
+				text = ""
+	item [2]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 6.6
+		intervals: size = 20
+			intervals [1]:
+				xmin = 0.000
+				xmax = 0.970
+				text = "sil"
+			intervals [2]:
+				xmin = 0.970
+				xmax = 1.200
+				text = "發"
+			intervals [3]:
+				xmin = 1.200
+				xmax = 1.470
+				text = "現"
+			intervals [4]:
+				xmin = 1.470
+				xmax = 1.640
+				text = "他"
+			intervals [5]:
+				xmin = 1.640
+				xmax = 1.860
+				text = "們"
+			intervals [6]:
+				xmin = 1.860
+				xmax = 2.130
+				text = "採"
+			intervals [7]:
+				xmin = 2.130
+				xmax = 2.320
+				text = "用"
+			intervals [8]:
+				xmin = 2.320
+				xmax = 2.710
+				text = "了"
+			intervals [9]:
+				xmin = 2.710
+				xmax = 2.890
+				text = "「"
+			intervals [10]:
+				xmin = 2.890
+				xmax = 3.280
+				text = "監"
+			intervals [11]:
+				xmin = 3.280
+				xmax = 3.570
+				text = "督"
+			intervals [12]:
+				xmin = 3.570
+				xmax = 3.920
+				text = "式"
+			intervals [13]:
+				xmin = 3.920
+				xmax = 4.280
+				text = "學"
+			intervals [14]:
+				xmin = 4.280
+				xmax = 4.640
+				text = "習"
+			intervals [15]:
+				xmin = 4.640
+				xmax = 4.840
+				text = "」"
+			intervals [16]:
+				xmin = 4.840
+				xmax = 5.120
+				text = "的"
+			intervals [17]:
+				xmin = 5.120
+				xmax = 5.370
+				text = "技"
+			intervals [18]:
+				xmin = 5.370
+				xmax = 5.610
+				text = "術"
+			intervals [19]:
+				xmin = 5.610
+				xmax = 6.580
+				text = "sp"
+			intervals [20]:
+				xmin = 6.580
+				xmax = 6.6
+				text = ""

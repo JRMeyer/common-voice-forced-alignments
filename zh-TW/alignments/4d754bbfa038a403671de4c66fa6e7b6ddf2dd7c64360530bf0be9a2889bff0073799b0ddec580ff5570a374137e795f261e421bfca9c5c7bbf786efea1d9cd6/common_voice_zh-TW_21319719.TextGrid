@@ -1,0 +1,88 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 4.2
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "words"
+		xmin = 0.0
+		xmax = 4.2
+		intervals: size = 3
+			intervals [1]:
+				xmin = 0.0
+				xmax = 0.720
+				text = ""
+			intervals [2]:
+				xmin = 0.720
+				xmax = 3.120
+				text = "但互相磨合、推擠的過程"
+			intervals [3]:
+				xmin = 3.120
+				xmax = 4.2
+				text = ""
+	item [2]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 4.2
+		intervals: size = 14
+			intervals [1]:
+				xmin = 0.000
+				xmax = 0.720
+				text = "sil"
+			intervals [2]:
+				xmin = 0.720
+				xmax = 0.890
+				text = "但"
+			intervals [3]:
+				xmin = 0.890
+				xmax = 1.160
+				text = "互"
+			intervals [4]:
+				xmin = 1.160
+				xmax = 1.450
+				text = "相"
+			intervals [5]:
+				xmin = 1.450
+				xmax = 1.690
+				text = "磨"
+			intervals [6]:
+				xmin = 1.690
+				xmax = 2.070
+				text = "合"
+			intervals [7]:
+				xmin = 2.070
+				xmax = 2.150
+				text = "、"
+			intervals [8]:
+				xmin = 2.150
+				xmax = 2.400
+				text = "推"
+			intervals [9]:
+				xmin = 2.400
+				xmax = 2.550
+				text = "擠"
+			intervals [10]:
+				xmin = 2.550
+				xmax = 2.710
+				text = "的"
+			intervals [11]:
+				xmin = 2.710
+				xmax = 2.910
+				text = "過"
+			intervals [12]:
+				xmin = 2.910
+				xmax = 3.120
+				text = "程"
+			intervals [13]:
+				xmin = 3.120
+				xmax = 4.180
+				text = "sp"
+			intervals [14]:
+				xmin = 4.180
+				xmax = 4.2
+				text = ""

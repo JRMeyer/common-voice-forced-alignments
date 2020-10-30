@@ -1,0 +1,88 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 4.2
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "words"
+		xmin = 0.0
+		xmax = 4.2
+		intervals: size = 3
+			intervals [1]:
+				xmin = 0.0
+				xmax = 0.730
+				text = ""
+			intervals [2]:
+				xmin = 0.730
+				xmax = 3.970
+				text = "審查委員應簽署保密協定"
+			intervals [3]:
+				xmin = 3.970
+				xmax = 4.2
+				text = ""
+	item [2]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 4.2
+		intervals: size = 14
+			intervals [1]:
+				xmin = 0.000
+				xmax = 0.730
+				text = "sil"
+			intervals [2]:
+				xmin = 0.730
+				xmax = 0.970
+				text = "審"
+			intervals [3]:
+				xmin = 0.970
+				xmax = 1.210
+				text = "查"
+			intervals [4]:
+				xmin = 1.210
+				xmax = 1.390
+				text = "委"
+			intervals [5]:
+				xmin = 1.390
+				xmax = 1.930
+				text = "員"
+			intervals [6]:
+				xmin = 1.930
+				xmax = 2.120
+				text = "應"
+			intervals [7]:
+				xmin = 2.120
+				xmax = 2.410
+				text = "簽"
+			intervals [8]:
+				xmin = 2.410
+				xmax = 2.700
+				text = "署"
+			intervals [9]:
+				xmin = 2.700
+				xmax = 3.160
+				text = "保"
+			intervals [10]:
+				xmin = 3.160
+				xmax = 3.330
+				text = "密"
+			intervals [11]:
+				xmin = 3.330
+				xmax = 3.700
+				text = "協"
+			intervals [12]:
+				xmin = 3.700
+				xmax = 3.970
+				text = "定"
+			intervals [13]:
+				xmin = 3.970
+				xmax = 4.180
+				text = "sp"
+			intervals [14]:
+				xmin = 4.180
+				xmax = 4.2
+				text = ""

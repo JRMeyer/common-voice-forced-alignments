@@ -1,0 +1,100 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 5.04
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "words"
+		xmin = 0.0
+		xmax = 5.04
+		intervals: size = 3
+			intervals [1]:
+				xmin = 0.0
+				xmax = 0.580
+				text = ""
+			intervals [2]:
+				xmin = 0.580
+				xmax = 4.160
+				text = "每年因管線損失的水將近十億噸"
+			intervals [3]:
+				xmin = 4.160
+				xmax = 5.04
+				text = ""
+	item [2]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 5.04
+		intervals: size = 17
+			intervals [1]:
+				xmin = 0.000
+				xmax = 0.580
+				text = "sil"
+			intervals [2]:
+				xmin = 0.580
+				xmax = 0.800
+				text = "每"
+			intervals [3]:
+				xmin = 0.800
+				xmax = 0.990
+				text = "年"
+			intervals [4]:
+				xmin = 0.990
+				xmax = 1.280
+				text = "因"
+			intervals [5]:
+				xmin = 1.280
+				xmax = 1.490
+				text = "管"
+			intervals [6]:
+				xmin = 1.490
+				xmax = 1.920
+				text = "線"
+			intervals [7]:
+				xmin = 1.920
+				xmax = 1.950
+				text = "損"
+			intervals [8]:
+				xmin = 1.950
+				xmax = 2.240
+				text = "失"
+			intervals [9]:
+				xmin = 2.240
+				xmax = 2.390
+				text = "的"
+			intervals [10]:
+				xmin = 2.390
+				xmax = 2.840
+				text = "水"
+			intervals [11]:
+				xmin = 2.840
+				xmax = 3.100
+				text = "將"
+			intervals [12]:
+				xmin = 3.100
+				xmax = 3.310
+				text = "近"
+			intervals [13]:
+				xmin = 3.310
+				xmax = 3.730
+				text = "十"
+			intervals [14]:
+				xmin = 3.730
+				xmax = 3.910
+				text = "億"
+			intervals [15]:
+				xmin = 3.910
+				xmax = 4.160
+				text = "噸"
+			intervals [16]:
+				xmin = 4.160
+				xmax = 5.020
+				text = "sp"
+			intervals [17]:
+				xmin = 5.020
+				xmax = 5.04
+				text = ""

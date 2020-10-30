@@ -1,0 +1,92 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 3.96
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "words"
+		xmin = 0.0
+		xmax = 3.96
+		intervals: size = 3
+			intervals [1]:
+				xmin = 0.0
+				xmax = 0.380
+				text = ""
+			intervals [2]:
+				xmin = 0.380
+				xmax = 3.460
+				text = "因此他們才往這方向去研究"
+			intervals [3]:
+				xmin = 3.460
+				xmax = 3.96
+				text = ""
+	item [2]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 3.96
+		intervals: size = 15
+			intervals [1]:
+				xmin = 0.000
+				xmax = 0.380
+				text = "sil"
+			intervals [2]:
+				xmin = 0.380
+				xmax = 0.550
+				text = "因"
+			intervals [3]:
+				xmin = 0.550
+				xmax = 1.050
+				text = "此"
+			intervals [4]:
+				xmin = 1.050
+				xmax = 1.260
+				text = "他"
+			intervals [5]:
+				xmin = 1.260
+				xmax = 1.450
+				text = "們"
+			intervals [6]:
+				xmin = 1.450
+				xmax = 1.630
+				text = "才"
+			intervals [7]:
+				xmin = 1.630
+				xmax = 1.930
+				text = "往"
+			intervals [8]:
+				xmin = 1.930
+				xmax = 2.210
+				text = "這"
+			intervals [9]:
+				xmin = 2.210
+				xmax = 2.360
+				text = "方"
+			intervals [10]:
+				xmin = 2.360
+				xmax = 2.670
+				text = "向"
+			intervals [11]:
+				xmin = 2.670
+				xmax = 2.860
+				text = "去"
+			intervals [12]:
+				xmin = 2.860
+				xmax = 3.220
+				text = "研"
+			intervals [13]:
+				xmin = 3.220
+				xmax = 3.460
+				text = "究"
+			intervals [14]:
+				xmin = 3.460
+				xmax = 3.940
+				text = "sp"
+			intervals [15]:
+				xmin = 3.940
+				xmax = 3.96
+				text = ""

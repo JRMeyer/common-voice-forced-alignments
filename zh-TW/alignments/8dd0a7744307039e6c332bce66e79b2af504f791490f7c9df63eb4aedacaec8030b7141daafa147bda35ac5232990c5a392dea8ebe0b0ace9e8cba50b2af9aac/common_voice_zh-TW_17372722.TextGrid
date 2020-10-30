@@ -1,0 +1,92 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 3.12
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "words"
+		xmin = 0.0
+		xmax = 3.12
+		intervals: size = 3
+			intervals [1]:
+				xmin = 0.0
+				xmax = 0.610
+				text = ""
+			intervals [2]:
+				xmin = 0.610
+				xmax = 2.930
+				text = "我甚至還帶了這個要給你看"
+			intervals [3]:
+				xmin = 2.930
+				xmax = 3.12
+				text = ""
+	item [2]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 3.12
+		intervals: size = 15
+			intervals [1]:
+				xmin = 0.000
+				xmax = 0.610
+				text = "sil"
+			intervals [2]:
+				xmin = 0.610
+				xmax = 0.730
+				text = "我"
+			intervals [3]:
+				xmin = 0.730
+				xmax = 0.970
+				text = "甚"
+			intervals [4]:
+				xmin = 0.970
+				xmax = 1.110
+				text = "至"
+			intervals [5]:
+				xmin = 1.110
+				xmax = 1.350
+				text = "還"
+			intervals [6]:
+				xmin = 1.350
+				xmax = 1.570
+				text = "帶"
+			intervals [7]:
+				xmin = 1.570
+				xmax = 1.650
+				text = "了"
+			intervals [8]:
+				xmin = 1.650
+				xmax = 1.830
+				text = "這"
+			intervals [9]:
+				xmin = 1.830
+				xmax = 1.920
+				text = "個"
+			intervals [10]:
+				xmin = 1.920
+				xmax = 2.160
+				text = "要"
+			intervals [11]:
+				xmin = 2.160
+				xmax = 2.240
+				text = "給"
+			intervals [12]:
+				xmin = 2.240
+				xmax = 2.510
+				text = "你"
+			intervals [13]:
+				xmin = 2.510
+				xmax = 2.930
+				text = "看"
+			intervals [14]:
+				xmin = 2.930
+				xmax = 3.100
+				text = "sp"
+			intervals [15]:
+				xmin = 3.100
+				xmax = 3.12
+				text = ""

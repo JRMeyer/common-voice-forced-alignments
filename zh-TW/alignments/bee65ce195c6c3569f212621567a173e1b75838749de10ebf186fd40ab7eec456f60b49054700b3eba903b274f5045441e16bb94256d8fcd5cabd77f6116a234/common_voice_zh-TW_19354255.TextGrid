@@ -1,0 +1,88 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 3.0
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "words"
+		xmin = 0.0
+		xmax = 3.0
+		intervals: size = 3
+			intervals [1]:
+				xmin = 0.0
+				xmax = 0.590
+				text = ""
+			intervals [2]:
+				xmin = 0.590
+				xmax = 2.580
+				text = "臺灣作為太平洋上的海島"
+			intervals [3]:
+				xmin = 2.580
+				xmax = 3.0
+				text = ""
+	item [2]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 3.0
+		intervals: size = 14
+			intervals [1]:
+				xmin = 0.000
+				xmax = 0.590
+				text = "sil"
+			intervals [2]:
+				xmin = 0.590
+				xmax = 0.740
+				text = "臺"
+			intervals [3]:
+				xmin = 0.740
+				xmax = 0.950
+				text = "灣"
+			intervals [4]:
+				xmin = 0.950
+				xmax = 1.150
+				text = "作"
+			intervals [5]:
+				xmin = 1.150
+				xmax = 1.230
+				text = "為"
+			intervals [6]:
+				xmin = 1.230
+				xmax = 1.470
+				text = "太"
+			intervals [7]:
+				xmin = 1.470
+				xmax = 1.540
+				text = "平"
+			intervals [8]:
+				xmin = 1.540
+				xmax = 1.790
+				text = "洋"
+			intervals [9]:
+				xmin = 1.790
+				xmax = 2.010
+				text = "上"
+			intervals [10]:
+				xmin = 2.010
+				xmax = 2.140
+				text = "的"
+			intervals [11]:
+				xmin = 2.140
+				xmax = 2.400
+				text = "海"
+			intervals [12]:
+				xmin = 2.400
+				xmax = 2.580
+				text = "島"
+			intervals [13]:
+				xmin = 2.580
+				xmax = 2.980
+				text = "sp"
+			intervals [14]:
+				xmin = 2.980
+				xmax = 3.0
+				text = ""

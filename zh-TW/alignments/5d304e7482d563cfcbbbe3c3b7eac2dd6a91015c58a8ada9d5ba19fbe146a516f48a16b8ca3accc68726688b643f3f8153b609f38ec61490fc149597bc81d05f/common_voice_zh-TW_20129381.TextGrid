@@ -1,0 +1,100 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 4.8
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "words"
+		xmin = 0.0
+		xmax = 4.8
+		intervals: size = 3
+			intervals [1]:
+				xmin = 0.0
+				xmax = 0.360
+				text = ""
+			intervals [2]:
+				xmin = 0.360
+				xmax = 4.320
+				text = "增加店家曝光度所做的語音確認"
+			intervals [3]:
+				xmin = 4.320
+				xmax = 4.8
+				text = ""
+	item [2]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 4.8
+		intervals: size = 17
+			intervals [1]:
+				xmin = 0.000
+				xmax = 0.360
+				text = "sil"
+			intervals [2]:
+				xmin = 0.360
+				xmax = 0.530
+				text = "增"
+			intervals [3]:
+				xmin = 0.530
+				xmax = 0.850
+				text = "加"
+			intervals [4]:
+				xmin = 0.850
+				xmax = 1.090
+				text = "店"
+			intervals [5]:
+				xmin = 1.090
+				xmax = 1.530
+				text = "家"
+			intervals [6]:
+				xmin = 1.530
+				xmax = 1.980
+				text = "曝"
+			intervals [7]:
+				xmin = 1.980
+				xmax = 2.270
+				text = "光"
+			intervals [8]:
+				xmin = 2.270
+				xmax = 2.480
+				text = "度"
+			intervals [9]:
+				xmin = 2.480
+				xmax = 2.630
+				text = "所"
+			intervals [10]:
+				xmin = 2.630
+				xmax = 3.010
+				text = "做"
+			intervals [11]:
+				xmin = 3.010
+				xmax = 3.160
+				text = "的"
+			intervals [12]:
+				xmin = 3.160
+				xmax = 3.580
+				text = "語"
+			intervals [13]:
+				xmin = 3.580
+				xmax = 3.800
+				text = "音"
+			intervals [14]:
+				xmin = 3.800
+				xmax = 4.010
+				text = "確"
+			intervals [15]:
+				xmin = 4.010
+				xmax = 4.320
+				text = "認"
+			intervals [16]:
+				xmin = 4.320
+				xmax = 4.780
+				text = "sp"
+			intervals [17]:
+				xmin = 4.780
+				xmax = 4.8
+				text = ""

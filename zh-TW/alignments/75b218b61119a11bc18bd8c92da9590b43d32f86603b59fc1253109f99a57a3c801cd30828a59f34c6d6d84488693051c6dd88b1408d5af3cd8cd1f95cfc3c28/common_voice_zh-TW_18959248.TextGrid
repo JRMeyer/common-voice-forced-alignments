@@ -1,0 +1,92 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 3.6
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "words"
+		xmin = 0.0
+		xmax = 3.6
+		intervals: size = 3
+			intervals [1]:
+				xmin = 0.0
+				xmax = 0.640
+				text = ""
+			intervals [2]:
+				xmin = 0.640
+				xmax = 3.120
+				text = "不要把家裡的怨氣帶到公司"
+			intervals [3]:
+				xmin = 3.120
+				xmax = 3.6
+				text = ""
+	item [2]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 3.6
+		intervals: size = 15
+			intervals [1]:
+				xmin = 0.000
+				xmax = 0.640
+				text = "sil"
+			intervals [2]:
+				xmin = 0.640
+				xmax = 0.680
+				text = "不"
+			intervals [3]:
+				xmin = 0.680
+				xmax = 0.890
+				text = "要"
+			intervals [4]:
+				xmin = 0.890
+				xmax = 1.050
+				text = "把"
+			intervals [5]:
+				xmin = 1.050
+				xmax = 1.340
+				text = "家"
+			intervals [6]:
+				xmin = 1.340
+				xmax = 1.510
+				text = "裡"
+			intervals [7]:
+				xmin = 1.510
+				xmax = 1.580
+				text = "的"
+			intervals [8]:
+				xmin = 1.580
+				xmax = 1.860
+				text = "怨"
+			intervals [9]:
+				xmin = 1.860
+				xmax = 2.120
+				text = "氣"
+			intervals [10]:
+				xmin = 2.120
+				xmax = 2.350
+				text = "帶"
+			intervals [11]:
+				xmin = 2.350
+				xmax = 2.520
+				text = "到"
+			intervals [12]:
+				xmin = 2.520
+				xmax = 2.760
+				text = "公"
+			intervals [13]:
+				xmin = 2.760
+				xmax = 3.120
+				text = "司"
+			intervals [14]:
+				xmin = 3.120
+				xmax = 3.580
+				text = "sp"
+			intervals [15]:
+				xmin = 3.580
+				xmax = 3.6
+				text = ""

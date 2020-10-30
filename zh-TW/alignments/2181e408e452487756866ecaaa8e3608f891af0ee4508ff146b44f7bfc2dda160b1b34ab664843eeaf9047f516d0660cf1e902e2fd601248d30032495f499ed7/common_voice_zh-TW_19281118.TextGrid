@@ -1,0 +1,88 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 4.752
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "words"
+		xmin = 0.0
+		xmax = 4.752
+		intervals: size = 3
+			intervals [1]:
+				xmin = 0.0
+				xmax = 0.980
+				text = ""
+			intervals [2]:
+				xmin = 0.980
+				xmax = 4.080
+				text = "英文數字請盡量轉為中文"
+			intervals [3]:
+				xmin = 4.080
+				xmax = 4.752
+				text = ""
+	item [2]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 4.752
+		intervals: size = 14
+			intervals [1]:
+				xmin = 0.000
+				xmax = 0.980
+				text = "sil"
+			intervals [2]:
+				xmin = 0.980
+				xmax = 1.170
+				text = "英"
+			intervals [3]:
+				xmin = 1.170
+				xmax = 1.390
+				text = "文"
+			intervals [4]:
+				xmin = 1.390
+				xmax = 1.810
+				text = "數"
+			intervals [5]:
+				xmin = 1.810
+				xmax = 2.230
+				text = "字"
+			intervals [6]:
+				xmin = 2.230
+				xmax = 2.390
+				text = "請"
+			intervals [7]:
+				xmin = 2.390
+				xmax = 2.720
+				text = "盡"
+			intervals [8]:
+				xmin = 2.720
+				xmax = 2.920
+				text = "量"
+			intervals [9]:
+				xmin = 2.920
+				xmax = 3.190
+				text = "轉"
+			intervals [10]:
+				xmin = 3.190
+				xmax = 3.360
+				text = "為"
+			intervals [11]:
+				xmin = 3.360
+				xmax = 3.590
+				text = "中"
+			intervals [12]:
+				xmin = 3.590
+				xmax = 4.080
+				text = "文"
+			intervals [13]:
+				xmin = 4.080
+				xmax = 4.730
+				text = "sp"
+			intervals [14]:
+				xmin = 4.730
+				xmax = 4.752
+				text = ""

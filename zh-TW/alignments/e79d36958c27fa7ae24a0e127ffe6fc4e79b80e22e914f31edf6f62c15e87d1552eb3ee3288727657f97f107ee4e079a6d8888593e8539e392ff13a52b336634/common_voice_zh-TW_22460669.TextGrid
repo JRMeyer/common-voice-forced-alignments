@@ -1,0 +1,88 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 4.56
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "words"
+		xmin = 0.0
+		xmax = 4.56
+		intervals: size = 3
+			intervals [1]:
+				xmin = 0.0
+				xmax = 0.630
+				text = ""
+			intervals [2]:
+				xmin = 0.630
+				xmax = 3.540
+				text = "總統團結的不只是支持者"
+			intervals [3]:
+				xmin = 3.540
+				xmax = 4.56
+				text = ""
+	item [2]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 4.56
+		intervals: size = 14
+			intervals [1]:
+				xmin = 0.000
+				xmax = 0.630
+				text = "sil"
+			intervals [2]:
+				xmin = 0.630
+				xmax = 0.860
+				text = "總"
+			intervals [3]:
+				xmin = 0.860
+				xmax = 1.070
+				text = "統"
+			intervals [4]:
+				xmin = 1.070
+				xmax = 1.450
+				text = "團"
+			intervals [5]:
+				xmin = 1.450
+				xmax = 1.670
+				text = "結"
+			intervals [6]:
+				xmin = 1.670
+				xmax = 1.890
+				text = "的"
+			intervals [7]:
+				xmin = 1.890
+				xmax = 2.050
+				text = "不"
+			intervals [8]:
+				xmin = 2.050
+				xmax = 2.230
+				text = "只"
+			intervals [9]:
+				xmin = 2.230
+				xmax = 2.490
+				text = "是"
+			intervals [10]:
+				xmin = 2.490
+				xmax = 2.680
+				text = "支"
+			intervals [11]:
+				xmin = 2.680
+				xmax = 3.260
+				text = "持"
+			intervals [12]:
+				xmin = 3.260
+				xmax = 3.540
+				text = "者"
+			intervals [13]:
+				xmin = 3.540
+				xmax = 4.540
+				text = "sp"
+			intervals [14]:
+				xmin = 4.540
+				xmax = 4.56
+				text = ""

@@ -1,0 +1,92 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 3.072
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "words"
+		xmin = 0.0
+		xmax = 3.072
+		intervals: size = 3
+			intervals [1]:
+				xmin = 0.0
+				xmax = 0.580
+				text = ""
+			intervals [2]:
+				xmin = 0.580
+				xmax = 2.960
+				text = "第一次在伯朗咖啡點啤酒喝"
+			intervals [3]:
+				xmin = 2.960
+				xmax = 3.072
+				text = ""
+	item [2]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 3.072
+		intervals: size = 15
+			intervals [1]:
+				xmin = 0.000
+				xmax = 0.580
+				text = "sil"
+			intervals [2]:
+				xmin = 0.580
+				xmax = 0.800
+				text = "第"
+			intervals [3]:
+				xmin = 0.800
+				xmax = 0.830
+				text = "一"
+			intervals [4]:
+				xmin = 0.830
+				xmax = 1.170
+				text = "次"
+			intervals [5]:
+				xmin = 1.170
+				xmax = 1.340
+				text = "在"
+			intervals [6]:
+				xmin = 1.340
+				xmax = 1.530
+				text = "伯"
+			intervals [7]:
+				xmin = 1.530
+				xmax = 1.630
+				text = "朗"
+			intervals [8]:
+				xmin = 1.630
+				xmax = 1.880
+				text = "咖"
+			intervals [9]:
+				xmin = 1.880
+				xmax = 1.970
+				text = "啡"
+			intervals [10]:
+				xmin = 1.970
+				xmax = 2.190
+				text = "點"
+			intervals [11]:
+				xmin = 2.190
+				xmax = 2.380
+				text = "啤"
+			intervals [12]:
+				xmin = 2.380
+				xmax = 2.530
+				text = "酒"
+			intervals [13]:
+				xmin = 2.530
+				xmax = 2.960
+				text = "喝"
+			intervals [14]:
+				xmin = 2.960
+				xmax = 3.050
+				text = "sp"
+			intervals [15]:
+				xmin = 3.050
+				xmax = 3.072
+				text = ""

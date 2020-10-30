@@ -1,0 +1,96 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 6.0
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "words"
+		xmin = 0.0
+		xmax = 6.0
+		intervals: size = 3
+			intervals [1]:
+				xmin = 0.0
+				xmax = 1.100
+				text = ""
+			intervals [2]:
+				xmin = 1.100
+				xmax = 5.590
+				text = "那這樣大概會只剩下二點多趴"
+			intervals [3]:
+				xmin = 5.590
+				xmax = 6.0
+				text = ""
+	item [2]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 6.0
+		intervals: size = 16
+			intervals [1]:
+				xmin = 0.000
+				xmax = 1.100
+				text = "sil"
+			intervals [2]:
+				xmin = 1.100
+				xmax = 1.530
+				text = "那"
+			intervals [3]:
+				xmin = 1.530
+				xmax = 1.770
+				text = "這"
+			intervals [4]:
+				xmin = 1.770
+				xmax = 2.140
+				text = "樣"
+			intervals [5]:
+				xmin = 2.140
+				xmax = 2.870
+				text = "大"
+			intervals [6]:
+				xmin = 2.870
+				xmax = 2.900
+				text = "概"
+			intervals [7]:
+				xmin = 2.900
+				xmax = 3.210
+				text = "會"
+			intervals [8]:
+				xmin = 3.210
+				xmax = 3.500
+				text = "只"
+			intervals [9]:
+				xmin = 3.500
+				xmax = 3.880
+				text = "剩"
+			intervals [10]:
+				xmin = 3.880
+				xmax = 4.250
+				text = "下"
+			intervals [11]:
+				xmin = 4.250
+				xmax = 4.500
+				text = "二"
+			intervals [12]:
+				xmin = 4.500
+				xmax = 4.860
+				text = "點"
+			intervals [13]:
+				xmin = 4.860
+				xmax = 5.190
+				text = "多"
+			intervals [14]:
+				xmin = 5.190
+				xmax = 5.590
+				text = "趴"
+			intervals [15]:
+				xmin = 5.590
+				xmax = 5.980
+				text = "sp"
+			intervals [16]:
+				xmin = 5.980
+				xmax = 6.0
+				text = ""

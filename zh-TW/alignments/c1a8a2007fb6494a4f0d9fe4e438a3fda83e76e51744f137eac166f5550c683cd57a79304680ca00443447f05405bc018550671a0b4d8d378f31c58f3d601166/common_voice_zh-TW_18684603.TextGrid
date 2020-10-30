@@ -1,0 +1,100 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 3.6
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "words"
+		xmin = 0.0
+		xmax = 3.6
+		intervals: size = 3
+			intervals [1]:
+				xmin = 0.0
+				xmax = 0.850
+				text = ""
+			intervals [2]:
+				xmin = 0.850
+				xmax = 3.100
+				text = "明明就在隔壁，硬是要公文往返"
+			intervals [3]:
+				xmin = 3.100
+				xmax = 3.6
+				text = ""
+	item [2]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 3.6
+		intervals: size = 17
+			intervals [1]:
+				xmin = 0.000
+				xmax = 0.850
+				text = "sil"
+			intervals [2]:
+				xmin = 0.850
+				xmax = 0.880
+				text = "明"
+			intervals [3]:
+				xmin = 0.880
+				xmax = 1.100
+				text = "明"
+			intervals [4]:
+				xmin = 1.100
+				xmax = 1.250
+				text = "就"
+			intervals [5]:
+				xmin = 1.250
+				xmax = 1.350
+				text = "在"
+			intervals [6]:
+				xmin = 1.350
+				xmax = 1.590
+				text = "隔"
+			intervals [7]:
+				xmin = 1.590
+				xmax = 1.840
+				text = "壁"
+			intervals [8]:
+				xmin = 1.840
+				xmax = 1.930
+				text = "，"
+			intervals [9]:
+				xmin = 1.930
+				xmax = 2.070
+				text = "硬"
+			intervals [10]:
+				xmin = 2.070
+				xmax = 2.260
+				text = "是"
+			intervals [11]:
+				xmin = 2.260
+				xmax = 2.420
+				text = "要"
+			intervals [12]:
+				xmin = 2.420
+				xmax = 2.510
+				text = "公"
+			intervals [13]:
+				xmin = 2.510
+				xmax = 2.550
+				text = "文"
+			intervals [14]:
+				xmin = 2.550
+				xmax = 2.850
+				text = "往"
+			intervals [15]:
+				xmin = 2.850
+				xmax = 3.100
+				text = "返"
+			intervals [16]:
+				xmin = 3.100
+				xmax = 3.580
+				text = "sp"
+			intervals [17]:
+				xmin = 3.580
+				xmax = 3.6
+				text = ""

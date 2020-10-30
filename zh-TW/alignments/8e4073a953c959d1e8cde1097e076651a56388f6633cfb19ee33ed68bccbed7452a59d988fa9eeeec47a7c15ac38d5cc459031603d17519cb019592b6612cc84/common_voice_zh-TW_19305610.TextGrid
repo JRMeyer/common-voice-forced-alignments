@@ -1,0 +1,92 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 3.84
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "words"
+		xmin = 0.0
+		xmax = 3.84
+		intervals: size = 3
+			intervals [1]:
+				xmin = 0.0
+				xmax = 0.100
+				text = ""
+			intervals [2]:
+				xmin = 0.100
+				xmax = 0.500
+				text = "有共識的結論才提升為決議"
+			intervals [3]:
+				xmin = 0.500
+				xmax = 3.84
+				text = ""
+	item [2]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 3.84
+		intervals: size = 15
+			intervals [1]:
+				xmin = 0.000
+				xmax = 0.100
+				text = "sil"
+			intervals [2]:
+				xmin = 0.100
+				xmax = 0.130
+				text = "有"
+			intervals [3]:
+				xmin = 0.130
+				xmax = 0.160
+				text = "共"
+			intervals [4]:
+				xmin = 0.160
+				xmax = 0.190
+				text = "識"
+			intervals [5]:
+				xmin = 0.190
+				xmax = 0.220
+				text = "的"
+			intervals [6]:
+				xmin = 0.220
+				xmax = 0.250
+				text = "結"
+			intervals [7]:
+				xmin = 0.250
+				xmax = 0.280
+				text = "論"
+			intervals [8]:
+				xmin = 0.280
+				xmax = 0.310
+				text = "才"
+			intervals [9]:
+				xmin = 0.310
+				xmax = 0.340
+				text = "提"
+			intervals [10]:
+				xmin = 0.340
+				xmax = 0.410
+				text = "升"
+			intervals [11]:
+				xmin = 0.410
+				xmax = 0.440
+				text = "為"
+			intervals [12]:
+				xmin = 0.440
+				xmax = 0.470
+				text = "決"
+			intervals [13]:
+				xmin = 0.470
+				xmax = 0.500
+				text = "議"
+			intervals [14]:
+				xmin = 0.500
+				xmax = 3.820
+				text = "sp"
+			intervals [15]:
+				xmin = 3.820
+				xmax = 3.84
+				text = ""

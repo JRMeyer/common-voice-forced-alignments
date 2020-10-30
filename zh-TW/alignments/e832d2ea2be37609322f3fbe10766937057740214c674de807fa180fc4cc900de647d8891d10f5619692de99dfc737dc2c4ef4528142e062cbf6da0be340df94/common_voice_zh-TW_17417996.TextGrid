@@ -1,0 +1,88 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 3.0
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "words"
+		xmin = 0.0
+		xmax = 3.0
+		intervals: size = 3
+			intervals [1]:
+				xmin = 0.0
+				xmax = 0.430
+				text = ""
+			intervals [2]:
+				xmin = 0.430
+				xmax = 2.910
+				text = "人體研究倫理審查委員會"
+			intervals [3]:
+				xmin = 2.910
+				xmax = 3.0
+				text = ""
+	item [2]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 3.0
+		intervals: size = 14
+			intervals [1]:
+				xmin = 0.000
+				xmax = 0.430
+				text = "sil"
+			intervals [2]:
+				xmin = 0.430
+				xmax = 0.570
+				text = "人"
+			intervals [3]:
+				xmin = 0.570
+				xmax = 0.850
+				text = "體"
+			intervals [4]:
+				xmin = 0.850
+				xmax = 1.060
+				text = "研"
+			intervals [5]:
+				xmin = 1.060
+				xmax = 1.250
+				text = "究"
+			intervals [6]:
+				xmin = 1.250
+				xmax = 1.540
+				text = "倫"
+			intervals [7]:
+				xmin = 1.540
+				xmax = 1.700
+				text = "理"
+			intervals [8]:
+				xmin = 1.700
+				xmax = 1.990
+				text = "審"
+			intervals [9]:
+				xmin = 1.990
+				xmax = 2.160
+				text = "查"
+			intervals [10]:
+				xmin = 2.160
+				xmax = 2.370
+				text = "委"
+			intervals [11]:
+				xmin = 2.370
+				xmax = 2.550
+				text = "員"
+			intervals [12]:
+				xmin = 2.550
+				xmax = 2.910
+				text = "會"
+			intervals [13]:
+				xmin = 2.910
+				xmax = 2.980
+				text = "sp"
+			intervals [14]:
+				xmin = 2.980
+				xmax = 3.0
+				text = ""

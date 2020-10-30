@@ -1,0 +1,104 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 4.32
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "words"
+		xmin = 0.0
+		xmax = 4.32
+		intervals: size = 3
+			intervals [1]:
+				xmin = 0.0
+				xmax = 0.100
+				text = ""
+			intervals [2]:
+				xmin = 0.100
+				xmax = 4.300
+				text = "不同語言、腔調、性別、年齡的聲音"
+			intervals [3]:
+				xmin = 4.300
+				xmax = 4.32
+				text = ""
+	item [2]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 4.32
+		intervals: size = 18
+			intervals [1]:
+				xmin = 0.000
+				xmax = 0.100
+				text = "sil"
+			intervals [2]:
+				xmin = 0.100
+				xmax = 0.170
+				text = "不"
+			intervals [3]:
+				xmin = 0.170
+				xmax = 0.200
+				text = "同"
+			intervals [4]:
+				xmin = 0.200
+				xmax = 0.230
+				text = "語"
+			intervals [5]:
+				xmin = 0.230
+				xmax = 0.260
+				text = "言"
+			intervals [6]:
+				xmin = 0.260
+				xmax = 0.490
+				text = "、"
+			intervals [7]:
+				xmin = 0.490
+				xmax = 0.520
+				text = "腔"
+			intervals [8]:
+				xmin = 0.520
+				xmax = 0.550
+				text = "調"
+			intervals [9]:
+				xmin = 0.550
+				xmax = 0.660
+				text = "、"
+			intervals [10]:
+				xmin = 0.660
+				xmax = 0.690
+				text = "性"
+			intervals [11]:
+				xmin = 0.690
+				xmax = 0.720
+				text = "別"
+			intervals [12]:
+				xmin = 0.720
+				xmax = 0.830
+				text = "、"
+			intervals [13]:
+				xmin = 0.830
+				xmax = 0.860
+				text = "年"
+			intervals [14]:
+				xmin = 0.860
+				xmax = 4.210
+				text = "齡"
+			intervals [15]:
+				xmin = 4.210
+				xmax = 4.240
+				text = "的"
+			intervals [16]:
+				xmin = 4.240
+				xmax = 4.270
+				text = "聲"
+			intervals [17]:
+				xmin = 4.270
+				xmax = 4.300
+				text = "音"
+			intervals [18]:
+				xmin = 4.300
+				xmax = 4.32
+				text = ""

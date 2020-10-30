@@ -1,0 +1,100 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 4.512
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "words"
+		xmin = 0.0
+		xmax = 4.512
+		intervals: size = 3
+			intervals [1]:
+				xmin = 0.0
+				xmax = 0.660
+				text = ""
+			intervals [2]:
+				xmin = 0.660
+				xmax = 3.870
+				text = "現在不能用阿拉伯數字跟英文字"
+			intervals [3]:
+				xmin = 3.870
+				xmax = 4.512
+				text = ""
+	item [2]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 4.512
+		intervals: size = 17
+			intervals [1]:
+				xmin = 0.000
+				xmax = 0.660
+				text = "sil"
+			intervals [2]:
+				xmin = 0.660
+				xmax = 0.900
+				text = "現"
+			intervals [3]:
+				xmin = 0.900
+				xmax = 1.140
+				text = "在"
+			intervals [4]:
+				xmin = 1.140
+				xmax = 1.360
+				text = "不"
+			intervals [5]:
+				xmin = 1.360
+				xmax = 1.610
+				text = "能"
+			intervals [6]:
+				xmin = 1.610
+				xmax = 1.780
+				text = "用"
+			intervals [7]:
+				xmin = 1.780
+				xmax = 2.080
+				text = "阿"
+			intervals [8]:
+				xmin = 2.080
+				xmax = 2.150
+				text = "拉"
+			intervals [9]:
+				xmin = 2.150
+				xmax = 2.430
+				text = "伯"
+			intervals [10]:
+				xmin = 2.430
+				xmax = 2.710
+				text = "數"
+			intervals [11]:
+				xmin = 2.710
+				xmax = 2.950
+				text = "字"
+			intervals [12]:
+				xmin = 2.950
+				xmax = 3.130
+				text = "跟"
+			intervals [13]:
+				xmin = 3.130
+				xmax = 3.380
+				text = "英"
+			intervals [14]:
+				xmin = 3.380
+				xmax = 3.560
+				text = "文"
+			intervals [15]:
+				xmin = 3.560
+				xmax = 3.870
+				text = "字"
+			intervals [16]:
+				xmin = 3.870
+				xmax = 4.490
+				text = "sp"
+			intervals [17]:
+				xmin = 4.490
+				xmax = 4.512
+				text = ""

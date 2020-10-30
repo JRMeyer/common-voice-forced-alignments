@@ -1,0 +1,88 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 4.2
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "words"
+		xmin = 0.0
+		xmax = 4.2
+		intervals: size = 3
+			intervals [1]:
+				xmin = 0.0
+				xmax = 0.370
+				text = ""
+			intervals [2]:
+				xmin = 0.370
+				xmax = 3.140
+				text = "釋出多達九百一十個職缺"
+			intervals [3]:
+				xmin = 3.140
+				xmax = 4.2
+				text = ""
+	item [2]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 4.2
+		intervals: size = 14
+			intervals [1]:
+				xmin = 0.000
+				xmax = 0.370
+				text = "sil"
+			intervals [2]:
+				xmin = 0.370
+				xmax = 0.610
+				text = "釋"
+			intervals [3]:
+				xmin = 0.610
+				xmax = 0.830
+				text = "出"
+			intervals [4]:
+				xmin = 0.830
+				xmax = 1.140
+				text = "多"
+			intervals [5]:
+				xmin = 1.140
+				xmax = 1.430
+				text = "達"
+			intervals [6]:
+				xmin = 1.430
+				xmax = 1.650
+				text = "九"
+			intervals [7]:
+				xmin = 1.650
+				xmax = 1.910
+				text = "百"
+			intervals [8]:
+				xmin = 1.910
+				xmax = 2.130
+				text = "一"
+			intervals [9]:
+				xmin = 2.130
+				xmax = 2.350
+				text = "十"
+			intervals [10]:
+				xmin = 2.350
+				xmax = 2.480
+				text = "個"
+			intervals [11]:
+				xmin = 2.480
+				xmax = 2.790
+				text = "職"
+			intervals [12]:
+				xmin = 2.790
+				xmax = 3.140
+				text = "缺"
+			intervals [13]:
+				xmin = 3.140
+				xmax = 4.180
+				text = "sp"
+			intervals [14]:
+				xmin = 4.180
+				xmax = 4.2
+				text = ""

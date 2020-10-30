@@ -1,0 +1,88 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 3.0
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "words"
+		xmin = 0.0
+		xmax = 3.0
+		intervals: size = 3
+			intervals [1]:
+				xmin = 0.0
+				xmax = 0.570
+				text = ""
+			intervals [2]:
+				xmin = 0.570
+				xmax = 2.560
+				text = "勞工與企業雙贏的天龍國"
+			intervals [3]:
+				xmin = 2.560
+				xmax = 3.0
+				text = ""
+	item [2]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 3.0
+		intervals: size = 14
+			intervals [1]:
+				xmin = 0.000
+				xmax = 0.570
+				text = "sil"
+			intervals [2]:
+				xmin = 0.570
+				xmax = 0.800
+				text = "勞"
+			intervals [3]:
+				xmin = 0.800
+				xmax = 0.830
+				text = "工"
+			intervals [4]:
+				xmin = 0.830
+				xmax = 0.960
+				text = "與"
+			intervals [5]:
+				xmin = 0.960
+				xmax = 1.110
+				text = "企"
+			intervals [6]:
+				xmin = 1.110
+				xmax = 1.300
+				text = "業"
+			intervals [7]:
+				xmin = 1.300
+				xmax = 1.560
+				text = "雙"
+			intervals [8]:
+				xmin = 1.560
+				xmax = 1.670
+				text = "贏"
+			intervals [9]:
+				xmin = 1.670
+				xmax = 1.850
+				text = "的"
+			intervals [10]:
+				xmin = 1.850
+				xmax = 1.990
+				text = "天"
+			intervals [11]:
+				xmin = 1.990
+				xmax = 2.250
+				text = "龍"
+			intervals [12]:
+				xmin = 2.250
+				xmax = 2.560
+				text = "國"
+			intervals [13]:
+				xmin = 2.560
+				xmax = 2.980
+				text = "sp"
+			intervals [14]:
+				xmin = 2.980
+				xmax = 3.0
+				text = ""

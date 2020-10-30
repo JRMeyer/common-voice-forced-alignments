@@ -1,0 +1,88 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 3.072
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "words"
+		xmin = 0.0
+		xmax = 3.072
+		intervals: size = 3
+			intervals [1]:
+				xmin = 0.0
+				xmax = 0.730
+				text = ""
+			intervals [2]:
+				xmin = 0.730
+				xmax = 2.770
+				text = "台北市具有高度人文氣息"
+			intervals [3]:
+				xmin = 2.770
+				xmax = 3.072
+				text = ""
+	item [2]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 3.072
+		intervals: size = 14
+			intervals [1]:
+				xmin = 0.000
+				xmax = 0.730
+				text = "sil"
+			intervals [2]:
+				xmin = 0.730
+				xmax = 0.830
+				text = "台"
+			intervals [3]:
+				xmin = 0.830
+				xmax = 0.980
+				text = "北"
+			intervals [4]:
+				xmin = 0.980
+				xmax = 1.340
+				text = "市"
+			intervals [5]:
+				xmin = 1.340
+				xmax = 1.440
+				text = "具"
+			intervals [6]:
+				xmin = 1.440
+				xmax = 1.660
+				text = "有"
+			intervals [7]:
+				xmin = 1.660
+				xmax = 1.840
+				text = "高"
+			intervals [8]:
+				xmin = 1.840
+				xmax = 1.920
+				text = "度"
+			intervals [9]:
+				xmin = 1.920
+				xmax = 2.070
+				text = "人"
+			intervals [10]:
+				xmin = 2.070
+				xmax = 2.320
+				text = "文"
+			intervals [11]:
+				xmin = 2.320
+				xmax = 2.450
+				text = "氣"
+			intervals [12]:
+				xmin = 2.450
+				xmax = 2.770
+				text = "息"
+			intervals [13]:
+				xmin = 2.770
+				xmax = 3.050
+				text = "sp"
+			intervals [14]:
+				xmin = 3.050
+				xmax = 3.072
+				text = ""

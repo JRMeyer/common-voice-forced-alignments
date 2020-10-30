@@ -1,0 +1,88 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 5.4
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "words"
+		xmin = 0.0
+		xmax = 5.4
+		intervals: size = 3
+			intervals [1]:
+				xmin = 0.0
+				xmax = 1.010
+				text = ""
+			intervals [2]:
+				xmin = 1.010
+				xmax = 4.280
+				text = "市場上現在通常稱之拿鐵"
+			intervals [3]:
+				xmin = 4.280
+				xmax = 5.4
+				text = ""
+	item [2]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 5.4
+		intervals: size = 14
+			intervals [1]:
+				xmin = 0.000
+				xmax = 1.010
+				text = "sil"
+			intervals [2]:
+				xmin = 1.010
+				xmax = 1.190
+				text = "市"
+			intervals [3]:
+				xmin = 1.190
+				xmax = 1.250
+				text = "場"
+			intervals [4]:
+				xmin = 1.250
+				xmax = 1.660
+				text = "上"
+			intervals [5]:
+				xmin = 1.660
+				xmax = 1.900
+				text = "現"
+			intervals [6]:
+				xmin = 1.900
+				xmax = 2.160
+				text = "在"
+			intervals [7]:
+				xmin = 2.160
+				xmax = 2.390
+				text = "通"
+			intervals [8]:
+				xmin = 2.390
+				xmax = 2.700
+				text = "常"
+			intervals [9]:
+				xmin = 2.700
+				xmax = 3.280
+				text = "稱"
+			intervals [10]:
+				xmin = 3.280
+				xmax = 3.560
+				text = "之"
+			intervals [11]:
+				xmin = 3.560
+				xmax = 3.940
+				text = "拿"
+			intervals [12]:
+				xmin = 3.940
+				xmax = 4.280
+				text = "鐵"
+			intervals [13]:
+				xmin = 4.280
+				xmax = 5.380
+				text = "sp"
+			intervals [14]:
+				xmin = 5.380
+				xmax = 5.4
+				text = ""

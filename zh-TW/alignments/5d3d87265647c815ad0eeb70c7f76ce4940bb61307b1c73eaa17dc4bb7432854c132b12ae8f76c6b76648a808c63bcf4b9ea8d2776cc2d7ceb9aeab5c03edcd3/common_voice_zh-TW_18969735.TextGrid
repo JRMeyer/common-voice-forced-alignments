@@ -1,0 +1,88 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 4.2
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "words"
+		xmin = 0.0
+		xmax = 4.2
+		intervals: size = 3
+			intervals [1]:
+				xmin = 0.0
+				xmax = 0.560
+				text = ""
+			intervals [2]:
+				xmin = 0.560
+				xmax = 3.050
+				text = "於一九零二年出生於三峽"
+			intervals [3]:
+				xmin = 3.050
+				xmax = 4.2
+				text = ""
+	item [2]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 4.2
+		intervals: size = 14
+			intervals [1]:
+				xmin = 0.000
+				xmax = 0.560
+				text = "sil"
+			intervals [2]:
+				xmin = 0.560
+				xmax = 0.590
+				text = "於"
+			intervals [3]:
+				xmin = 0.590
+				xmax = 1.050
+				text = "一"
+			intervals [4]:
+				xmin = 1.050
+				xmax = 1.250
+				text = "九"
+			intervals [5]:
+				xmin = 1.250
+				xmax = 1.440
+				text = "零"
+			intervals [6]:
+				xmin = 1.440
+				xmax = 1.640
+				text = "二"
+			intervals [7]:
+				xmin = 1.640
+				xmax = 1.970
+				text = "年"
+			intervals [8]:
+				xmin = 1.970
+				xmax = 2.160
+				text = "出"
+			intervals [9]:
+				xmin = 2.160
+				xmax = 2.290
+				text = "生"
+			intervals [10]:
+				xmin = 2.290
+				xmax = 2.460
+				text = "於"
+			intervals [11]:
+				xmin = 2.460
+				xmax = 2.800
+				text = "三"
+			intervals [12]:
+				xmin = 2.800
+				xmax = 3.050
+				text = "峽"
+			intervals [13]:
+				xmin = 3.050
+				xmax = 4.180
+				text = "sp"
+			intervals [14]:
+				xmin = 4.180
+				xmax = 4.2
+				text = ""

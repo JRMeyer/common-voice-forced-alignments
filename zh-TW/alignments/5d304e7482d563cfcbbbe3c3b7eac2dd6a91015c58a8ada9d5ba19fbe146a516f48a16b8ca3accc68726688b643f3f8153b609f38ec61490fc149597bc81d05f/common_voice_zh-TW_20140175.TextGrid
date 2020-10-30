@@ -1,0 +1,92 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 3.84
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "words"
+		xmin = 0.0
+		xmax = 3.84
+		intervals: size = 3
+			intervals [1]:
+				xmin = 0.0
+				xmax = 0.430
+				text = ""
+			intervals [2]:
+				xmin = 0.430
+				xmax = 3.230
+				text = "似乎也是值得留下來的資訊"
+			intervals [3]:
+				xmin = 3.230
+				xmax = 3.84
+				text = ""
+	item [2]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 3.84
+		intervals: size = 15
+			intervals [1]:
+				xmin = 0.000
+				xmax = 0.430
+				text = "sil"
+			intervals [2]:
+				xmin = 0.430
+				xmax = 0.800
+				text = "似"
+			intervals [3]:
+				xmin = 0.800
+				xmax = 0.930
+				text = "乎"
+			intervals [4]:
+				xmin = 0.930
+				xmax = 1.080
+				text = "也"
+			intervals [5]:
+				xmin = 1.080
+				xmax = 1.220
+				text = "是"
+			intervals [6]:
+				xmin = 1.220
+				xmax = 1.650
+				text = "值"
+			intervals [7]:
+				xmin = 1.650
+				xmax = 1.710
+				text = "得"
+			intervals [8]:
+				xmin = 1.710
+				xmax = 2.050
+				text = "留"
+			intervals [9]:
+				xmin = 2.050
+				xmax = 2.190
+				text = "下"
+			intervals [10]:
+				xmin = 2.190
+				xmax = 2.520
+				text = "來"
+			intervals [11]:
+				xmin = 2.520
+				xmax = 2.550
+				text = "的"
+			intervals [12]:
+				xmin = 2.550
+				xmax = 2.980
+				text = "資"
+			intervals [13]:
+				xmin = 2.980
+				xmax = 3.230
+				text = "訊"
+			intervals [14]:
+				xmin = 3.230
+				xmax = 3.820
+				text = "sp"
+			intervals [15]:
+				xmin = 3.820
+				xmax = 3.84
+				text = ""

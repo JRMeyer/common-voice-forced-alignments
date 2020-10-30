@@ -1,0 +1,80 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 3.48
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "words"
+		xmin = 0.0
+		xmax = 3.48
+		intervals: size = 3
+			intervals [1]:
+				xmin = 0.0
+				xmax = 0.900
+				text = ""
+			intervals [2]:
+				xmin = 0.900
+				xmax = 3.210
+				text = "無法聯繫或拒絕電訪"
+			intervals [3]:
+				xmin = 3.210
+				xmax = 3.48
+				text = ""
+	item [2]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 3.48
+		intervals: size = 12
+			intervals [1]:
+				xmin = 0.000
+				xmax = 0.900
+				text = "sil"
+			intervals [2]:
+				xmin = 0.900
+				xmax = 1.090
+				text = "無"
+			intervals [3]:
+				xmin = 1.090
+				xmax = 1.280
+				text = "法"
+			intervals [4]:
+				xmin = 1.280
+				xmax = 1.460
+				text = "聯"
+			intervals [5]:
+				xmin = 1.460
+				xmax = 1.870
+				text = "繫"
+			intervals [6]:
+				xmin = 1.870
+				xmax = 2.220
+				text = "或"
+			intervals [7]:
+				xmin = 2.220
+				xmax = 2.570
+				text = "拒"
+			intervals [8]:
+				xmin = 2.570
+				xmax = 2.690
+				text = "絕"
+			intervals [9]:
+				xmin = 2.690
+				xmax = 2.900
+				text = "電"
+			intervals [10]:
+				xmin = 2.900
+				xmax = 3.210
+				text = "訪"
+			intervals [11]:
+				xmin = 3.210
+				xmax = 3.460
+				text = "sp"
+			intervals [12]:
+				xmin = 3.460
+				xmax = 3.48
+				text = ""

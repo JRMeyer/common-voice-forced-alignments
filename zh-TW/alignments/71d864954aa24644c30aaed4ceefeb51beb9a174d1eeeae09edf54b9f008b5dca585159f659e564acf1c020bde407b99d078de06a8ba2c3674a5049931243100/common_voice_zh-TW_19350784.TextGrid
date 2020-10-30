@@ -1,0 +1,80 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 3.48
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "words"
+		xmin = 0.0
+		xmax = 3.48
+		intervals: size = 3
+			intervals [1]:
+				xmin = 0.0
+				xmax = 0.880
+				text = ""
+			intervals [2]:
+				xmin = 0.880
+				xmax = 2.960
+				text = "字串寫成數字減法嗎"
+			intervals [3]:
+				xmin = 2.960
+				xmax = 3.48
+				text = ""
+	item [2]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 3.48
+		intervals: size = 12
+			intervals [1]:
+				xmin = 0.000
+				xmax = 0.880
+				text = "sil"
+			intervals [2]:
+				xmin = 0.880
+				xmax = 1.060
+				text = "字"
+			intervals [3]:
+				xmin = 1.060
+				xmax = 1.280
+				text = "串"
+			intervals [4]:
+				xmin = 1.280
+				xmax = 1.550
+				text = "寫"
+			intervals [5]:
+				xmin = 1.550
+				xmax = 1.790
+				text = "成"
+			intervals [6]:
+				xmin = 1.790
+				xmax = 2.050
+				text = "數"
+			intervals [7]:
+				xmin = 2.050
+				xmax = 2.300
+				text = "字"
+			intervals [8]:
+				xmin = 2.300
+				xmax = 2.510
+				text = "減"
+			intervals [9]:
+				xmin = 2.510
+				xmax = 2.630
+				text = "法"
+			intervals [10]:
+				xmin = 2.630
+				xmax = 2.960
+				text = "嗎"
+			intervals [11]:
+				xmin = 2.960
+				xmax = 3.460
+				text = "sp"
+			intervals [12]:
+				xmin = 3.460
+				xmax = 3.48
+				text = ""

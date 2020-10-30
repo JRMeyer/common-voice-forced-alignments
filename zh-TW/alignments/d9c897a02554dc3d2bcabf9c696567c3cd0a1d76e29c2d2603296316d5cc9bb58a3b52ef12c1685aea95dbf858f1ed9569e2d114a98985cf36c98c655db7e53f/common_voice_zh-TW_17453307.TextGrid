@@ -1,0 +1,96 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 3.0
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "words"
+		xmin = 0.0
+		xmax = 3.0
+		intervals: size = 3
+			intervals [1]:
+				xmin = 0.0
+				xmax = 0.350
+				text = ""
+			intervals [2]:
+				xmin = 0.350
+				xmax = 2.670
+				text = "不照相、不堵麥、不接受訪問"
+			intervals [3]:
+				xmin = 2.670
+				xmax = 3.0
+				text = ""
+	item [2]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 3.0
+		intervals: size = 16
+			intervals [1]:
+				xmin = 0.000
+				xmax = 0.350
+				text = "sil"
+			intervals [2]:
+				xmin = 0.350
+				xmax = 0.460
+				text = "不"
+			intervals [3]:
+				xmin = 0.460
+				xmax = 0.510
+				text = "照"
+			intervals [4]:
+				xmin = 0.510
+				xmax = 1.100
+				text = "相"
+			intervals [5]:
+				xmin = 1.100
+				xmax = 1.130
+				text = "、"
+			intervals [6]:
+				xmin = 1.130
+				xmax = 1.400
+				text = "不"
+			intervals [7]:
+				xmin = 1.400
+				xmax = 1.430
+				text = "堵"
+			intervals [8]:
+				xmin = 1.430
+				xmax = 1.810
+				text = "麥"
+			intervals [9]:
+				xmin = 1.810
+				xmax = 1.840
+				text = "、"
+			intervals [10]:
+				xmin = 1.840
+				xmax = 1.910
+				text = "不"
+			intervals [11]:
+				xmin = 1.910
+				xmax = 2.070
+				text = "接"
+			intervals [12]:
+				xmin = 2.070
+				xmax = 2.230
+				text = "受"
+			intervals [13]:
+				xmin = 2.230
+				xmax = 2.460
+				text = "訪"
+			intervals [14]:
+				xmin = 2.460
+				xmax = 2.670
+				text = "問"
+			intervals [15]:
+				xmin = 2.670
+				xmax = 2.980
+				text = "sp"
+			intervals [16]:
+				xmin = 2.980
+				xmax = 3.0
+				text = ""

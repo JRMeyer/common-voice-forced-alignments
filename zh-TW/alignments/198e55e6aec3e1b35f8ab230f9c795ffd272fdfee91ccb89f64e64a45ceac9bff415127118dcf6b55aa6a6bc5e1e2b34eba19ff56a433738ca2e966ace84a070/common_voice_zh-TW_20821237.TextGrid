@@ -1,0 +1,88 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 4.2
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "words"
+		xmin = 0.0
+		xmax = 4.2
+		intervals: size = 3
+			intervals [1]:
+				xmin = 0.0
+				xmax = 0.530
+				text = ""
+			intervals [2]:
+				xmin = 0.530
+				xmax = 3.270
+				text = "領完年終隨即打開一零四"
+			intervals [3]:
+				xmin = 3.270
+				xmax = 4.2
+				text = ""
+	item [2]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 4.2
+		intervals: size = 14
+			intervals [1]:
+				xmin = 0.000
+				xmax = 0.530
+				text = "sil"
+			intervals [2]:
+				xmin = 0.530
+				xmax = 0.740
+				text = "領"
+			intervals [3]:
+				xmin = 0.740
+				xmax = 0.940
+				text = "完"
+			intervals [4]:
+				xmin = 0.940
+				xmax = 1.250
+				text = "年"
+			intervals [5]:
+				xmin = 1.250
+				xmax = 1.580
+				text = "終"
+			intervals [6]:
+				xmin = 1.580
+				xmax = 1.860
+				text = "隨"
+			intervals [7]:
+				xmin = 1.860
+				xmax = 2.110
+				text = "即"
+			intervals [8]:
+				xmin = 2.110
+				xmax = 2.320
+				text = "打"
+			intervals [9]:
+				xmin = 2.320
+				xmax = 2.470
+				text = "開"
+			intervals [10]:
+				xmin = 2.470
+				xmax = 2.680
+				text = "一"
+			intervals [11]:
+				xmin = 2.680
+				xmax = 2.860
+				text = "零"
+			intervals [12]:
+				xmin = 2.860
+				xmax = 3.270
+				text = "四"
+			intervals [13]:
+				xmin = 3.270
+				xmax = 4.180
+				text = "sp"
+			intervals [14]:
+				xmin = 4.180
+				xmax = 4.2
+				text = ""

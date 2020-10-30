@@ -1,0 +1,92 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 4.224
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "words"
+		xmin = 0.0
+		xmax = 4.224
+		intervals: size = 3
+			intervals [1]:
+				xmin = 0.0
+				xmax = 0.660
+				text = ""
+			intervals [2]:
+				xmin = 0.660
+				xmax = 2.890
+				text = "我們做了什麼、改變了什麼"
+			intervals [3]:
+				xmin = 2.890
+				xmax = 4.224
+				text = ""
+	item [2]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 4.224
+		intervals: size = 15
+			intervals [1]:
+				xmin = 0.000
+				xmax = 0.660
+				text = "sil"
+			intervals [2]:
+				xmin = 0.660
+				xmax = 0.810
+				text = "我"
+			intervals [3]:
+				xmin = 0.810
+				xmax = 0.970
+				text = "們"
+			intervals [4]:
+				xmin = 0.970
+				xmax = 1.200
+				text = "做"
+			intervals [5]:
+				xmin = 1.200
+				xmax = 1.270
+				text = "了"
+			intervals [6]:
+				xmin = 1.270
+				xmax = 1.470
+				text = "什"
+			intervals [7]:
+				xmin = 1.470
+				xmax = 1.760
+				text = "麼"
+			intervals [8]:
+				xmin = 1.760
+				xmax = 2.050
+				text = "、"
+			intervals [9]:
+				xmin = 2.050
+				xmax = 2.180
+				text = "改"
+			intervals [10]:
+				xmin = 2.180
+				xmax = 2.380
+				text = "變"
+			intervals [11]:
+				xmin = 2.380
+				xmax = 2.450
+				text = "了"
+			intervals [12]:
+				xmin = 2.450
+				xmax = 2.640
+				text = "什"
+			intervals [13]:
+				xmin = 2.640
+				xmax = 2.890
+				text = "麼"
+			intervals [14]:
+				xmin = 2.890
+				xmax = 4.200
+				text = "sp"
+			intervals [15]:
+				xmin = 4.200
+				xmax = 4.224
+				text = ""

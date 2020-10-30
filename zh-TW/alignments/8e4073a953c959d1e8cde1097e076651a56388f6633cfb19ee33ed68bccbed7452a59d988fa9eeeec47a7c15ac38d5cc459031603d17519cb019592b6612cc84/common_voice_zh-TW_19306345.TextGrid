@@ -1,0 +1,88 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 3.6
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "words"
+		xmin = 0.0
+		xmax = 3.6
+		intervals: size = 3
+			intervals [1]:
+				xmin = 0.0
+				xmax = 0.130
+				text = ""
+			intervals [2]:
+				xmin = 0.130
+				xmax = 0.460
+				text = "這世界充滿了正義與邪惡"
+			intervals [3]:
+				xmin = 0.460
+				xmax = 3.6
+				text = ""
+	item [2]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 3.6
+		intervals: size = 14
+			intervals [1]:
+				xmin = 0.000
+				xmax = 0.130
+				text = "sil"
+			intervals [2]:
+				xmin = 0.130
+				xmax = 0.160
+				text = "這"
+			intervals [3]:
+				xmin = 0.160
+				xmax = 0.190
+				text = "世"
+			intervals [4]:
+				xmin = 0.190
+				xmax = 0.220
+				text = "界"
+			intervals [5]:
+				xmin = 0.220
+				xmax = 0.250
+				text = "充"
+			intervals [6]:
+				xmin = 0.250
+				xmax = 0.280
+				text = "滿"
+			intervals [7]:
+				xmin = 0.280
+				xmax = 0.310
+				text = "了"
+			intervals [8]:
+				xmin = 0.310
+				xmax = 0.340
+				text = "正"
+			intervals [9]:
+				xmin = 0.340
+				xmax = 0.370
+				text = "義"
+			intervals [10]:
+				xmin = 0.370
+				xmax = 0.400
+				text = "與"
+			intervals [11]:
+				xmin = 0.400
+				xmax = 0.430
+				text = "邪"
+			intervals [12]:
+				xmin = 0.430
+				xmax = 0.460
+				text = "惡"
+			intervals [13]:
+				xmin = 0.460
+				xmax = 3.580
+				text = "sp"
+			intervals [14]:
+				xmin = 3.580
+				xmax = 3.6
+				text = ""

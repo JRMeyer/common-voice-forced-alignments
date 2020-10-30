@@ -1,0 +1,96 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 3.312
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "words"
+		xmin = 0.0
+		xmax = 3.312
+		intervals: size = 3
+			intervals [1]:
+				xmin = 0.0
+				xmax = 0.310
+				text = ""
+			intervals [2]:
+				xmin = 0.310
+				xmax = 2.610
+				text = "前面那個是在修飾後面的東西"
+			intervals [3]:
+				xmin = 2.610
+				xmax = 3.312
+				text = ""
+	item [2]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 3.312
+		intervals: size = 16
+			intervals [1]:
+				xmin = 0.000
+				xmax = 0.310
+				text = "sil"
+			intervals [2]:
+				xmin = 0.310
+				xmax = 0.560
+				text = "前"
+			intervals [3]:
+				xmin = 0.560
+				xmax = 0.620
+				text = "面"
+			intervals [4]:
+				xmin = 0.620
+				xmax = 0.770
+				text = "那"
+			intervals [5]:
+				xmin = 0.770
+				xmax = 0.880
+				text = "個"
+			intervals [6]:
+				xmin = 0.880
+				xmax = 1.140
+				text = "是"
+			intervals [7]:
+				xmin = 1.140
+				xmax = 1.290
+				text = "在"
+			intervals [8]:
+				xmin = 1.290
+				xmax = 1.540
+				text = "修"
+			intervals [9]:
+				xmin = 1.540
+				xmax = 1.610
+				text = "飾"
+			intervals [10]:
+				xmin = 1.610
+				xmax = 1.860
+				text = "後"
+			intervals [11]:
+				xmin = 1.860
+				xmax = 2.080
+				text = "面"
+			intervals [12]:
+				xmin = 2.080
+				xmax = 2.350
+				text = "的"
+			intervals [13]:
+				xmin = 2.350
+				xmax = 2.380
+				text = "東"
+			intervals [14]:
+				xmin = 2.380
+				xmax = 2.610
+				text = "西"
+			intervals [15]:
+				xmin = 2.610
+				xmax = 3.290
+				text = "sp"
+			intervals [16]:
+				xmin = 3.290
+				xmax = 3.312
+				text = ""

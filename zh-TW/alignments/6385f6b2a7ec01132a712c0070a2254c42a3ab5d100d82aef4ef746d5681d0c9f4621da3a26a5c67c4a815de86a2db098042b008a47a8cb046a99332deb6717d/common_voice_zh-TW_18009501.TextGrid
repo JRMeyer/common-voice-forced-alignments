@@ -1,0 +1,76 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 3.12
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "words"
+		xmin = 0.0
+		xmax = 3.12
+		intervals: size = 3
+			intervals [1]:
+				xmin = 0.0
+				xmax = 0.820
+				text = ""
+			intervals [2]:
+				xmin = 0.820
+				xmax = 2.620
+				text = "怎麼都聽過的感覺"
+			intervals [3]:
+				xmin = 2.620
+				xmax = 3.12
+				text = ""
+	item [2]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 3.12
+		intervals: size = 11
+			intervals [1]:
+				xmin = 0.000
+				xmax = 0.820
+				text = "sil"
+			intervals [2]:
+				xmin = 0.820
+				xmax = 0.890
+				text = "怎"
+			intervals [3]:
+				xmin = 0.890
+				xmax = 1.030
+				text = "麼"
+			intervals [4]:
+				xmin = 1.030
+				xmax = 1.330
+				text = "都"
+			intervals [5]:
+				xmin = 1.330
+				xmax = 1.600
+				text = "聽"
+			intervals [6]:
+				xmin = 1.600
+				xmax = 1.810
+				text = "過"
+			intervals [7]:
+				xmin = 1.810
+				xmax = 1.980
+				text = "的"
+			intervals [8]:
+				xmin = 1.980
+				xmax = 2.210
+				text = "感"
+			intervals [9]:
+				xmin = 2.210
+				xmax = 2.620
+				text = "覺"
+			intervals [10]:
+				xmin = 2.620
+				xmax = 3.100
+				text = "sp"
+			intervals [11]:
+				xmin = 3.100
+				xmax = 3.12
+				text = ""

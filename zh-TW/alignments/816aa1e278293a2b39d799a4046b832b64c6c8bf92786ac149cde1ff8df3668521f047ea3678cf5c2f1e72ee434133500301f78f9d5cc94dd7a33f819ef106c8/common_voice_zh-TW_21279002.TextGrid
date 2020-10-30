@@ -1,0 +1,92 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 4.2
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "words"
+		xmin = 0.0
+		xmax = 4.2
+		intervals: size = 3
+			intervals [1]:
+				xmin = 0.0
+				xmax = 0.640
+				text = ""
+			intervals [2]:
+				xmin = 0.640
+				xmax = 3.740
+				text = "大多將參與者分為正反雙方"
+			intervals [3]:
+				xmin = 3.740
+				xmax = 4.2
+				text = ""
+	item [2]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 4.2
+		intervals: size = 15
+			intervals [1]:
+				xmin = 0.000
+				xmax = 0.640
+				text = "sil"
+			intervals [2]:
+				xmin = 0.640
+				xmax = 0.800
+				text = "大"
+			intervals [3]:
+				xmin = 0.800
+				xmax = 0.950
+				text = "多"
+			intervals [4]:
+				xmin = 0.950
+				xmax = 1.200
+				text = "將"
+			intervals [5]:
+				xmin = 1.200
+				xmax = 1.480
+				text = "參"
+			intervals [6]:
+				xmin = 1.480
+				xmax = 1.680
+				text = "與"
+			intervals [7]:
+				xmin = 1.680
+				xmax = 1.710
+				text = "者"
+			intervals [8]:
+				xmin = 1.710
+				xmax = 2.330
+				text = "分"
+			intervals [9]:
+				xmin = 2.330
+				xmax = 2.580
+				text = "為"
+			intervals [10]:
+				xmin = 2.580
+				xmax = 2.890
+				text = "正"
+			intervals [11]:
+				xmin = 2.890
+				xmax = 3.270
+				text = "反"
+			intervals [12]:
+				xmin = 3.270
+				xmax = 3.370
+				text = "雙"
+			intervals [13]:
+				xmin = 3.370
+				xmax = 3.740
+				text = "方"
+			intervals [14]:
+				xmin = 3.740
+				xmax = 4.180
+				text = "sp"
+			intervals [15]:
+				xmin = 4.180
+				xmax = 4.2
+				text = ""

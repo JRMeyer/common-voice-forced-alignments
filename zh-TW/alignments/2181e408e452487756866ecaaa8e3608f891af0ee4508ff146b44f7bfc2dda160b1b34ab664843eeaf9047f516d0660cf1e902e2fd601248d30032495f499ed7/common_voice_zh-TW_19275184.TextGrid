@@ -1,0 +1,88 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 5.04
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "words"
+		xmin = 0.0
+		xmax = 5.04
+		intervals: size = 3
+			intervals [1]:
+				xmin = 0.0
+				xmax = 1.150
+				text = ""
+			intervals [2]:
+				xmin = 1.150
+				xmax = 4.530
+				text = "核彈發射密碼的繁複程序"
+			intervals [3]:
+				xmin = 4.530
+				xmax = 5.04
+				text = ""
+	item [2]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 5.04
+		intervals: size = 14
+			intervals [1]:
+				xmin = 0.000
+				xmax = 1.150
+				text = "sil"
+			intervals [2]:
+				xmin = 1.150
+				xmax = 1.440
+				text = "核"
+			intervals [3]:
+				xmin = 1.440
+				xmax = 1.740
+				text = "彈"
+			intervals [4]:
+				xmin = 1.740
+				xmax = 2.000
+				text = "發"
+			intervals [5]:
+				xmin = 2.000
+				xmax = 2.380
+				text = "射"
+			intervals [6]:
+				xmin = 2.380
+				xmax = 2.650
+				text = "密"
+			intervals [7]:
+				xmin = 2.650
+				xmax = 2.850
+				text = "碼"
+			intervals [8]:
+				xmin = 2.850
+				xmax = 3.140
+				text = "的"
+			intervals [9]:
+				xmin = 3.140
+				xmax = 3.430
+				text = "繁"
+			intervals [10]:
+				xmin = 3.430
+				xmax = 3.740
+				text = "複"
+			intervals [11]:
+				xmin = 3.740
+				xmax = 4.070
+				text = "程"
+			intervals [12]:
+				xmin = 4.070
+				xmax = 4.530
+				text = "序"
+			intervals [13]:
+				xmin = 4.530
+				xmax = 5.020
+				text = "sp"
+			intervals [14]:
+				xmin = 5.020
+				xmax = 5.04
+				text = ""

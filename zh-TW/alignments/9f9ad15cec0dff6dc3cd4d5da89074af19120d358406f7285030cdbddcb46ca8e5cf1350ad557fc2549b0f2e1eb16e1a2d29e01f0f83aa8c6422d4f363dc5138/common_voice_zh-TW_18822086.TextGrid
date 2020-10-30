@@ -1,0 +1,100 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 6.36
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "words"
+		xmin = 0.0
+		xmax = 6.36
+		intervals: size = 3
+			intervals [1]:
+				xmin = 0.0
+				xmax = 0.980
+				text = ""
+			intervals [2]:
+				xmin = 0.980
+				xmax = 4.770
+				text = "一二三地號範圍內的四五六地號"
+			intervals [3]:
+				xmin = 4.770
+				xmax = 6.36
+				text = ""
+	item [2]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 6.36
+		intervals: size = 17
+			intervals [1]:
+				xmin = 0.000
+				xmax = 0.980
+				text = "sil"
+			intervals [2]:
+				xmin = 0.980
+				xmax = 1.190
+				text = "一"
+			intervals [3]:
+				xmin = 1.190
+				xmax = 1.400
+				text = "二"
+			intervals [4]:
+				xmin = 1.400
+				xmax = 1.790
+				text = "三"
+			intervals [5]:
+				xmin = 1.790
+				xmax = 2.030
+				text = "地"
+			intervals [6]:
+				xmin = 2.030
+				xmax = 2.320
+				text = "號"
+			intervals [7]:
+				xmin = 2.320
+				xmax = 2.600
+				text = "範"
+			intervals [8]:
+				xmin = 2.600
+				xmax = 2.840
+				text = "圍"
+			intervals [9]:
+				xmin = 2.840
+				xmax = 3.130
+				text = "內"
+			intervals [10]:
+				xmin = 3.130
+				xmax = 3.380
+				text = "的"
+			intervals [11]:
+				xmin = 3.380
+				xmax = 3.680
+				text = "四"
+			intervals [12]:
+				xmin = 3.680
+				xmax = 4.030
+				text = "五"
+			intervals [13]:
+				xmin = 4.030
+				xmax = 4.170
+				text = "六"
+			intervals [14]:
+				xmin = 4.170
+				xmax = 4.440
+				text = "地"
+			intervals [15]:
+				xmin = 4.440
+				xmax = 4.770
+				text = "號"
+			intervals [16]:
+				xmin = 4.770
+				xmax = 6.340
+				text = "sp"
+			intervals [17]:
+				xmin = 6.340
+				xmax = 6.36
+				text = ""

@@ -1,0 +1,72 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 3.408
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "words"
+		xmin = 0.0
+		xmax = 3.408
+		intervals: size = 3
+			intervals [1]:
+				xmin = 0.0
+				xmax = 0.970
+				text = ""
+			intervals [2]:
+				xmin = 0.970
+				xmax = 2.810
+				text = "台北市也會停電"
+			intervals [3]:
+				xmin = 2.810
+				xmax = 3.408
+				text = ""
+	item [2]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 3.408
+		intervals: size = 10
+			intervals [1]:
+				xmin = 0.000
+				xmax = 0.970
+				text = "sil"
+			intervals [2]:
+				xmin = 0.970
+				xmax = 1.110
+				text = "台"
+			intervals [3]:
+				xmin = 1.110
+				xmax = 1.350
+				text = "北"
+			intervals [4]:
+				xmin = 1.350
+				xmax = 1.690
+				text = "市"
+			intervals [5]:
+				xmin = 1.690
+				xmax = 1.900
+				text = "也"
+			intervals [6]:
+				xmin = 1.900
+				xmax = 2.150
+				text = "會"
+			intervals [7]:
+				xmin = 2.150
+				xmax = 2.470
+				text = "停"
+			intervals [8]:
+				xmin = 2.470
+				xmax = 2.810
+				text = "電"
+			intervals [9]:
+				xmin = 2.810
+				xmax = 3.390
+				text = "sp"
+			intervals [10]:
+				xmin = 3.390
+				xmax = 3.408
+				text = ""

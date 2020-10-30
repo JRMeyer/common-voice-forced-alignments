@@ -1,0 +1,92 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 4.44
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "words"
+		xmin = 0.0
+		xmax = 4.44
+		intervals: size = 3
+			intervals [1]:
+				xmin = 0.0
+				xmax = 0.740
+				text = ""
+			intervals [2]:
+				xmin = 0.740
+				xmax = 3.440
+				text = "因為最重要還是有關的部分"
+			intervals [3]:
+				xmin = 3.440
+				xmax = 4.44
+				text = ""
+	item [2]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 4.44
+		intervals: size = 15
+			intervals [1]:
+				xmin = 0.000
+				xmax = 0.740
+				text = "sil"
+			intervals [2]:
+				xmin = 0.740
+				xmax = 0.990
+				text = "因"
+			intervals [3]:
+				xmin = 0.990
+				xmax = 1.160
+				text = "為"
+			intervals [4]:
+				xmin = 1.160
+				xmax = 1.440
+				text = "最"
+			intervals [5]:
+				xmin = 1.440
+				xmax = 1.650
+				text = "重"
+			intervals [6]:
+				xmin = 1.650
+				xmax = 1.930
+				text = "要"
+			intervals [7]:
+				xmin = 1.930
+				xmax = 2.180
+				text = "還"
+			intervals [8]:
+				xmin = 2.180
+				xmax = 2.370
+				text = "是"
+			intervals [9]:
+				xmin = 2.370
+				xmax = 2.710
+				text = "有"
+			intervals [10]:
+				xmin = 2.710
+				xmax = 2.920
+				text = "關"
+			intervals [11]:
+				xmin = 2.920
+				xmax = 3.060
+				text = "的"
+			intervals [12]:
+				xmin = 3.060
+				xmax = 3.220
+				text = "部"
+			intervals [13]:
+				xmin = 3.220
+				xmax = 3.440
+				text = "分"
+			intervals [14]:
+				xmin = 3.440
+				xmax = 4.420
+				text = "sp"
+			intervals [15]:
+				xmin = 4.420
+				xmax = 4.44
+				text = ""

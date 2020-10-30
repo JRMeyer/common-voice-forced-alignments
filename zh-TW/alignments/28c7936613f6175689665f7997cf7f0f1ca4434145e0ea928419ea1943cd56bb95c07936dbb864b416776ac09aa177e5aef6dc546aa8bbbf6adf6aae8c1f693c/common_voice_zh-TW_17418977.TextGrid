@@ -1,0 +1,92 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 4.2
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "words"
+		xmin = 0.0
+		xmax = 4.2
+		intervals: size = 3
+			intervals [1]:
+				xmin = 0.0
+				xmax = 0.850
+				text = ""
+			intervals [2]:
+				xmin = 0.850
+				xmax = 3.840
+				text = "有很多傳統習俗和過年活動"
+			intervals [3]:
+				xmin = 3.840
+				xmax = 4.2
+				text = ""
+	item [2]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 4.2
+		intervals: size = 15
+			intervals [1]:
+				xmin = 0.000
+				xmax = 0.850
+				text = "sil"
+			intervals [2]:
+				xmin = 0.850
+				xmax = 1.030
+				text = "有"
+			intervals [3]:
+				xmin = 1.030
+				xmax = 1.290
+				text = "很"
+			intervals [4]:
+				xmin = 1.290
+				xmax = 1.480
+				text = "多"
+			intervals [5]:
+				xmin = 1.480
+				xmax = 1.780
+				text = "傳"
+			intervals [6]:
+				xmin = 1.780
+				xmax = 1.960
+				text = "統"
+			intervals [7]:
+				xmin = 1.960
+				xmax = 2.370
+				text = "習"
+			intervals [8]:
+				xmin = 2.370
+				xmax = 2.490
+				text = "俗"
+			intervals [9]:
+				xmin = 2.490
+				xmax = 2.750
+				text = "和"
+			intervals [10]:
+				xmin = 2.750
+				xmax = 2.960
+				text = "過"
+			intervals [11]:
+				xmin = 2.960
+				xmax = 3.160
+				text = "年"
+			intervals [12]:
+				xmin = 3.160
+				xmax = 3.540
+				text = "活"
+			intervals [13]:
+				xmin = 3.540
+				xmax = 3.840
+				text = "動"
+			intervals [14]:
+				xmin = 3.840
+				xmax = 4.180
+				text = "sp"
+			intervals [15]:
+				xmin = 4.180
+				xmax = 4.2
+				text = ""

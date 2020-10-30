@@ -1,0 +1,72 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 3.864
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "words"
+		xmin = 0.0
+		xmax = 3.864
+		intervals: size = 3
+			intervals [1]:
+				xmin = 0.0
+				xmax = 1.160
+				text = ""
+			intervals [2]:
+				xmin = 1.160
+				xmax = 3.000
+				text = "以視覺化的方式"
+			intervals [3]:
+				xmin = 3.000
+				xmax = 3.864
+				text = ""
+	item [2]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 3.864
+		intervals: size = 10
+			intervals [1]:
+				xmin = 0.000
+				xmax = 1.160
+				text = "sil"
+			intervals [2]:
+				xmin = 1.160
+				xmax = 1.240
+				text = "以"
+			intervals [3]:
+				xmin = 1.240
+				xmax = 1.660
+				text = "視"
+			intervals [4]:
+				xmin = 1.660
+				xmax = 1.830
+				text = "覺"
+			intervals [5]:
+				xmin = 1.830
+				xmax = 2.060
+				text = "化"
+			intervals [6]:
+				xmin = 2.060
+				xmax = 2.300
+				text = "的"
+			intervals [7]:
+				xmin = 2.300
+				xmax = 2.500
+				text = "方"
+			intervals [8]:
+				xmin = 2.500
+				xmax = 3.000
+				text = "式"
+			intervals [9]:
+				xmin = 3.000
+				xmax = 3.840
+				text = "sp"
+			intervals [10]:
+				xmin = 3.840
+				xmax = 3.864
+				text = ""

@@ -1,0 +1,88 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 5.4
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "words"
+		xmin = 0.0
+		xmax = 5.4
+		intervals: size = 3
+			intervals [1]:
+				xmin = 0.0
+				xmax = 1.320
+				text = ""
+			intervals [2]:
+				xmin = 1.320
+				xmax = 4.860
+				text = "例如抓漏的這八十位師傅"
+			intervals [3]:
+				xmin = 4.860
+				xmax = 5.4
+				text = ""
+	item [2]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 5.4
+		intervals: size = 14
+			intervals [1]:
+				xmin = 0.000
+				xmax = 1.320
+				text = "sil"
+			intervals [2]:
+				xmin = 1.320
+				xmax = 1.520
+				text = "例"
+			intervals [3]:
+				xmin = 1.520
+				xmax = 2.110
+				text = "如"
+			intervals [4]:
+				xmin = 2.110
+				xmax = 2.390
+				text = "抓"
+			intervals [5]:
+				xmin = 2.390
+				xmax = 2.750
+				text = "漏"
+			intervals [6]:
+				xmin = 2.750
+				xmax = 3.030
+				text = "的"
+			intervals [7]:
+				xmin = 3.030
+				xmax = 3.310
+				text = "這"
+			intervals [8]:
+				xmin = 3.310
+				xmax = 3.630
+				text = "八"
+			intervals [9]:
+				xmin = 3.630
+				xmax = 3.840
+				text = "十"
+			intervals [10]:
+				xmin = 3.840
+				xmax = 4.080
+				text = "位"
+			intervals [11]:
+				xmin = 4.080
+				xmax = 4.570
+				text = "師"
+			intervals [12]:
+				xmin = 4.570
+				xmax = 4.860
+				text = "傅"
+			intervals [13]:
+				xmin = 4.860
+				xmax = 5.380
+				text = "sp"
+			intervals [14]:
+				xmin = 5.380
+				xmax = 5.4
+				text = ""

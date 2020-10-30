@@ -1,0 +1,92 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 4.56
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "words"
+		xmin = 0.0
+		xmax = 4.56
+		intervals: size = 3
+			intervals [1]:
+				xmin = 0.0
+				xmax = 0.900
+				text = ""
+			intervals [2]:
+				xmin = 0.900
+				xmax = 3.980
+				text = "或固有族群語言的各個腔調"
+			intervals [3]:
+				xmin = 3.980
+				xmax = 4.56
+				text = ""
+	item [2]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 4.56
+		intervals: size = 15
+			intervals [1]:
+				xmin = 0.000
+				xmax = 0.900
+				text = "sil"
+			intervals [2]:
+				xmin = 0.900
+				xmax = 1.380
+				text = "或"
+			intervals [3]:
+				xmin = 1.380
+				xmax = 1.410
+				text = "固"
+			intervals [4]:
+				xmin = 1.410
+				xmax = 1.710
+				text = "有"
+			intervals [5]:
+				xmin = 1.710
+				xmax = 1.960
+				text = "族"
+			intervals [6]:
+				xmin = 1.960
+				xmax = 2.150
+				text = "群"
+			intervals [7]:
+				xmin = 2.150
+				xmax = 2.490
+				text = "語"
+			intervals [8]:
+				xmin = 2.490
+				xmax = 2.660
+				text = "言"
+			intervals [9]:
+				xmin = 2.660
+				xmax = 2.970
+				text = "的"
+			intervals [10]:
+				xmin = 2.970
+				xmax = 3.160
+				text = "各"
+			intervals [11]:
+				xmin = 3.160
+				xmax = 3.350
+				text = "個"
+			intervals [12]:
+				xmin = 3.350
+				xmax = 3.500
+				text = "腔"
+			intervals [13]:
+				xmin = 3.500
+				xmax = 3.980
+				text = "調"
+			intervals [14]:
+				xmin = 3.980
+				xmax = 4.540
+				text = "sp"
+			intervals [15]:
+				xmin = 4.540
+				xmax = 4.56
+				text = ""

@@ -1,0 +1,88 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 4.2
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "words"
+		xmin = 0.0
+		xmax = 4.2
+		intervals: size = 3
+			intervals [1]:
+				xmin = 0.0
+				xmax = 1.150
+				text = ""
+			intervals [2]:
+				xmin = 1.150
+				xmax = 3.950
+				text = "新北市淡水區中正路一段"
+			intervals [3]:
+				xmin = 3.950
+				xmax = 4.2
+				text = ""
+	item [2]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 4.2
+		intervals: size = 14
+			intervals [1]:
+				xmin = 0.000
+				xmax = 1.150
+				text = "sil"
+			intervals [2]:
+				xmin = 1.150
+				xmax = 1.390
+				text = "新"
+			intervals [3]:
+				xmin = 1.390
+				xmax = 1.560
+				text = "北"
+			intervals [4]:
+				xmin = 1.560
+				xmax = 2.010
+				text = "市"
+			intervals [5]:
+				xmin = 2.010
+				xmax = 2.150
+				text = "淡"
+			intervals [6]:
+				xmin = 2.150
+				xmax = 2.400
+				text = "水"
+			intervals [7]:
+				xmin = 2.400
+				xmax = 2.880
+				text = "區"
+			intervals [8]:
+				xmin = 2.880
+				xmax = 3.210
+				text = "中"
+			intervals [9]:
+				xmin = 3.210
+				xmax = 3.370
+				text = "正"
+			intervals [10]:
+				xmin = 3.370
+				xmax = 3.610
+				text = "路"
+			intervals [11]:
+				xmin = 3.610
+				xmax = 3.740
+				text = "一"
+			intervals [12]:
+				xmin = 3.740
+				xmax = 3.950
+				text = "段"
+			intervals [13]:
+				xmin = 3.950
+				xmax = 4.180
+				text = "sp"
+			intervals [14]:
+				xmin = 4.180
+				xmax = 4.2
+				text = ""

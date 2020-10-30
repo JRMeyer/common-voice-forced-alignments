@@ -1,0 +1,80 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 2.64
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "words"
+		xmin = 0.0
+		xmax = 2.64
+		intervals: size = 3
+			intervals [1]:
+				xmin = 0.0
+				xmax = 0.700
+				text = ""
+			intervals [2]:
+				xmin = 0.700
+				xmax = 2.410
+				text = "遭受地震無情的打擊"
+			intervals [3]:
+				xmin = 2.410
+				xmax = 2.64
+				text = ""
+	item [2]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 2.64
+		intervals: size = 12
+			intervals [1]:
+				xmin = 0.000
+				xmax = 0.700
+				text = "sil"
+			intervals [2]:
+				xmin = 0.700
+				xmax = 0.960
+				text = "遭"
+			intervals [3]:
+				xmin = 0.960
+				xmax = 1.230
+				text = "受"
+			intervals [4]:
+				xmin = 1.230
+				xmax = 1.440
+				text = "地"
+			intervals [5]:
+				xmin = 1.440
+				xmax = 1.560
+				text = "震"
+			intervals [6]:
+				xmin = 1.560
+				xmax = 1.780
+				text = "無"
+			intervals [7]:
+				xmin = 1.780
+				xmax = 1.960
+				text = "情"
+			intervals [8]:
+				xmin = 1.960
+				xmax = 2.190
+				text = "的"
+			intervals [9]:
+				xmin = 2.190
+				xmax = 2.350
+				text = "打"
+			intervals [10]:
+				xmin = 2.350
+				xmax = 2.410
+				text = "擊"
+			intervals [11]:
+				xmin = 2.410
+				xmax = 2.620
+				text = "sp"
+			intervals [12]:
+				xmin = 2.620
+				xmax = 2.64
+				text = ""

@@ -1,0 +1,92 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 3.6
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "words"
+		xmin = 0.0
+		xmax = 3.6
+		intervals: size = 3
+			intervals [1]:
+				xmin = 0.0
+				xmax = 0.690
+				text = ""
+			intervals [2]:
+				xmin = 0.690
+				xmax = 3.190
+				text = "在特定時間內不受法規拘束"
+			intervals [3]:
+				xmin = 3.190
+				xmax = 3.6
+				text = ""
+	item [2]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 3.6
+		intervals: size = 15
+			intervals [1]:
+				xmin = 0.000
+				xmax = 0.690
+				text = "sil"
+			intervals [2]:
+				xmin = 0.690
+				xmax = 1.000
+				text = "在"
+			intervals [3]:
+				xmin = 1.000
+				xmax = 1.120
+				text = "特"
+			intervals [4]:
+				xmin = 1.120
+				xmax = 1.280
+				text = "定"
+			intervals [5]:
+				xmin = 1.280
+				xmax = 1.480
+				text = "時"
+			intervals [6]:
+				xmin = 1.480
+				xmax = 1.730
+				text = "間"
+			intervals [7]:
+				xmin = 1.730
+				xmax = 1.880
+				text = "內"
+			intervals [8]:
+				xmin = 1.880
+				xmax = 2.030
+				text = "不"
+			intervals [9]:
+				xmin = 2.030
+				xmax = 2.240
+				text = "受"
+			intervals [10]:
+				xmin = 2.240
+				xmax = 2.470
+				text = "法"
+			intervals [11]:
+				xmin = 2.470
+				xmax = 2.580
+				text = "規"
+			intervals [12]:
+				xmin = 2.580
+				xmax = 2.850
+				text = "拘"
+			intervals [13]:
+				xmin = 2.850
+				xmax = 3.190
+				text = "束"
+			intervals [14]:
+				xmin = 3.190
+				xmax = 3.580
+				text = "sp"
+			intervals [15]:
+				xmin = 3.580
+				xmax = 3.6
+				text = ""

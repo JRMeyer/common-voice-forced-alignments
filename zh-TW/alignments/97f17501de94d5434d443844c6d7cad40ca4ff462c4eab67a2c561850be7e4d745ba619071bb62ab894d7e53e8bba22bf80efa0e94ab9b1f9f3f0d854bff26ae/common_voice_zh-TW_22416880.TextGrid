@@ -1,0 +1,84 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 3.96
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "words"
+		xmin = 0.0
+		xmax = 3.96
+		intervals: size = 3
+			intervals [1]:
+				xmin = 0.0
+				xmax = 1.070
+				text = ""
+			intervals [2]:
+				xmin = 1.070
+				xmax = 3.420
+				text = "第十四任總統與副總統"
+			intervals [3]:
+				xmin = 3.420
+				xmax = 3.96
+				text = ""
+	item [2]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 3.96
+		intervals: size = 13
+			intervals [1]:
+				xmin = 0.000
+				xmax = 1.070
+				text = "sil"
+			intervals [2]:
+				xmin = 1.070
+				xmax = 1.270
+				text = "第"
+			intervals [3]:
+				xmin = 1.270
+				xmax = 1.630
+				text = "十"
+			intervals [4]:
+				xmin = 1.630
+				xmax = 1.700
+				text = "四"
+			intervals [5]:
+				xmin = 1.700
+				xmax = 2.090
+				text = "任"
+			intervals [6]:
+				xmin = 2.090
+				xmax = 2.300
+				text = "總"
+			intervals [7]:
+				xmin = 2.300
+				xmax = 2.580
+				text = "統"
+			intervals [8]:
+				xmin = 2.580
+				xmax = 2.770
+				text = "與"
+			intervals [9]:
+				xmin = 2.770
+				xmax = 2.940
+				text = "副"
+			intervals [10]:
+				xmin = 2.940
+				xmax = 3.060
+				text = "總"
+			intervals [11]:
+				xmin = 3.060
+				xmax = 3.420
+				text = "統"
+			intervals [12]:
+				xmin = 3.420
+				xmax = 3.940
+				text = "sp"
+			intervals [13]:
+				xmin = 3.940
+				xmax = 3.96
+				text = ""

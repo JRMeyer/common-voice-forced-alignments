@@ -1,0 +1,92 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 3.6
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "words"
+		xmin = 0.0
+		xmax = 3.6
+		intervals: size = 3
+			intervals [1]:
+				xmin = 0.0
+				xmax = 0.660
+				text = ""
+			intervals [2]:
+				xmin = 0.660
+				xmax = 2.730
+				text = "胃食道逆流會影響睡眠品質"
+			intervals [3]:
+				xmin = 2.730
+				xmax = 3.6
+				text = ""
+	item [2]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 3.6
+		intervals: size = 15
+			intervals [1]:
+				xmin = 0.000
+				xmax = 0.660
+				text = "sil"
+			intervals [2]:
+				xmin = 0.660
+				xmax = 0.710
+				text = "胃"
+			intervals [3]:
+				xmin = 0.710
+				xmax = 0.890
+				text = "食"
+			intervals [4]:
+				xmin = 0.890
+				xmax = 1.050
+				text = "道"
+			intervals [5]:
+				xmin = 1.050
+				xmax = 1.230
+				text = "逆"
+			intervals [6]:
+				xmin = 1.230
+				xmax = 1.370
+				text = "流"
+			intervals [7]:
+				xmin = 1.370
+				xmax = 1.560
+				text = "會"
+			intervals [8]:
+				xmin = 1.560
+				xmax = 1.620
+				text = "影"
+			intervals [9]:
+				xmin = 1.620
+				xmax = 2.030
+				text = "響"
+			intervals [10]:
+				xmin = 2.030
+				xmax = 2.060
+				text = "睡"
+			intervals [11]:
+				xmin = 2.060
+				xmax = 2.180
+				text = "眠"
+			intervals [12]:
+				xmin = 2.180
+				xmax = 2.300
+				text = "品"
+			intervals [13]:
+				xmin = 2.300
+				xmax = 2.730
+				text = "質"
+			intervals [14]:
+				xmin = 2.730
+				xmax = 3.580
+				text = "sp"
+			intervals [15]:
+				xmin = 3.580
+				xmax = 3.6
+				text = ""

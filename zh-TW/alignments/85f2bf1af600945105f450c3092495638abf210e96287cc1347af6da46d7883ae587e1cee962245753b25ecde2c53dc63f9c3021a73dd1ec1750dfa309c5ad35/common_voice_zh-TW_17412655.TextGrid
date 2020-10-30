@@ -1,0 +1,92 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 3.456
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "words"
+		xmin = 0.0
+		xmax = 3.456
+		intervals: size = 3
+			intervals [1]:
+				xmin = 0.0
+				xmax = 0.800
+				text = ""
+			intervals [2]:
+				xmin = 0.800
+				xmax = 2.830
+				text = "第一天知道這東西叫作漢堡"
+			intervals [3]:
+				xmin = 2.830
+				xmax = 3.456
+				text = ""
+	item [2]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 3.456
+		intervals: size = 15
+			intervals [1]:
+				xmin = 0.000
+				xmax = 0.800
+				text = "sil"
+			intervals [2]:
+				xmin = 0.800
+				xmax = 0.980
+				text = "第"
+			intervals [3]:
+				xmin = 0.980
+				xmax = 1.100
+				text = "一"
+			intervals [4]:
+				xmin = 1.100
+				xmax = 1.280
+				text = "天"
+			intervals [5]:
+				xmin = 1.280
+				xmax = 1.450
+				text = "知"
+			intervals [6]:
+				xmin = 1.450
+				xmax = 1.600
+				text = "道"
+			intervals [7]:
+				xmin = 1.600
+				xmax = 1.810
+				text = "這"
+			intervals [8]:
+				xmin = 1.810
+				xmax = 2.010
+				text = "東"
+			intervals [9]:
+				xmin = 2.010
+				xmax = 2.210
+				text = "西"
+			intervals [10]:
+				xmin = 2.210
+				xmax = 2.390
+				text = "叫"
+			intervals [11]:
+				xmin = 2.390
+				xmax = 2.570
+				text = "作"
+			intervals [12]:
+				xmin = 2.570
+				xmax = 2.630
+				text = "漢"
+			intervals [13]:
+				xmin = 2.630
+				xmax = 2.830
+				text = "堡"
+			intervals [14]:
+				xmin = 2.830
+				xmax = 3.440
+				text = "sp"
+			intervals [15]:
+				xmin = 3.440
+				xmax = 3.456
+				text = ""

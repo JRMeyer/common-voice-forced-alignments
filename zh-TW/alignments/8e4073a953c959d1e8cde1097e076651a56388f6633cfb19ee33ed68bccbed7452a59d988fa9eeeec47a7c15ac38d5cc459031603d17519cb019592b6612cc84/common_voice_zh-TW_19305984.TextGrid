@@ -1,0 +1,92 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 5.4
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "words"
+		xmin = 0.0
+		xmax = 5.4
+		intervals: size = 3
+			intervals [1]:
+				xmin = 0.0
+				xmax = 0.630
+				text = ""
+			intervals [2]:
+				xmin = 0.630
+				xmax = 0.990
+				text = "六千人還是很難達到的門檻"
+			intervals [3]:
+				xmin = 0.990
+				xmax = 5.4
+				text = ""
+	item [2]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 5.4
+		intervals: size = 15
+			intervals [1]:
+				xmin = 0.000
+				xmax = 0.630
+				text = "sil"
+			intervals [2]:
+				xmin = 0.630
+				xmax = 0.660
+				text = "六"
+			intervals [3]:
+				xmin = 0.660
+				xmax = 0.690
+				text = "千"
+			intervals [4]:
+				xmin = 0.690
+				xmax = 0.720
+				text = "人"
+			intervals [5]:
+				xmin = 0.720
+				xmax = 0.750
+				text = "還"
+			intervals [6]:
+				xmin = 0.750
+				xmax = 0.780
+				text = "是"
+			intervals [7]:
+				xmin = 0.780
+				xmax = 0.810
+				text = "很"
+			intervals [8]:
+				xmin = 0.810
+				xmax = 0.840
+				text = "難"
+			intervals [9]:
+				xmin = 0.840
+				xmax = 0.870
+				text = "達"
+			intervals [10]:
+				xmin = 0.870
+				xmax = 0.900
+				text = "到"
+			intervals [11]:
+				xmin = 0.900
+				xmax = 0.930
+				text = "的"
+			intervals [12]:
+				xmin = 0.930
+				xmax = 0.960
+				text = "門"
+			intervals [13]:
+				xmin = 0.960
+				xmax = 0.990
+				text = "檻"
+			intervals [14]:
+				xmin = 0.990
+				xmax = 5.380
+				text = "sp"
+			intervals [15]:
+				xmin = 5.380
+				xmax = 5.4
+				text = ""

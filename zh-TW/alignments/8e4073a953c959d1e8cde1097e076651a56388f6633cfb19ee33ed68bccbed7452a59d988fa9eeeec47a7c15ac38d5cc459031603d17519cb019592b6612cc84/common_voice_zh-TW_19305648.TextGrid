@@ -1,0 +1,100 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 5.184
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "words"
+		xmin = 0.0
+		xmax = 5.184
+		intervals: size = 3
+			intervals [1]:
+				xmin = 0.0
+				xmax = 0.100
+				text = ""
+			intervals [2]:
+				xmin = 0.100
+				xmax = 0.600
+				text = "雖然現在有些流程上的討論就是"
+			intervals [3]:
+				xmin = 0.600
+				xmax = 5.184
+				text = ""
+	item [2]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 5.184
+		intervals: size = 17
+			intervals [1]:
+				xmin = 0.000
+				xmax = 0.100
+				text = "sil"
+			intervals [2]:
+				xmin = 0.100
+				xmax = 0.130
+				text = "雖"
+			intervals [3]:
+				xmin = 0.130
+				xmax = 0.160
+				text = "然"
+			intervals [4]:
+				xmin = 0.160
+				xmax = 0.190
+				text = "現"
+			intervals [5]:
+				xmin = 0.190
+				xmax = 0.220
+				text = "在"
+			intervals [6]:
+				xmin = 0.220
+				xmax = 0.250
+				text = "有"
+			intervals [7]:
+				xmin = 0.250
+				xmax = 0.280
+				text = "些"
+			intervals [8]:
+				xmin = 0.280
+				xmax = 0.310
+				text = "流"
+			intervals [9]:
+				xmin = 0.310
+				xmax = 0.340
+				text = "程"
+			intervals [10]:
+				xmin = 0.340
+				xmax = 0.420
+				text = "上"
+			intervals [11]:
+				xmin = 0.420
+				xmax = 0.480
+				text = "的"
+			intervals [12]:
+				xmin = 0.480
+				xmax = 0.510
+				text = "討"
+			intervals [13]:
+				xmin = 0.510
+				xmax = 0.540
+				text = "論"
+			intervals [14]:
+				xmin = 0.540
+				xmax = 0.570
+				text = "就"
+			intervals [15]:
+				xmin = 0.570
+				xmax = 0.600
+				text = "是"
+			intervals [16]:
+				xmin = 0.600
+				xmax = 5.160
+				text = "sp"
+			intervals [17]:
+				xmin = 5.160
+				xmax = 5.184
+				text = ""

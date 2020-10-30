@@ -1,0 +1,96 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 3.36
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "words"
+		xmin = 0.0
+		xmax = 3.36
+		intervals: size = 3
+			intervals [1]:
+				xmin = 0.0
+				xmax = 0.400
+				text = ""
+			intervals [2]:
+				xmin = 0.400
+				xmax = 3.010
+				text = "我不是流浪，而是以天地為家"
+			intervals [3]:
+				xmin = 3.010
+				xmax = 3.36
+				text = ""
+	item [2]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 3.36
+		intervals: size = 16
+			intervals [1]:
+				xmin = 0.000
+				xmax = 0.400
+				text = "sil"
+			intervals [2]:
+				xmin = 0.400
+				xmax = 0.520
+				text = "我"
+			intervals [3]:
+				xmin = 0.520
+				xmax = 0.660
+				text = "不"
+			intervals [4]:
+				xmin = 0.660
+				xmax = 0.850
+				text = "是"
+			intervals [5]:
+				xmin = 0.850
+				xmax = 1.130
+				text = "流"
+			intervals [6]:
+				xmin = 1.130
+				xmax = 1.350
+				text = "浪"
+			intervals [7]:
+				xmin = 1.350
+				xmax = 1.620
+				text = "，"
+			intervals [8]:
+				xmin = 1.620
+				xmax = 1.660
+				text = "而"
+			intervals [9]:
+				xmin = 1.660
+				xmax = 1.880
+				text = "是"
+			intervals [10]:
+				xmin = 1.880
+				xmax = 1.990
+				text = "以"
+			intervals [11]:
+				xmin = 1.990
+				xmax = 2.230
+				text = "天"
+			intervals [12]:
+				xmin = 2.230
+				xmax = 2.420
+				text = "地"
+			intervals [13]:
+				xmin = 2.420
+				xmax = 2.670
+				text = "為"
+			intervals [14]:
+				xmin = 2.670
+				xmax = 3.010
+				text = "家"
+			intervals [15]:
+				xmin = 3.010
+				xmax = 3.340
+				text = "sp"
+			intervals [16]:
+				xmin = 3.340
+				xmax = 3.36
+				text = ""

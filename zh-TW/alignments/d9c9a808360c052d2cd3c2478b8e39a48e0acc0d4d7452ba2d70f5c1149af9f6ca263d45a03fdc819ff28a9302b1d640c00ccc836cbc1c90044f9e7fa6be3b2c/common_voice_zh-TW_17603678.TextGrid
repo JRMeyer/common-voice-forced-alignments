@@ -1,0 +1,100 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 7.2
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "words"
+		xmin = 0.0
+		xmax = 7.2
+		intervals: size = 3
+			intervals [1]:
+				xmin = 0.0
+				xmax = 0.530
+				text = ""
+			intervals [2]:
+				xmin = 0.530
+				xmax = 6.800
+				text = "這裡是我能學到一些東西的地方"
+			intervals [3]:
+				xmin = 6.800
+				xmax = 7.2
+				text = ""
+	item [2]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 7.2
+		intervals: size = 17
+			intervals [1]:
+				xmin = 0.000
+				xmax = 0.530
+				text = "sil"
+			intervals [2]:
+				xmin = 0.530
+				xmax = 0.740
+				text = "這"
+			intervals [3]:
+				xmin = 0.740
+				xmax = 1.340
+				text = "裡"
+			intervals [4]:
+				xmin = 1.340
+				xmax = 1.760
+				text = "是"
+			intervals [5]:
+				xmin = 1.760
+				xmax = 2.250
+				text = "我"
+			intervals [6]:
+				xmin = 2.250
+				xmax = 2.660
+				text = "能"
+			intervals [7]:
+				xmin = 2.660
+				xmax = 3.290
+				text = "學"
+			intervals [8]:
+				xmin = 3.290
+				xmax = 3.550
+				text = "到"
+			intervals [9]:
+				xmin = 3.550
+				xmax = 4.080
+				text = "一"
+			intervals [10]:
+				xmin = 4.080
+				xmax = 4.540
+				text = "些"
+			intervals [11]:
+				xmin = 4.540
+				xmax = 5.060
+				text = "東"
+			intervals [12]:
+				xmin = 5.060
+				xmax = 5.500
+				text = "西"
+			intervals [13]:
+				xmin = 5.500
+				xmax = 6.120
+				text = "的"
+			intervals [14]:
+				xmin = 6.120
+				xmax = 6.580
+				text = "地"
+			intervals [15]:
+				xmin = 6.580
+				xmax = 6.800
+				text = "方"
+			intervals [16]:
+				xmin = 6.800
+				xmax = 7.180
+				text = "sp"
+			intervals [17]:
+				xmin = 7.180
+				xmax = 7.2
+				text = ""

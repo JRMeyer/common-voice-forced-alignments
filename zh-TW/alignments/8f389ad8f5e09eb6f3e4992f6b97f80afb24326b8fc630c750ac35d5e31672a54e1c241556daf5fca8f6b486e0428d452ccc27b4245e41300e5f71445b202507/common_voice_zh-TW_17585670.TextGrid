@@ -1,0 +1,92 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 3.6
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "words"
+		xmin = 0.0
+		xmax = 3.6
+		intervals: size = 3
+			intervals [1]:
+				xmin = 0.0
+				xmax = 0.050
+				text = ""
+			intervals [2]:
+				xmin = 0.050
+				xmax = 3.290
+				text = "昏黃的橘色光芒映照著街景"
+			intervals [3]:
+				xmin = 3.290
+				xmax = 3.6
+				text = ""
+	item [2]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 3.6
+		intervals: size = 15
+			intervals [1]:
+				xmin = 0.000
+				xmax = 0.050
+				text = "sil"
+			intervals [2]:
+				xmin = 0.050
+				xmax = 1.070
+				text = "昏"
+			intervals [3]:
+				xmin = 1.070
+				xmax = 1.130
+				text = "黃"
+			intervals [4]:
+				xmin = 1.130
+				xmax = 1.280
+				text = "的"
+			intervals [5]:
+				xmin = 1.280
+				xmax = 1.420
+				text = "橘"
+			intervals [6]:
+				xmin = 1.420
+				xmax = 1.660
+				text = "色"
+			intervals [7]:
+				xmin = 1.660
+				xmax = 1.740
+				text = "光"
+			intervals [8]:
+				xmin = 1.740
+				xmax = 2.180
+				text = "芒"
+			intervals [9]:
+				xmin = 2.180
+				xmax = 2.380
+				text = "映"
+			intervals [10]:
+				xmin = 2.380
+				xmax = 2.610
+				text = "照"
+			intervals [11]:
+				xmin = 2.610
+				xmax = 2.830
+				text = "著"
+			intervals [12]:
+				xmin = 2.830
+				xmax = 3.010
+				text = "街"
+			intervals [13]:
+				xmin = 3.010
+				xmax = 3.290
+				text = "景"
+			intervals [14]:
+				xmin = 3.290
+				xmax = 3.580
+				text = "sp"
+			intervals [15]:
+				xmin = 3.580
+				xmax = 3.6
+				text = ""

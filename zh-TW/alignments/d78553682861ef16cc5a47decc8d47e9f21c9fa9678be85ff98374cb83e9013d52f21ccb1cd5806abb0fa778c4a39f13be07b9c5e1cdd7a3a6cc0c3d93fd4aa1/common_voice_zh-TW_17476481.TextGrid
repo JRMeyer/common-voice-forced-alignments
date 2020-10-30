@@ -1,0 +1,80 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 3.24
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "words"
+		xmin = 0.0
+		xmax = 3.24
+		intervals: size = 3
+			intervals [1]:
+				xmin = 0.0
+				xmax = 0.850
+				text = ""
+			intervals [2]:
+				xmin = 0.850
+				xmax = 2.990
+				text = "在當時直接做個投票"
+			intervals [3]:
+				xmin = 2.990
+				xmax = 3.24
+				text = ""
+	item [2]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 3.24
+		intervals: size = 12
+			intervals [1]:
+				xmin = 0.000
+				xmax = 0.850
+				text = "sil"
+			intervals [2]:
+				xmin = 0.850
+				xmax = 1.060
+				text = "在"
+			intervals [3]:
+				xmin = 1.060
+				xmax = 1.220
+				text = "當"
+			intervals [4]:
+				xmin = 1.220
+				xmax = 1.560
+				text = "時"
+			intervals [5]:
+				xmin = 1.560
+				xmax = 1.790
+				text = "直"
+			intervals [6]:
+				xmin = 1.790
+				xmax = 2.090
+				text = "接"
+			intervals [7]:
+				xmin = 2.090
+				xmax = 2.260
+				text = "做"
+			intervals [8]:
+				xmin = 2.260
+				xmax = 2.400
+				text = "個"
+			intervals [9]:
+				xmin = 2.400
+				xmax = 2.630
+				text = "投"
+			intervals [10]:
+				xmin = 2.630
+				xmax = 2.990
+				text = "票"
+			intervals [11]:
+				xmin = 2.990
+				xmax = 3.220
+				text = "sp"
+			intervals [12]:
+				xmin = 3.220
+				xmax = 3.24
+				text = ""

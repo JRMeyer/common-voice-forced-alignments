@@ -1,0 +1,96 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 6.0
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "words"
+		xmin = 0.0
+		xmax = 6.0
+		intervals: size = 3
+			intervals [1]:
+				xmin = 0.0
+				xmax = 1.180
+				text = ""
+			intervals [2]:
+				xmin = 1.180
+				xmax = 4.720
+				text = "未來的走向仍待大家共同決定"
+			intervals [3]:
+				xmin = 4.720
+				xmax = 6.0
+				text = ""
+	item [2]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 6.0
+		intervals: size = 16
+			intervals [1]:
+				xmin = 0.000
+				xmax = 1.180
+				text = "sil"
+			intervals [2]:
+				xmin = 1.180
+				xmax = 1.350
+				text = "未"
+			intervals [3]:
+				xmin = 1.350
+				xmax = 1.630
+				text = "來"
+			intervals [4]:
+				xmin = 1.630
+				xmax = 1.820
+				text = "的"
+			intervals [5]:
+				xmin = 1.820
+				xmax = 2.100
+				text = "走"
+			intervals [6]:
+				xmin = 2.100
+				xmax = 2.420
+				text = "向"
+			intervals [7]:
+				xmin = 2.420
+				xmax = 2.720
+				text = "仍"
+			intervals [8]:
+				xmin = 2.720
+				xmax = 2.990
+				text = "待"
+			intervals [9]:
+				xmin = 2.990
+				xmax = 3.140
+				text = "大"
+			intervals [10]:
+				xmin = 3.140
+				xmax = 3.440
+				text = "家"
+			intervals [11]:
+				xmin = 3.440
+				xmax = 3.660
+				text = "共"
+			intervals [12]:
+				xmin = 3.660
+				xmax = 3.990
+				text = "同"
+			intervals [13]:
+				xmin = 3.990
+				xmax = 4.260
+				text = "決"
+			intervals [14]:
+				xmin = 4.260
+				xmax = 4.720
+				text = "定"
+			intervals [15]:
+				xmin = 4.720
+				xmax = 5.980
+				text = "sp"
+			intervals [16]:
+				xmin = 5.980
+				xmax = 6.0
+				text = ""

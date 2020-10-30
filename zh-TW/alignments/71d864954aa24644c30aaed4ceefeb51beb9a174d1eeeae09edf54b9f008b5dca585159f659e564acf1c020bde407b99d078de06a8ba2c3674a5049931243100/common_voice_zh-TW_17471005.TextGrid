@@ -1,0 +1,76 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 2.592
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "words"
+		xmin = 0.0
+		xmax = 2.592
+		intervals: size = 3
+			intervals [1]:
+				xmin = 0.0
+				xmax = 0.670
+				text = ""
+			intervals [2]:
+				xmin = 0.670
+				xmax = 2.150
+				text = "全台灣各縣市政府"
+			intervals [3]:
+				xmin = 2.150
+				xmax = 2.592
+				text = ""
+	item [2]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 2.592
+		intervals: size = 11
+			intervals [1]:
+				xmin = 0.000
+				xmax = 0.670
+				text = "sil"
+			intervals [2]:
+				xmin = 0.670
+				xmax = 0.920
+				text = "全"
+			intervals [3]:
+				xmin = 0.920
+				xmax = 0.970
+				text = "台"
+			intervals [4]:
+				xmin = 0.970
+				xmax = 1.230
+				text = "灣"
+			intervals [5]:
+				xmin = 1.230
+				xmax = 1.420
+				text = "各"
+			intervals [6]:
+				xmin = 1.420
+				xmax = 1.450
+				text = "縣"
+			intervals [7]:
+				xmin = 1.450
+				xmax = 1.900
+				text = "市"
+			intervals [8]:
+				xmin = 1.900
+				xmax = 2.060
+				text = "政"
+			intervals [9]:
+				xmin = 2.060
+				xmax = 2.150
+				text = "府"
+			intervals [10]:
+				xmin = 2.150
+				xmax = 2.570
+				text = "sp"
+			intervals [11]:
+				xmin = 2.570
+				xmax = 2.592
+				text = ""

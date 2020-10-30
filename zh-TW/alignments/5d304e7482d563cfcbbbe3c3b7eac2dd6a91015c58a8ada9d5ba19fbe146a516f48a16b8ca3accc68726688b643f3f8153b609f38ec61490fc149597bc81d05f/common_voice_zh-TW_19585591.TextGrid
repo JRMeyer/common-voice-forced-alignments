@@ -1,0 +1,92 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 3.6
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "words"
+		xmin = 0.0
+		xmax = 3.6
+		intervals: size = 3
+			intervals [1]:
+				xmin = 0.0
+				xmax = 0.390
+				text = ""
+			intervals [2]:
+				xmin = 0.390
+				xmax = 3.060
+				text = "請修正表八之二的文字誤植"
+			intervals [3]:
+				xmin = 3.060
+				xmax = 3.6
+				text = ""
+	item [2]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 3.6
+		intervals: size = 15
+			intervals [1]:
+				xmin = 0.000
+				xmax = 0.390
+				text = "sil"
+			intervals [2]:
+				xmin = 0.390
+				xmax = 0.570
+				text = "請"
+			intervals [3]:
+				xmin = 0.570
+				xmax = 0.860
+				text = "修"
+			intervals [4]:
+				xmin = 0.860
+				xmax = 1.070
+				text = "正"
+			intervals [5]:
+				xmin = 1.070
+				xmax = 1.250
+				text = "表"
+			intervals [6]:
+				xmin = 1.250
+				xmax = 1.610
+				text = "八"
+			intervals [7]:
+				xmin = 1.610
+				xmax = 1.820
+				text = "之"
+			intervals [8]:
+				xmin = 1.820
+				xmax = 2.030
+				text = "二"
+			intervals [9]:
+				xmin = 2.030
+				xmax = 2.120
+				text = "的"
+			intervals [10]:
+				xmin = 2.120
+				xmax = 2.340
+				text = "文"
+			intervals [11]:
+				xmin = 2.340
+				xmax = 2.590
+				text = "字"
+			intervals [12]:
+				xmin = 2.590
+				xmax = 2.840
+				text = "誤"
+			intervals [13]:
+				xmin = 2.840
+				xmax = 3.060
+				text = "植"
+			intervals [14]:
+				xmin = 3.060
+				xmax = 3.580
+				text = "sp"
+			intervals [15]:
+				xmin = 3.580
+				xmax = 3.6
+				text = ""

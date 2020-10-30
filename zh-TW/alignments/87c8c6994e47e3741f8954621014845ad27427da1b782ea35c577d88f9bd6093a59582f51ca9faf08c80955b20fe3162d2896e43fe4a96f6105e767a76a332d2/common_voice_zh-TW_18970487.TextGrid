@@ -1,0 +1,76 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 3.6
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "words"
+		xmin = 0.0
+		xmax = 3.6
+		intervals: size = 3
+			intervals [1]:
+				xmin = 0.0
+				xmax = 0.920
+				text = ""
+			intervals [2]:
+				xmin = 0.920
+				xmax = 2.800
+				text = "位於新北市板橋區"
+			intervals [3]:
+				xmin = 2.800
+				xmax = 3.6
+				text = ""
+	item [2]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 3.6
+		intervals: size = 11
+			intervals [1]:
+				xmin = 0.000
+				xmax = 0.920
+				text = "sil"
+			intervals [2]:
+				xmin = 0.920
+				xmax = 1.040
+				text = "位"
+			intervals [3]:
+				xmin = 1.040
+				xmax = 1.260
+				text = "於"
+			intervals [4]:
+				xmin = 1.260
+				xmax = 1.520
+				text = "新"
+			intervals [5]:
+				xmin = 1.520
+				xmax = 1.650
+				text = "北"
+			intervals [6]:
+				xmin = 1.650
+				xmax = 1.950
+				text = "市"
+			intervals [7]:
+				xmin = 1.950
+				xmax = 2.160
+				text = "板"
+			intervals [8]:
+				xmin = 2.160
+				xmax = 2.380
+				text = "橋"
+			intervals [9]:
+				xmin = 2.380
+				xmax = 2.800
+				text = "區"
+			intervals [10]:
+				xmin = 2.800
+				xmax = 3.580
+				text = "sp"
+			intervals [11]:
+				xmin = 3.580
+				xmax = 3.6
+				text = ""

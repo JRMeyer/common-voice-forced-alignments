@@ -1,0 +1,112 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 3.84
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "words"
+		xmin = 0.0
+		xmax = 3.84
+		intervals: size = 3
+			intervals [1]:
+				xmin = 0.0
+				xmax = 0.360
+				text = ""
+			intervals [2]:
+				xmin = 0.360
+				xmax = 3.320
+				text = "包括國立中央圖書館、圓山、凱悅等地"
+			intervals [3]:
+				xmin = 3.320
+				xmax = 3.84
+				text = ""
+	item [2]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 3.84
+		intervals: size = 20
+			intervals [1]:
+				xmin = 0.000
+				xmax = 0.360
+				text = "sil"
+			intervals [2]:
+				xmin = 0.360
+				xmax = 0.450
+				text = "包"
+			intervals [3]:
+				xmin = 0.450
+				xmax = 0.830
+				text = "括"
+			intervals [4]:
+				xmin = 0.830
+				xmax = 0.950
+				text = "國"
+			intervals [5]:
+				xmin = 0.950
+				xmax = 1.050
+				text = "立"
+			intervals [6]:
+				xmin = 1.050
+				xmax = 1.200
+				text = "中"
+			intervals [7]:
+				xmin = 1.200
+				xmax = 1.390
+				text = "央"
+			intervals [8]:
+				xmin = 1.390
+				xmax = 1.530
+				text = "圖"
+			intervals [9]:
+				xmin = 1.530
+				xmax = 1.720
+				text = "書"
+			intervals [10]:
+				xmin = 1.720
+				xmax = 1.920
+				text = "館"
+			intervals [11]:
+				xmin = 1.920
+				xmax = 1.950
+				text = "、"
+			intervals [12]:
+				xmin = 1.950
+				xmax = 2.150
+				text = "圓"
+			intervals [13]:
+				xmin = 2.150
+				xmax = 2.470
+				text = "山"
+			intervals [14]:
+				xmin = 2.470
+				xmax = 2.540
+				text = "、"
+			intervals [15]:
+				xmin = 2.540
+				xmax = 2.650
+				text = "凱"
+			intervals [16]:
+				xmin = 2.650
+				xmax = 2.920
+				text = "悅"
+			intervals [17]:
+				xmin = 2.920
+				xmax = 3.090
+				text = "等"
+			intervals [18]:
+				xmin = 3.090
+				xmax = 3.320
+				text = "地"
+			intervals [19]:
+				xmin = 3.320
+				xmax = 3.820
+				text = "sp"
+			intervals [20]:
+				xmin = 3.820
+				xmax = 3.84
+				text = ""

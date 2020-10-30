@@ -1,0 +1,100 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 4.2
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "words"
+		xmin = 0.0
+		xmax = 4.2
+		intervals: size = 3
+			intervals [1]:
+				xmin = 0.0
+				xmax = 0.590
+				text = ""
+			intervals [2]:
+				xmin = 0.590
+				xmax = 3.600
+				text = "今天我們開全國司法改革籌備會"
+			intervals [3]:
+				xmin = 3.600
+				xmax = 4.2
+				text = ""
+	item [2]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 4.2
+		intervals: size = 17
+			intervals [1]:
+				xmin = 0.000
+				xmax = 0.590
+				text = "sil"
+			intervals [2]:
+				xmin = 0.590
+				xmax = 0.710
+				text = "今"
+			intervals [3]:
+				xmin = 0.710
+				xmax = 0.940
+				text = "天"
+			intervals [4]:
+				xmin = 0.940
+				xmax = 1.170
+				text = "我"
+			intervals [5]:
+				xmin = 1.170
+				xmax = 1.270
+				text = "們"
+			intervals [6]:
+				xmin = 1.270
+				xmax = 1.480
+				text = "開"
+			intervals [7]:
+				xmin = 1.480
+				xmax = 1.790
+				text = "全"
+			intervals [8]:
+				xmin = 1.790
+				xmax = 2.000
+				text = "國"
+			intervals [9]:
+				xmin = 2.000
+				xmax = 2.280
+				text = "司"
+			intervals [10]:
+				xmin = 2.280
+				xmax = 2.450
+				text = "法"
+			intervals [11]:
+				xmin = 2.450
+				xmax = 2.730
+				text = "改"
+			intervals [12]:
+				xmin = 2.730
+				xmax = 2.860
+				text = "革"
+			intervals [13]:
+				xmin = 2.860
+				xmax = 3.090
+				text = "籌"
+			intervals [14]:
+				xmin = 3.090
+				xmax = 3.200
+				text = "備"
+			intervals [15]:
+				xmin = 3.200
+				xmax = 3.600
+				text = "會"
+			intervals [16]:
+				xmin = 3.600
+				xmax = 4.180
+				text = "sp"
+			intervals [17]:
+				xmin = 4.180
+				xmax = 4.2
+				text = ""

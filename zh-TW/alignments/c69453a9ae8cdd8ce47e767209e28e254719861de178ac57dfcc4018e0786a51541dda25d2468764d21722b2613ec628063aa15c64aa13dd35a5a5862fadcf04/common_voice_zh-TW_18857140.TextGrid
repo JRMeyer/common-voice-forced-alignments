@@ -1,0 +1,76 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 3.48
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "words"
+		xmin = 0.0
+		xmax = 3.48
+		intervals: size = 3
+			intervals [1]:
+				xmin = 0.0
+				xmax = 0.480
+				text = ""
+			intervals [2]:
+				xmin = 0.480
+				xmax = 2.890
+				text = "病毒存活期非常長"
+			intervals [3]:
+				xmin = 2.890
+				xmax = 3.48
+				text = ""
+	item [2]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 3.48
+		intervals: size = 11
+			intervals [1]:
+				xmin = 0.000
+				xmax = 0.480
+				text = "sil"
+			intervals [2]:
+				xmin = 0.480
+				xmax = 0.740
+				text = "病"
+			intervals [3]:
+				xmin = 0.740
+				xmax = 0.920
+				text = "毒"
+			intervals [4]:
+				xmin = 0.920
+				xmax = 1.070
+				text = "存"
+			intervals [5]:
+				xmin = 1.070
+				xmax = 1.440
+				text = "活"
+			intervals [6]:
+				xmin = 1.440
+				xmax = 1.700
+				text = "期"
+			intervals [7]:
+				xmin = 1.700
+				xmax = 2.030
+				text = "非"
+			intervals [8]:
+				xmin = 2.030
+				xmax = 2.760
+				text = "常"
+			intervals [9]:
+				xmin = 2.760
+				xmax = 2.890
+				text = "長"
+			intervals [10]:
+				xmin = 2.890
+				xmax = 3.460
+				text = "sp"
+			intervals [11]:
+				xmin = 3.460
+				xmax = 3.48
+				text = ""

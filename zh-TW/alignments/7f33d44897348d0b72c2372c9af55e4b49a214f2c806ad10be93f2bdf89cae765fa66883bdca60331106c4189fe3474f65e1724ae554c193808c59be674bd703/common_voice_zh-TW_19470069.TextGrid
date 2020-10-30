@@ -1,0 +1,100 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 4.2
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "words"
+		xmin = 0.0
+		xmax = 4.2
+		intervals: size = 3
+			intervals [1]:
+				xmin = 0.0
+				xmax = 0.650
+				text = ""
+			intervals [2]:
+				xmin = 0.650
+				xmax = 3.380
+				text = "解決辦法並不是一下子就要做到"
+			intervals [3]:
+				xmin = 3.380
+				xmax = 4.2
+				text = ""
+	item [2]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 4.2
+		intervals: size = 17
+			intervals [1]:
+				xmin = 0.000
+				xmax = 0.650
+				text = "sil"
+			intervals [2]:
+				xmin = 0.650
+				xmax = 0.780
+				text = "解"
+			intervals [3]:
+				xmin = 0.780
+				xmax = 1.060
+				text = "決"
+			intervals [4]:
+				xmin = 1.060
+				xmax = 1.260
+				text = "辦"
+			intervals [5]:
+				xmin = 1.260
+				xmax = 1.510
+				text = "法"
+			intervals [6]:
+				xmin = 1.510
+				xmax = 1.760
+				text = "並"
+			intervals [7]:
+				xmin = 1.760
+				xmax = 1.880
+				text = "不"
+			intervals [8]:
+				xmin = 1.880
+				xmax = 2.080
+				text = "是"
+			intervals [9]:
+				xmin = 2.080
+				xmax = 2.170
+				text = "一"
+			intervals [10]:
+				xmin = 2.170
+				xmax = 2.460
+				text = "下"
+			intervals [11]:
+				xmin = 2.460
+				xmax = 2.590
+				text = "子"
+			intervals [12]:
+				xmin = 2.590
+				xmax = 2.790
+				text = "就"
+			intervals [13]:
+				xmin = 2.790
+				xmax = 2.880
+				text = "要"
+			intervals [14]:
+				xmin = 2.880
+				xmax = 3.130
+				text = "做"
+			intervals [15]:
+				xmin = 3.130
+				xmax = 3.380
+				text = "到"
+			intervals [16]:
+				xmin = 3.380
+				xmax = 4.180
+				text = "sp"
+			intervals [17]:
+				xmin = 4.180
+				xmax = 4.2
+				text = ""

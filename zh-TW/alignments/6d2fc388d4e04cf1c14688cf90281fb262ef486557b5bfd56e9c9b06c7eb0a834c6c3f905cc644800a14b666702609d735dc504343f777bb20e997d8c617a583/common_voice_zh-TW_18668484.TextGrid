@@ -1,0 +1,88 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 3.84
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "words"
+		xmin = 0.0
+		xmax = 3.84
+		intervals: size = 3
+			intervals [1]:
+				xmin = 0.0
+				xmax = 0.830
+				text = ""
+			intervals [2]:
+				xmin = 0.830
+				xmax = 3.360
+				text = "苟延殘喘的生命獲得延續"
+			intervals [3]:
+				xmin = 3.360
+				xmax = 3.84
+				text = ""
+	item [2]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 3.84
+		intervals: size = 14
+			intervals [1]:
+				xmin = 0.000
+				xmax = 0.830
+				text = "sil"
+			intervals [2]:
+				xmin = 0.830
+				xmax = 1.020
+				text = "苟"
+			intervals [3]:
+				xmin = 1.020
+				xmax = 1.190
+				text = "延"
+			intervals [4]:
+				xmin = 1.190
+				xmax = 1.290
+				text = "殘"
+			intervals [5]:
+				xmin = 1.290
+				xmax = 1.650
+				text = "喘"
+			intervals [6]:
+				xmin = 1.650
+				xmax = 1.730
+				text = "的"
+			intervals [7]:
+				xmin = 1.730
+				xmax = 1.970
+				text = "生"
+			intervals [8]:
+				xmin = 1.970
+				xmax = 2.290
+				text = "命"
+			intervals [9]:
+				xmin = 2.290
+				xmax = 2.610
+				text = "獲"
+			intervals [10]:
+				xmin = 2.610
+				xmax = 2.690
+				text = "得"
+			intervals [11]:
+				xmin = 2.690
+				xmax = 3.010
+				text = "延"
+			intervals [12]:
+				xmin = 3.010
+				xmax = 3.360
+				text = "續"
+			intervals [13]:
+				xmin = 3.360
+				xmax = 3.820
+				text = "sp"
+			intervals [14]:
+				xmin = 3.820
+				xmax = 3.84
+				text = ""

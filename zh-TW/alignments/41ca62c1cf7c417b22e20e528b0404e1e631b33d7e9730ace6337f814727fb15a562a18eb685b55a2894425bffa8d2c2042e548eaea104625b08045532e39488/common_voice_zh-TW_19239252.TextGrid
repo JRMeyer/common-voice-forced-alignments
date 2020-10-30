@@ -1,0 +1,92 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 4.8
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "words"
+		xmin = 0.0
+		xmax = 4.8
+		intervals: size = 3
+			intervals [1]:
+				xmin = 0.0
+				xmax = 1.060
+				text = ""
+			intervals [2]:
+				xmin = 1.060
+				xmax = 4.070
+				text = "應該就要視為單一個名詞了"
+			intervals [3]:
+				xmin = 4.070
+				xmax = 4.8
+				text = ""
+	item [2]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 4.8
+		intervals: size = 15
+			intervals [1]:
+				xmin = 0.000
+				xmax = 1.060
+				text = "sil"
+			intervals [2]:
+				xmin = 1.060
+				xmax = 1.310
+				text = "應"
+			intervals [3]:
+				xmin = 1.310
+				xmax = 1.560
+				text = "該"
+			intervals [4]:
+				xmin = 1.560
+				xmax = 1.860
+				text = "就"
+			intervals [5]:
+				xmin = 1.860
+				xmax = 2.110
+				text = "要"
+			intervals [6]:
+				xmin = 2.110
+				xmax = 2.410
+				text = "視"
+			intervals [7]:
+				xmin = 2.410
+				xmax = 2.680
+				text = "為"
+			intervals [8]:
+				xmin = 2.680
+				xmax = 2.830
+				text = "單"
+			intervals [9]:
+				xmin = 2.830
+				xmax = 3.900
+				text = "一"
+			intervals [10]:
+				xmin = 3.900
+				xmax = 3.970
+				text = "個"
+			intervals [11]:
+				xmin = 3.970
+				xmax = 4.000
+				text = "名"
+			intervals [12]:
+				xmin = 4.000
+				xmax = 4.030
+				text = "詞"
+			intervals [13]:
+				xmin = 4.030
+				xmax = 4.070
+				text = "了"
+			intervals [14]:
+				xmin = 4.070
+				xmax = 4.780
+				text = "sp"
+			intervals [15]:
+				xmin = 4.780
+				xmax = 4.8
+				text = ""

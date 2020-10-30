@@ -1,0 +1,100 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 5.112
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "words"
+		xmin = 0.0
+		xmax = 5.112
+		intervals: size = 3
+			intervals [1]:
+				xmin = 0.0
+				xmax = 0.770
+				text = ""
+			intervals [2]:
+				xmin = 0.770
+				xmax = 4.140
+				text = "所以都要完全說標準的中文數字"
+			intervals [3]:
+				xmin = 4.140
+				xmax = 5.112
+				text = ""
+	item [2]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 5.112
+		intervals: size = 17
+			intervals [1]:
+				xmin = 0.000
+				xmax = 0.770
+				text = "sil"
+			intervals [2]:
+				xmin = 0.770
+				xmax = 0.960
+				text = "所"
+			intervals [3]:
+				xmin = 0.960
+				xmax = 1.200
+				text = "以"
+			intervals [4]:
+				xmin = 1.200
+				xmax = 1.240
+				text = "都"
+			intervals [5]:
+				xmin = 1.240
+				xmax = 1.510
+				text = "要"
+			intervals [6]:
+				xmin = 1.510
+				xmax = 1.710
+				text = "完"
+			intervals [7]:
+				xmin = 1.710
+				xmax = 1.960
+				text = "全"
+			intervals [8]:
+				xmin = 1.960
+				xmax = 2.210
+				text = "說"
+			intervals [9]:
+				xmin = 2.210
+				xmax = 2.570
+				text = "標"
+			intervals [10]:
+				xmin = 2.570
+				xmax = 2.790
+				text = "準"
+			intervals [11]:
+				xmin = 2.790
+				xmax = 2.970
+				text = "的"
+			intervals [12]:
+				xmin = 2.970
+				xmax = 3.200
+				text = "中"
+			intervals [13]:
+				xmin = 3.200
+				xmax = 3.380
+				text = "文"
+			intervals [14]:
+				xmin = 3.380
+				xmax = 3.760
+				text = "數"
+			intervals [15]:
+				xmin = 3.760
+				xmax = 4.140
+				text = "字"
+			intervals [16]:
+				xmin = 4.140
+				xmax = 5.090
+				text = "sp"
+			intervals [17]:
+				xmin = 5.090
+				xmax = 5.112
+				text = ""

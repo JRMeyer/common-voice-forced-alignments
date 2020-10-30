@@ -1,0 +1,88 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 3.12
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "words"
+		xmin = 0.0
+		xmax = 3.12
+		intervals: size = 3
+			intervals [1]:
+				xmin = 0.0
+				xmax = 0.920
+				text = ""
+			intervals [2]:
+				xmin = 0.920
+				xmax = 2.760
+				text = "柏林地鐵宣布開賣女人票"
+			intervals [3]:
+				xmin = 2.760
+				xmax = 3.12
+				text = ""
+	item [2]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 3.12
+		intervals: size = 14
+			intervals [1]:
+				xmin = 0.000
+				xmax = 0.920
+				text = "sil"
+			intervals [2]:
+				xmin = 0.920
+				xmax = 1.070
+				text = "柏"
+			intervals [3]:
+				xmin = 1.070
+				xmax = 1.170
+				text = "林"
+			intervals [4]:
+				xmin = 1.170
+				xmax = 1.410
+				text = "地"
+			intervals [5]:
+				xmin = 1.410
+				xmax = 1.470
+				text = "鐵"
+			intervals [6]:
+				xmin = 1.470
+				xmax = 1.590
+				text = "宣"
+			intervals [7]:
+				xmin = 1.590
+				xmax = 1.790
+				text = "布"
+			intervals [8]:
+				xmin = 1.790
+				xmax = 1.820
+				text = "開"
+			intervals [9]:
+				xmin = 1.820
+				xmax = 2.120
+				text = "賣"
+			intervals [10]:
+				xmin = 2.120
+				xmax = 2.250
+				text = "女"
+			intervals [11]:
+				xmin = 2.250
+				xmax = 2.370
+				text = "人"
+			intervals [12]:
+				xmin = 2.370
+				xmax = 2.760
+				text = "票"
+			intervals [13]:
+				xmin = 2.760
+				xmax = 3.100
+				text = "sp"
+			intervals [14]:
+				xmin = 3.100
+				xmax = 3.12
+				text = ""

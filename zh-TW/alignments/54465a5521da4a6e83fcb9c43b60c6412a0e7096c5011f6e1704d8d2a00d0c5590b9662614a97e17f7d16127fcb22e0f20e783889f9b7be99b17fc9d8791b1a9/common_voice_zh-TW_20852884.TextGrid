@@ -1,0 +1,100 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 5.4
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "words"
+		xmin = 0.0
+		xmax = 5.4
+		intervals: size = 3
+			intervals [1]:
+				xmin = 0.0
+				xmax = 1.100
+				text = ""
+			intervals [2]:
+				xmin = 1.100
+				xmax = 4.370
+				text = "直到最後一口就被一次甜回來了"
+			intervals [3]:
+				xmin = 4.370
+				xmax = 5.4
+				text = ""
+	item [2]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 5.4
+		intervals: size = 17
+			intervals [1]:
+				xmin = 0.000
+				xmax = 1.100
+				text = "sil"
+			intervals [2]:
+				xmin = 1.100
+				xmax = 1.310
+				text = "直"
+			intervals [3]:
+				xmin = 1.310
+				xmax = 1.580
+				text = "到"
+			intervals [4]:
+				xmin = 1.580
+				xmax = 1.810
+				text = "最"
+			intervals [5]:
+				xmin = 1.810
+				xmax = 2.000
+				text = "後"
+			intervals [6]:
+				xmin = 2.000
+				xmax = 2.170
+				text = "一"
+			intervals [7]:
+				xmin = 2.170
+				xmax = 2.540
+				text = "口"
+			intervals [8]:
+				xmin = 2.540
+				xmax = 2.790
+				text = "就"
+			intervals [9]:
+				xmin = 2.790
+				xmax = 2.960
+				text = "被"
+			intervals [10]:
+				xmin = 2.960
+				xmax = 3.150
+				text = "一"
+			intervals [11]:
+				xmin = 3.150
+				xmax = 3.370
+				text = "次"
+			intervals [12]:
+				xmin = 3.370
+				xmax = 3.750
+				text = "甜"
+			intervals [13]:
+				xmin = 3.750
+				xmax = 3.860
+				text = "回"
+			intervals [14]:
+				xmin = 3.860
+				xmax = 4.140
+				text = "來"
+			intervals [15]:
+				xmin = 4.140
+				xmax = 4.370
+				text = "了"
+			intervals [16]:
+				xmin = 4.370
+				xmax = 5.380
+				text = "sp"
+			intervals [17]:
+				xmin = 5.380
+				xmax = 5.4
+				text = ""

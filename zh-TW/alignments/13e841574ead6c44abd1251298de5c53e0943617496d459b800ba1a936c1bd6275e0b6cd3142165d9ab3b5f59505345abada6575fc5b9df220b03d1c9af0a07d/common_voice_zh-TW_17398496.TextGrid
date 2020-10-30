@@ -1,0 +1,92 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 4.2
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "words"
+		xmin = 0.0
+		xmax = 4.2
+		intervals: size = 3
+			intervals [1]:
+				xmin = 0.0
+				xmax = 1.000
+				text = ""
+			intervals [2]:
+				xmin = 1.000
+				xmax = 4.010
+				text = "孤獨的夜裡他秘密立下誓言"
+			intervals [3]:
+				xmin = 4.010
+				xmax = 4.2
+				text = ""
+	item [2]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 4.2
+		intervals: size = 15
+			intervals [1]:
+				xmin = 0.000
+				xmax = 1.000
+				text = "sil"
+			intervals [2]:
+				xmin = 1.000
+				xmax = 1.160
+				text = "孤"
+			intervals [3]:
+				xmin = 1.160
+				xmax = 1.280
+				text = "獨"
+			intervals [4]:
+				xmin = 1.280
+				xmax = 1.350
+				text = "的"
+			intervals [5]:
+				xmin = 1.350
+				xmax = 1.790
+				text = "夜"
+			intervals [6]:
+				xmin = 1.790
+				xmax = 2.300
+				text = "裡"
+			intervals [7]:
+				xmin = 2.300
+				xmax = 2.520
+				text = "他"
+			intervals [8]:
+				xmin = 2.520
+				xmax = 2.580
+				text = "秘"
+			intervals [9]:
+				xmin = 2.580
+				xmax = 3.060
+				text = "密"
+			intervals [10]:
+				xmin = 3.060
+				xmax = 3.090
+				text = "立"
+			intervals [11]:
+				xmin = 3.090
+				xmax = 3.310
+				text = "下"
+			intervals [12]:
+				xmin = 3.310
+				xmax = 3.710
+				text = "誓"
+			intervals [13]:
+				xmin = 3.710
+				xmax = 4.010
+				text = "言"
+			intervals [14]:
+				xmin = 4.010
+				xmax = 4.180
+				text = "sp"
+			intervals [15]:
+				xmin = 4.180
+				xmax = 4.2
+				text = ""

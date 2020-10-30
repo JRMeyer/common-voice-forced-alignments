@@ -1,0 +1,84 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 3.12
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "words"
+		xmin = 0.0
+		xmax = 3.12
+		intervals: size = 3
+			intervals [1]:
+				xmin = 0.0
+				xmax = 1.130
+				text = ""
+			intervals [2]:
+				xmin = 1.130
+				xmax = 3.100
+				text = "不刺激、不示弱、不動氣"
+			intervals [3]:
+				xmin = 3.100
+				xmax = 3.12
+				text = ""
+	item [2]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 3.12
+		intervals: size = 13
+			intervals [1]:
+				xmin = 0.000
+				xmax = 1.130
+				text = "sil"
+			intervals [2]:
+				xmin = 1.130
+				xmax = 1.200
+				text = "不"
+			intervals [3]:
+				xmin = 1.200
+				xmax = 1.480
+				text = "刺"
+			intervals [4]:
+				xmin = 1.480
+				xmax = 1.750
+				text = "激"
+			intervals [5]:
+				xmin = 1.750
+				xmax = 1.780
+				text = "、"
+			intervals [6]:
+				xmin = 1.780
+				xmax = 1.860
+				text = "不"
+			intervals [7]:
+				xmin = 1.860
+				xmax = 2.060
+				text = "示"
+			intervals [8]:
+				xmin = 2.060
+				xmax = 2.460
+				text = "弱"
+			intervals [9]:
+				xmin = 2.460
+				xmax = 2.490
+				text = "、"
+			intervals [10]:
+				xmin = 2.490
+				xmax = 2.590
+				text = "不"
+			intervals [11]:
+				xmin = 2.590
+				xmax = 2.800
+				text = "動"
+			intervals [12]:
+				xmin = 2.800
+				xmax = 3.100
+				text = "氣"
+			intervals [13]:
+				xmin = 3.100
+				xmax = 3.12
+				text = ""

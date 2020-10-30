@@ -1,0 +1,92 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 4.44
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "words"
+		xmin = 0.0
+		xmax = 4.44
+		intervals: size = 3
+			intervals [1]:
+				xmin = 0.0
+				xmax = 0.970
+				text = ""
+			intervals [2]:
+				xmin = 0.970
+				xmax = 3.490
+				text = "她多了四個妹妹和兩個弟弟"
+			intervals [3]:
+				xmin = 3.490
+				xmax = 4.44
+				text = ""
+	item [2]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 4.44
+		intervals: size = 15
+			intervals [1]:
+				xmin = 0.000
+				xmax = 0.970
+				text = "sil"
+			intervals [2]:
+				xmin = 0.970
+				xmax = 1.230
+				text = "她"
+			intervals [3]:
+				xmin = 1.230
+				xmax = 1.490
+				text = "多"
+			intervals [4]:
+				xmin = 1.490
+				xmax = 1.580
+				text = "了"
+			intervals [5]:
+				xmin = 1.580
+				xmax = 1.770
+				text = "四"
+			intervals [6]:
+				xmin = 1.770
+				xmax = 1.810
+				text = "個"
+			intervals [7]:
+				xmin = 1.810
+				xmax = 1.840
+				text = "妹"
+			intervals [8]:
+				xmin = 1.840
+				xmax = 2.340
+				text = "妹"
+			intervals [9]:
+				xmin = 2.340
+				xmax = 2.950
+				text = "和"
+			intervals [10]:
+				xmin = 2.950
+				xmax = 3.060
+				text = "兩"
+			intervals [11]:
+				xmin = 3.060
+				xmax = 3.220
+				text = "個"
+			intervals [12]:
+				xmin = 3.220
+				xmax = 3.250
+				text = "弟"
+			intervals [13]:
+				xmin = 3.250
+				xmax = 3.490
+				text = "弟"
+			intervals [14]:
+				xmin = 3.490
+				xmax = 4.420
+				text = "sp"
+			intervals [15]:
+				xmin = 4.420
+				xmax = 4.44
+				text = ""

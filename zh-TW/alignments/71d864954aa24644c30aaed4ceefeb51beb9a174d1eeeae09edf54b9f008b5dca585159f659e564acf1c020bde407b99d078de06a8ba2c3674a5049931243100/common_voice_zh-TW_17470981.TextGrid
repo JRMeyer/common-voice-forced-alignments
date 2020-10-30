@@ -1,0 +1,92 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 3.6
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "words"
+		xmin = 0.0
+		xmax = 3.6
+		intervals: size = 3
+			intervals [1]:
+				xmin = 0.0
+				xmax = 0.810
+				text = ""
+			intervals [2]:
+				xmin = 0.810
+				xmax = 3.190
+				text = "把可能產生的損害降到最低"
+			intervals [3]:
+				xmin = 3.190
+				xmax = 3.6
+				text = ""
+	item [2]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 3.6
+		intervals: size = 15
+			intervals [1]:
+				xmin = 0.000
+				xmax = 0.810
+				text = "sil"
+			intervals [2]:
+				xmin = 0.810
+				xmax = 0.980
+				text = "把"
+			intervals [3]:
+				xmin = 0.980
+				xmax = 1.140
+				text = "可"
+			intervals [4]:
+				xmin = 1.140
+				xmax = 1.360
+				text = "能"
+			intervals [5]:
+				xmin = 1.360
+				xmax = 1.520
+				text = "產"
+			intervals [6]:
+				xmin = 1.520
+				xmax = 1.550
+				text = "生"
+			intervals [7]:
+				xmin = 1.550
+				xmax = 1.580
+				text = "的"
+			intervals [8]:
+				xmin = 1.580
+				xmax = 2.310
+				text = "損"
+			intervals [9]:
+				xmin = 2.310
+				xmax = 2.640
+				text = "害"
+			intervals [10]:
+				xmin = 2.640
+				xmax = 2.850
+				text = "降"
+			intervals [11]:
+				xmin = 2.850
+				xmax = 3.030
+				text = "到"
+			intervals [12]:
+				xmin = 3.030
+				xmax = 3.160
+				text = "最"
+			intervals [13]:
+				xmin = 3.160
+				xmax = 3.190
+				text = "低"
+			intervals [14]:
+				xmin = 3.190
+				xmax = 3.580
+				text = "sp"
+			intervals [15]:
+				xmin = 3.580
+				xmax = 3.6
+				text = ""

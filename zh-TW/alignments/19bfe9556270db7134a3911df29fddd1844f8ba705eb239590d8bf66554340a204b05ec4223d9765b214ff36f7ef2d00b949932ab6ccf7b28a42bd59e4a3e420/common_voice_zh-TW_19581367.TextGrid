@@ -1,0 +1,96 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 6.0
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "words"
+		xmin = 0.0
+		xmax = 6.0
+		intervals: size = 3
+			intervals [1]:
+				xmin = 0.0
+				xmax = 0.790
+				text = ""
+			intervals [2]:
+				xmin = 0.790
+				xmax = 5.230
+				text = "尊重人民平等權利及自決原則"
+			intervals [3]:
+				xmin = 5.230
+				xmax = 6.0
+				text = ""
+	item [2]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 6.0
+		intervals: size = 16
+			intervals [1]:
+				xmin = 0.000
+				xmax = 0.790
+				text = "sil"
+			intervals [2]:
+				xmin = 0.790
+				xmax = 0.950
+				text = "尊"
+			intervals [3]:
+				xmin = 0.950
+				xmax = 1.200
+				text = "重"
+			intervals [4]:
+				xmin = 1.200
+				xmax = 1.340
+				text = "人"
+			intervals [5]:
+				xmin = 1.340
+				xmax = 1.370
+				text = "民"
+			intervals [6]:
+				xmin = 1.370
+				xmax = 1.450
+				text = "平"
+			intervals [7]:
+				xmin = 1.450
+				xmax = 2.940
+				text = "等"
+			intervals [8]:
+				xmin = 2.940
+				xmax = 3.290
+				text = "權"
+			intervals [9]:
+				xmin = 3.290
+				xmax = 3.470
+				text = "利"
+			intervals [10]:
+				xmin = 3.470
+				xmax = 3.860
+				text = "及"
+			intervals [11]:
+				xmin = 3.860
+				xmax = 4.210
+				text = "自"
+			intervals [12]:
+				xmin = 4.210
+				xmax = 4.650
+				text = "決"
+			intervals [13]:
+				xmin = 4.650
+				xmax = 4.880
+				text = "原"
+			intervals [14]:
+				xmin = 4.880
+				xmax = 5.230
+				text = "則"
+			intervals [15]:
+				xmin = 5.230
+				xmax = 5.980
+				text = "sp"
+			intervals [16]:
+				xmin = 5.980
+				xmax = 6.0
+				text = ""

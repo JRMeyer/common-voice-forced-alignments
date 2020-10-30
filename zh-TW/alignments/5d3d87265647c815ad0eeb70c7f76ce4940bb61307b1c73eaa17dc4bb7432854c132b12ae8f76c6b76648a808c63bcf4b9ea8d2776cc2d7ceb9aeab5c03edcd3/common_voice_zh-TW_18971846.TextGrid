@@ -1,0 +1,92 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 4.8
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "words"
+		xmin = 0.0
+		xmax = 4.8
+		intervals: size = 3
+			intervals [1]:
+				xmin = 0.0
+				xmax = 0.590
+				text = ""
+			intervals [2]:
+				xmin = 0.590
+				xmax = 3.480
+				text = "專業非專業是一種分類標準"
+			intervals [3]:
+				xmin = 3.480
+				xmax = 4.8
+				text = ""
+	item [2]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 4.8
+		intervals: size = 15
+			intervals [1]:
+				xmin = 0.000
+				xmax = 0.590
+				text = "sil"
+			intervals [2]:
+				xmin = 0.590
+				xmax = 0.800
+				text = "專"
+			intervals [3]:
+				xmin = 0.800
+				xmax = 1.170
+				text = "業"
+			intervals [4]:
+				xmin = 1.170
+				xmax = 1.550
+				text = "非"
+			intervals [5]:
+				xmin = 1.550
+				xmax = 1.730
+				text = "專"
+			intervals [6]:
+				xmin = 1.730
+				xmax = 2.070
+				text = "業"
+			intervals [7]:
+				xmin = 2.070
+				xmax = 2.290
+				text = "是"
+			intervals [8]:
+				xmin = 2.290
+				xmax = 2.430
+				text = "一"
+			intervals [9]:
+				xmin = 2.430
+				xmax = 2.610
+				text = "種"
+			intervals [10]:
+				xmin = 2.610
+				xmax = 2.810
+				text = "分"
+			intervals [11]:
+				xmin = 2.810
+				xmax = 3.000
+				text = "類"
+			intervals [12]:
+				xmin = 3.000
+				xmax = 3.210
+				text = "標"
+			intervals [13]:
+				xmin = 3.210
+				xmax = 3.480
+				text = "準"
+			intervals [14]:
+				xmin = 3.480
+				xmax = 4.780
+				text = "sp"
+			intervals [15]:
+				xmin = 4.780
+				xmax = 4.8
+				text = ""

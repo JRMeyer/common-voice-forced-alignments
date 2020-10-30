@@ -1,0 +1,88 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 3.96
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "words"
+		xmin = 0.0
+		xmax = 3.96
+		intervals: size = 3
+			intervals [1]:
+				xmin = 0.0
+				xmax = 0.040
+				text = ""
+			intervals [2]:
+				xmin = 0.040
+				xmax = 3.590
+				text = "也添加了自動翻譯的功能"
+			intervals [3]:
+				xmin = 3.590
+				xmax = 3.96
+				text = ""
+	item [2]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 3.96
+		intervals: size = 14
+			intervals [1]:
+				xmin = 0.000
+				xmax = 0.040
+				text = "sil"
+			intervals [2]:
+				xmin = 0.040
+				xmax = 0.130
+				text = "也"
+			intervals [3]:
+				xmin = 0.130
+				xmax = 1.460
+				text = "添"
+			intervals [4]:
+				xmin = 1.460
+				xmax = 2.060
+				text = "加"
+			intervals [5]:
+				xmin = 2.060
+				xmax = 2.270
+				text = "了"
+			intervals [6]:
+				xmin = 2.270
+				xmax = 2.470
+				text = "自"
+			intervals [7]:
+				xmin = 2.470
+				xmax = 2.710
+				text = "動"
+			intervals [8]:
+				xmin = 2.710
+				xmax = 2.760
+				text = "翻"
+			intervals [9]:
+				xmin = 2.760
+				xmax = 3.020
+				text = "譯"
+			intervals [10]:
+				xmin = 3.020
+				xmax = 3.170
+				text = "的"
+			intervals [11]:
+				xmin = 3.170
+				xmax = 3.370
+				text = "功"
+			intervals [12]:
+				xmin = 3.370
+				xmax = 3.590
+				text = "能"
+			intervals [13]:
+				xmin = 3.590
+				xmax = 3.940
+				text = "sp"
+			intervals [14]:
+				xmin = 3.940
+				xmax = 3.96
+				text = ""

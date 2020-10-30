@@ -1,0 +1,88 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 4.2
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "words"
+		xmin = 0.0
+		xmax = 4.2
+		intervals: size = 3
+			intervals [1]:
+				xmin = 0.0
+				xmax = 0.680
+				text = ""
+			intervals [2]:
+				xmin = 0.680
+				xmax = 3.290
+				text = "貼上去後加上適當的護貝"
+			intervals [3]:
+				xmin = 3.290
+				xmax = 4.2
+				text = ""
+	item [2]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 4.2
+		intervals: size = 14
+			intervals [1]:
+				xmin = 0.000
+				xmax = 0.680
+				text = "sil"
+			intervals [2]:
+				xmin = 0.680
+				xmax = 0.800
+				text = "貼"
+			intervals [3]:
+				xmin = 0.800
+				xmax = 1.040
+				text = "上"
+			intervals [4]:
+				xmin = 1.040
+				xmax = 1.240
+				text = "去"
+			intervals [5]:
+				xmin = 1.240
+				xmax = 1.630
+				text = "後"
+			intervals [6]:
+				xmin = 1.630
+				xmax = 1.830
+				text = "加"
+			intervals [7]:
+				xmin = 1.830
+				xmax = 2.170
+				text = "上"
+			intervals [8]:
+				xmin = 2.170
+				xmax = 2.380
+				text = "適"
+			intervals [9]:
+				xmin = 2.380
+				xmax = 2.630
+				text = "當"
+			intervals [10]:
+				xmin = 2.630
+				xmax = 2.720
+				text = "的"
+			intervals [11]:
+				xmin = 2.720
+				xmax = 3.020
+				text = "護"
+			intervals [12]:
+				xmin = 3.020
+				xmax = 3.290
+				text = "貝"
+			intervals [13]:
+				xmin = 3.290
+				xmax = 4.180
+				text = "sp"
+			intervals [14]:
+				xmin = 4.180
+				xmax = 4.2
+				text = ""

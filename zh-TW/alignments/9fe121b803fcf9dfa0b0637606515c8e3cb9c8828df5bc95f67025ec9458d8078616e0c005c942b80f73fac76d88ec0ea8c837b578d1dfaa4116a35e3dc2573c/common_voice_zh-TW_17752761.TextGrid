@@ -1,0 +1,80 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 2.304
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "words"
+		xmin = 0.0
+		xmax = 2.304
+		intervals: size = 3
+			intervals [1]:
+				xmin = 0.0
+				xmax = 0.390
+				text = ""
+			intervals [2]:
+				xmin = 0.390
+				xmax = 2.090
+				text = "基隆市的七堵、五堵"
+			intervals [3]:
+				xmin = 2.090
+				xmax = 2.304
+				text = ""
+	item [2]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 2.304
+		intervals: size = 12
+			intervals [1]:
+				xmin = 0.000
+				xmax = 0.390
+				text = "sil"
+			intervals [2]:
+				xmin = 0.390
+				xmax = 0.500
+				text = "基"
+			intervals [3]:
+				xmin = 0.500
+				xmax = 0.760
+				text = "隆"
+			intervals [4]:
+				xmin = 0.760
+				xmax = 0.920
+				text = "市"
+			intervals [5]:
+				xmin = 0.920
+				xmax = 1.080
+				text = "的"
+			intervals [6]:
+				xmin = 1.080
+				xmax = 1.250
+				text = "七"
+			intervals [7]:
+				xmin = 1.250
+				xmax = 1.280
+				text = "堵"
+			intervals [8]:
+				xmin = 1.280
+				xmax = 2.000
+				text = "、"
+			intervals [9]:
+				xmin = 2.000
+				xmax = 2.060
+				text = "五"
+			intervals [10]:
+				xmin = 2.060
+				xmax = 2.090
+				text = "堵"
+			intervals [11]:
+				xmin = 2.090
+				xmax = 2.280
+				text = "sp"
+			intervals [12]:
+				xmin = 2.280
+				xmax = 2.304
+				text = ""

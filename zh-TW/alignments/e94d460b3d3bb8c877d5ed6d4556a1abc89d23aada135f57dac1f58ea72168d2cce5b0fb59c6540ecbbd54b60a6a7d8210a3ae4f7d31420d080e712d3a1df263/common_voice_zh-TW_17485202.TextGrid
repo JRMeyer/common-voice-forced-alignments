@@ -1,0 +1,84 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 3.36
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "words"
+		xmin = 0.0
+		xmax = 3.36
+		intervals: size = 3
+			intervals [1]:
+				xmin = 0.0
+				xmax = 0.240
+				text = ""
+			intervals [2]:
+				xmin = 0.240
+				xmax = 3.020
+				text = "近三年離職率一直在降"
+			intervals [3]:
+				xmin = 3.020
+				xmax = 3.36
+				text = ""
+	item [2]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 3.36
+		intervals: size = 13
+			intervals [1]:
+				xmin = 0.000
+				xmax = 0.240
+				text = "sil"
+			intervals [2]:
+				xmin = 0.240
+				xmax = 0.530
+				text = "近"
+			intervals [3]:
+				xmin = 0.530
+				xmax = 0.800
+				text = "三"
+			intervals [4]:
+				xmin = 0.800
+				xmax = 1.270
+				text = "年"
+			intervals [5]:
+				xmin = 1.270
+				xmax = 1.460
+				text = "離"
+			intervals [6]:
+				xmin = 1.460
+				xmax = 1.660
+				text = "職"
+			intervals [7]:
+				xmin = 1.660
+				xmax = 2.010
+				text = "率"
+			intervals [8]:
+				xmin = 2.010
+				xmax = 2.270
+				text = "一"
+			intervals [9]:
+				xmin = 2.270
+				xmax = 2.460
+				text = "直"
+			intervals [10]:
+				xmin = 2.460
+				xmax = 2.790
+				text = "在"
+			intervals [11]:
+				xmin = 2.790
+				xmax = 3.020
+				text = "降"
+			intervals [12]:
+				xmin = 3.020
+				xmax = 3.340
+				text = "sp"
+			intervals [13]:
+				xmin = 3.340
+				xmax = 3.36
+				text = ""

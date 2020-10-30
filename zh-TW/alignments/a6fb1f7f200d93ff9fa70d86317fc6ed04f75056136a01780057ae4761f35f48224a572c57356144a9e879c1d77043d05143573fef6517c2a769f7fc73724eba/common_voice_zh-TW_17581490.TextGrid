@@ -1,0 +1,92 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 3.0
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "words"
+		xmin = 0.0
+		xmax = 3.0
+		intervals: size = 3
+			intervals [1]:
+				xmin = 0.0
+				xmax = 0.340
+				text = ""
+			intervals [2]:
+				xmin = 0.340
+				xmax = 2.610
+				text = "表示北市府過去的說明不夠"
+			intervals [3]:
+				xmin = 2.610
+				xmax = 3.0
+				text = ""
+	item [2]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 3.0
+		intervals: size = 15
+			intervals [1]:
+				xmin = 0.000
+				xmax = 0.340
+				text = "sil"
+			intervals [2]:
+				xmin = 0.340
+				xmax = 0.490
+				text = "表"
+			intervals [3]:
+				xmin = 0.490
+				xmax = 0.780
+				text = "示"
+			intervals [4]:
+				xmin = 0.780
+				xmax = 0.880
+				text = "北"
+			intervals [5]:
+				xmin = 0.880
+				xmax = 1.210
+				text = "市"
+			intervals [6]:
+				xmin = 1.210
+				xmax = 1.360
+				text = "府"
+			intervals [7]:
+				xmin = 1.360
+				xmax = 1.520
+				text = "過"
+			intervals [8]:
+				xmin = 1.520
+				xmax = 1.730
+				text = "去"
+			intervals [9]:
+				xmin = 1.730
+				xmax = 1.830
+				text = "的"
+			intervals [10]:
+				xmin = 1.830
+				xmax = 2.050
+				text = "說"
+			intervals [11]:
+				xmin = 2.050
+				xmax = 2.220
+				text = "明"
+			intervals [12]:
+				xmin = 2.220
+				xmax = 2.320
+				text = "不"
+			intervals [13]:
+				xmin = 2.320
+				xmax = 2.610
+				text = "夠"
+			intervals [14]:
+				xmin = 2.610
+				xmax = 2.980
+				text = "sp"
+			intervals [15]:
+				xmin = 2.980
+				xmax = 3.0
+				text = ""

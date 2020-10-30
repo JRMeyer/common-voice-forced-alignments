@@ -1,0 +1,88 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 3.6
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "words"
+		xmin = 0.0
+		xmax = 3.6
+		intervals: size = 3
+			intervals [1]:
+				xmin = 0.0
+				xmax = 0.650
+				text = ""
+			intervals [2]:
+				xmin = 0.650
+				xmax = 3.220
+				text = "決議新聞組之下增設三人"
+			intervals [3]:
+				xmin = 3.220
+				xmax = 3.6
+				text = ""
+	item [2]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 3.6
+		intervals: size = 14
+			intervals [1]:
+				xmin = 0.000
+				xmax = 0.650
+				text = "sil"
+			intervals [2]:
+				xmin = 0.650
+				xmax = 0.800
+				text = "決"
+			intervals [3]:
+				xmin = 0.800
+				xmax = 0.970
+				text = "議"
+			intervals [4]:
+				xmin = 0.970
+				xmax = 1.240
+				text = "新"
+			intervals [5]:
+				xmin = 1.240
+				xmax = 1.470
+				text = "聞"
+			intervals [6]:
+				xmin = 1.470
+				xmax = 1.720
+				text = "組"
+			intervals [7]:
+				xmin = 1.720
+				xmax = 1.910
+				text = "之"
+			intervals [8]:
+				xmin = 1.910
+				xmax = 2.290
+				text = "下"
+			intervals [9]:
+				xmin = 2.290
+				xmax = 2.460
+				text = "增"
+			intervals [10]:
+				xmin = 2.460
+				xmax = 2.710
+				text = "設"
+			intervals [11]:
+				xmin = 2.710
+				xmax = 2.950
+				text = "三"
+			intervals [12]:
+				xmin = 2.950
+				xmax = 3.220
+				text = "人"
+			intervals [13]:
+				xmin = 3.220
+				xmax = 3.580
+				text = "sp"
+			intervals [14]:
+				xmin = 3.580
+				xmax = 3.6
+				text = ""

@@ -1,0 +1,100 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 3.6
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "words"
+		xmin = 0.0
+		xmax = 3.6
+		intervals: size = 3
+			intervals [1]:
+				xmin = 0.0
+				xmax = 0.560
+				text = ""
+			intervals [2]:
+				xmin = 0.560
+				xmax = 3.090
+				text = "任何人應該享有平等學習的機會"
+			intervals [3]:
+				xmin = 3.090
+				xmax = 3.6
+				text = ""
+	item [2]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 3.6
+		intervals: size = 17
+			intervals [1]:
+				xmin = 0.000
+				xmax = 0.560
+				text = "sil"
+			intervals [2]:
+				xmin = 0.560
+				xmax = 0.600
+				text = "任"
+			intervals [3]:
+				xmin = 0.600
+				xmax = 0.960
+				text = "何"
+			intervals [4]:
+				xmin = 0.960
+				xmax = 1.050
+				text = "人"
+			intervals [5]:
+				xmin = 1.050
+				xmax = 1.170
+				text = "應"
+			intervals [6]:
+				xmin = 1.170
+				xmax = 1.340
+				text = "該"
+			intervals [7]:
+				xmin = 1.340
+				xmax = 1.510
+				text = "享"
+			intervals [8]:
+				xmin = 1.510
+				xmax = 1.720
+				text = "有"
+			intervals [9]:
+				xmin = 1.720
+				xmax = 1.900
+				text = "平"
+			intervals [10]:
+				xmin = 1.900
+				xmax = 2.070
+				text = "等"
+			intervals [11]:
+				xmin = 2.070
+				xmax = 2.300
+				text = "學"
+			intervals [12]:
+				xmin = 2.300
+				xmax = 2.430
+				text = "習"
+			intervals [13]:
+				xmin = 2.430
+				xmax = 2.590
+				text = "的"
+			intervals [14]:
+				xmin = 2.590
+				xmax = 2.810
+				text = "機"
+			intervals [15]:
+				xmin = 2.810
+				xmax = 3.090
+				text = "會"
+			intervals [16]:
+				xmin = 3.090
+				xmax = 3.580
+				text = "sp"
+			intervals [17]:
+				xmin = 3.580
+				xmax = 3.6
+				text = ""
